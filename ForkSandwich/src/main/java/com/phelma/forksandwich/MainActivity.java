@@ -1,13 +1,16 @@
 package com.phelma.forksandwich;
+/*
+Il y a pas mal d'import inutiles, j'ai commenté ceux qui ne servent pas.
+ */
 import java.io.BufferedReader;
-import java.io.FileOutputStream;
+//  import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+//  import java.io.OutputStreamWriter;
 import java.nio.charset.Charset;
 import java.nio.charset.CharsetDecoder;
-import java.sql.Date;
+//  import java.sql.Date;
 import java.util.StringTokenizer;
 
 import android.os.Bundle;
@@ -15,18 +18,21 @@ import android.os.Handler;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.res.AssetManager;
-import android.os.SystemClock;
+//  import android.os.SystemClock;
 import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Chronometer;
 import android.widget.EditText;
-import android.widget.ProgressBar;
+//  import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+    /*
+    Tout ça, la plupart ne sert à rien. Mais bon, ce n'est pas le problème :)
+     */
     //private static final int PROGRESS = 0x1;
     Button calcul,show;
     TextView mymatf,mymatc,results;
@@ -40,7 +46,9 @@ public class MainActivity extends Activity {
     //int progressBarStatus;
     private Handler progressBarHandler = new Handler();
 
-
+    /*
+    J'ai regroupé les variables de même famille, soucis de lisibilité.
+     */
     int nbmatf,nbmatc;
     String[] materialf;
     Double[] rhominf,rhomaxf,Eminf,Emaxf,sigminf,sigmaxf,numinf,numaxf,condminf,condmaxf;
@@ -52,6 +60,9 @@ public class MainActivity extends Activity {
 
     int nbcase, nbsol;
 
+    /*
+    Fonction inutilisée. Je la laisse en attendant de savoir à quoi elle sert.
+     */
     void lecturef(String name)
     {
         AssetManager mngr;
@@ -140,7 +151,10 @@ public class MainActivity extends Activity {
         }
     }
 
-
+    /*
+    Fonction que j'ai rajouté histoire de tester l'accès aux fichiers. N'est plus utilisée, à part
+    pour comprendre le fonctionnement des assets.
+     */
     void test_lecture(String name)
     {
         AssetManager mngr;
@@ -156,6 +170,11 @@ public class MainActivity extends Activity {
             }
         Toast.makeText(this,files[0] + " Lu", Toast.LENGTH_LONG).show();
     }
+
+    /*
+    Et c'est parti ! Fonction utilisée pour lire face.txt. Enregistre dans des tableaux.
+     */
+
     void lecture_face(String name)
     {
         AssetManager mngr;
@@ -163,7 +182,7 @@ public class MainActivity extends Activity {
         Charset charset = Charset.forName("ISO_8859_1");
         CharsetDecoder charsetDecoder = charset.newDecoder();
 
-            try{
+            try{                    // Permet de retrouver un code d'erreur, sans faire planter l'appli.
                 mngr= getAssets();
 
             InputStream is = mngr.open(name);
@@ -178,7 +197,7 @@ public class MainActivity extends Activity {
             condminf=new Double[nbmatf];condmaxf=new Double[nbmatf];condmoyf=new Double[nbmatf];
             materialf=new String[nbmatf];
             int nb=0;
-            while((line=br.readLine())!=null){
+            while((line=br.readLine())!=null){  // Lecture. Ressemble à ce qu'on fait en C, avec un séparateur de champs.
                 StringTokenizer t = new StringTokenizer(line,";");
                 Eminf[nb]= 1e9*(new Double(t.nextToken())).doubleValue();
                 Emaxf[nb]= 1e9*(new Double(t.nextToken())).doubleValue();
@@ -206,6 +225,9 @@ public class MainActivity extends Activity {
         }
     }
 
+    /*
+    Fichier core.txt
+     */
     void lecture_core(String name)
     {
         AssetManager mngr;
@@ -258,6 +280,11 @@ public class MainActivity extends Activity {
         }
     }
 
+    /*
+    Calcul des valeurs utiles. Si on compare aux datas du logiciel CES, on retrouve plus ou moins
+    les mêmes trucs. Cool.
+     */
+
     void calcul(double tmin, double tmax, double dt,
                 double cmin, double cmax, double dc,
                 double mmin, double mmax,
@@ -267,8 +294,8 @@ public class MainActivity extends Activity {
 
         nbcase=0;
         nbsol=0;
-        for (int i=0;i<nbmatf;i++){
-        for (int j=0;j<nbmatc;j++){
+        for(int i=0;i<nbmatf;i++){
+        for(int j=0;j<nbmatc;j++){
         for(double t=tmin;t<=tmax;t=t+dt){
         for(double c=cmin;c<=cmax;c=c+dc){
             double sand_mass=(2*rhomoyf[i]*t*1e-3+rhomoyc[j]*c*1e-3);
@@ -278,19 +305,22 @@ public class MainActivity extends Activity {
             double rig1=L*L*L/(24*Emoyf[i]*t*d*d);
             double rig2=L*t/(4*Emoyc[i]*b*d*d/2.6);
             double sand_rig=1/(rig1+rig2);
-
             nbcase=nbcase+1;
             if ( (sand_mass<=mmax && sand_mass>=mmin) &&(sand_rig<=rigmax && sand_rig>=rigmin)) {
                 nbsol=nbsol+1;
                 results.setText("nb sol ="+nbsol+ "/"+nbcase);
+                // C'est ma que je ne comprends pas : Pourquoi retourner CES valeurs qui ne servent à rien ?
                 //solution[nbsol] = materialf[i] +";" + materialc[j] +";" + t  +";" + c +";" + sand_mass +";" + sand_rig;
             }
         }
         }
         }
         }
-        }
+    }
 
+    /*
+    Récupération des valeurs depuis les champs.
+     */
     void getvalues()
     {
        try{
@@ -381,6 +411,9 @@ public class MainActivity extends Activity {
 
     }
 
+    /*
+    Fonction globale.
+     */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -408,8 +441,8 @@ public class MainActivity extends Activity {
 
 
         results.setText("");
-//        lecturef("faces.txt");
-//           lecturec("foam.txt");
+//        lecturef("faces.txt");        // C'était déjà commenté… Je sais pas pourquoi…
+//           lecturec("foam.txt");      // Idem
         lecture_face("face.txt");
         lecture_core("core.txt");
         //test_lecture("assets/core.txt");
