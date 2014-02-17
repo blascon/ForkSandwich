@@ -1,0 +1,747 @@
+746
+ABS foam (structural, 0.85);1.2;1.3;840;860
+Afrormosia (l);13.2;16.2;680;830
+Afrormosia (t);2.54;2.83;680;830
+Albarco (l);10.2;12.5;520;640
+Albarco (t);1.19;1.32;520;640
+Alder (alnus glutinosa) (l);9.4;11.5;480;580
+Alder (alnus glutinosa) (t);0.89;1;480;580
+Alder (alnus ruba) (l);9.4;11.5;410;510
+Alder (alnus ruba) (t);0.58;0.65;410;510
+Alumina foam (92%)(0.61);2.1;2.6;550;670
+Alumina foam (99%)(0.825);3;4;800;850
+Alumina foam (99.5%)(0.745);2.3;2.7;650;840
+Alumina foam (99.8%)(0.4);1.9;3.8;392;408
+Alumina foam (99.8%)(0.8);7.6;15.2;784;816
+Alumina foam (99.8%)(1.2);17.1;34.2;1.18e3;1.22e3
+Aluminum 3003 honeycomb (0.022), L Direction;1.91e-5;2.94e-5;22;22.8
+Aluminum 3003 honeycomb (0.022), W Direction;5.5e-5;6.08e-5;22;22.8
+Aluminum 3003 honeycomb (0.029), L Direction;3.99e-5;6.25e-5;28.2;29.4
+Aluminum 3003 honeycomb (0.029), W Direction;1.17e-4;1.29e-4;28.2;29.4
+Aluminum 3003 honeycomb (0.04), L Direction;9.54e-5;1.65e-4;36.8;41.6
+Aluminum 3003 honeycomb (0.04), W Direction;2.55e-4;3.73e-4;36.8;41.6
+Aluminum 3003 honeycomb (0.055), L Direction;3.11e-4;4.8e-4;54.4;59.2
+Aluminum 3003 honeycomb (0.055), W Direction;8.24e-4;0.00108;54.4;59.2
+Aluminum 3003 honeycomb (0.083), L Direction;9.76e-4;0.00151;81.5;84.9
+Aluminum 3003 honeycomb (0.083), W Direction;0.00282;0.00312;81.5;84.9
+Aluminum 5052 honeycomb (0.016), L Direction;7.32e-6;1.13e-5;15.7;16.3
+Aluminum 5052 honeycomb (0.016), W Direction;2.11e-5;2.34e-5;15.7;16.3
+Aluminum 5052 honeycomb (0.025), L Direction;3e-5;4.62e-5;25.1;26.1
+Aluminum 5052 honeycomb (0.025), W Direction;8.66e-5;9.57e-5;25.1;26.1
+Aluminum 5052 honeycomb (0.038), L Direction;9.82e-5;1.74e-4;36.8;41.6
+Aluminum 5052 honeycomb (0.038), W Direction;2.67e-4;3.96e-4;36.8;41.6
+Aluminum 5052 honeycomb (0.05), L Direction;2.2e-4;3.9e-4;48;54.4
+Aluminum 5052 honeycomb (0.05), W Direction;5.93e-4;8.86e-4;48;54.4
+Aluminum 5052 honeycomb (0.06), L Direction;3.88e-4;5.94e-4;58.8;61.2
+Aluminum 5052 honeycomb (0.06), W Direction;0.00111;0.00124;58.8;61.2
+Aluminum 5052 honeycomb (0.07), L Direction;6.05e-4;9.33e-4;67.2;72
+Aluminum 5052 honeycomb (0.07), W Direction;0.00163;0.00205;67.2;72
+Aluminum 5052 honeycomb (0.085), L Direction;0.0011;0.00168;83.1;86.5
+Aluminum 5052 honeycomb (0.085), W Direction;0.00309;0.00355;83.1;86.5
+Aluminum 5052 honeycomb (0.091), L Direction;0.00136;0.00209;89.4;93
+Aluminum 5052 honeycomb (0.091), W Direction;0.00392;0.00433;89.4;93
+Aluminum 5052 honeycomb (0.097), L Direction;0.00163;0.0025;94.9;98.7
+Aluminum 5052 honeycomb (0.097), W Direction;0.00468;0.00518;94.9;98.7
+Aluminum 5052 honeycomb (0.107), L Direction;0.00222;0.00338;104;110
+Aluminum 5052 honeycomb (0.107), W Direction;0.00603;0.0074;104;110
+Aluminum 5052 honeycomb (0.13), L Direction;0.00399;0.00611;126;134
+Aluminum 5052 honeycomb (0.13), W Direction;0.0108;0.0134;126;134
+Aluminum 5052 honeycomb (0.147), L Direction;0.00571;0.00881;144;150
+Aluminum 5052 honeycomb (0.147), W Direction;0.0165;0.0182;144;150
+Aluminum 5052 honeycomb (0.198), L Direction;0.014;0.0215;194;202
+Aluminum 5052 honeycomb (0.198), W Direction;0.0403;0.0446;194;202
+Aluminum 5056 honeycomb (0.016), L Direction;7.61e-6;1.18e-5;15.7;16.3
+Aluminum 5056 honeycomb (0.016), W Direction;2.2e-5;2.43e-5;15.7;16.3
+Aluminum 5056 honeycomb (0.025), L Direction;3.13e-5;4.81e-5;25.1;26.1
+Aluminum 5056 honeycomb (0.025), W Direction;9.02e-5;9.97e-5;25.1;26.1
+Aluminum 5056 honeycomb (0.032), L Direction;6.06e-5;9.34e-5;31.4;32.6
+Aluminum 5056 honeycomb (0.032), W Direction;1.76e-4;1.95e-4;31.4;32.6
+Aluminum 5056 honeycomb (0.037), L Direction;1.04e-4;1.82e-4;36.8;41.6
+Aluminum 5056 honeycomb (0.037), W Direction;2.78e-4;4.13e-4;36.8;41.6
+Aluminum 5056 honeycomb (0.05), L Direction;2.3e-4;4.05e-4;48;54.4
+Aluminum 5056 honeycomb (0.05), W Direction;6.18e-4;9.23e-4;48;54.4
+Aluminum 5056 honeycomb (0.07), L Direction;6.46e-4;0.001;68.8;72
+Aluminum 5056 honeycomb (0.07), W Direction;0.00182;0.00214;68.8;72
+Aluminum 5056 honeycomb (0.085), L Direction;0.0011;0.00171;82.3;85.7
+Aluminum 5056 honeycomb (0.085), W Direction;0.00319;0.00352;82.3;85.7
+Aluminum 5056 honeycomb (0.091), L Direction;0.00142;0.00218;89.4;93
+Aluminum 5056 honeycomb (0.091), W Direction;0.00408;0.00451;89.4;93
+Aluminum 5056 honeycomb (0.097), L Direction;0.00174;0.00266;95.6;99.6
+Aluminum 5056 honeycomb (0.097), W Direction;0.005;0.00552;95.6;99.6
+Aluminum 5056 honeycomb (0.11), L Direction;0.0025;0.00387;108;113
+Aluminum 5056 honeycomb (0.11), W Direction;0.00723;0.008;108;113
+Aluminum 5056 honeycomb (0.13), L Direction;0.00406;0.00626;127;132
+Aluminum 5056 honeycomb (0.13), W Direction;0.0117;0.0129;127;132
+Aluminum 5056 honeycomb (0.147), L Direction;0.00596;0.00915;144;150
+Aluminum 5056 honeycomb (0.147), W Direction;0.0171;0.019;144;150
+Aluminum foam (0.5);4.7;5.3;480;520
+Aluminum foam (1.0);13.2;14.8;970;1.03e3
+Aluminum-SiC foam (0.07);0.045;0.07;64;72
+Aluminum-SiC foam (0.16);0.16;0.2;140;180
+Aluminum-SiC foam (0.27);0.67;0.9;240;300
+Aluminum-SiC foam (0.41);1.4;1.8;380;440
+Aluminum-SiC foam (0.54);2.6;3;500;580
+Andiroba (l);13.7;16.7;590;730
+Andiroba (t);1.73;1.93;590;730
+Angelin (l);17;20.8;730;890
+Angelin (t);3.15;3.51;730;890
+Angelique (l);14.9;18.3;670;810
+Angelique (t);2.42;2.71;670;810
+Antler;6.6;11;1.7e3;1.95e3
+Aramid paper/phenolic honeycomb (0.024), L Direction;1.01e-5;1.97e-5;23;24
+Aramid paper/phenolic honeycomb (0.024), W Direction;1.01e-5;1.97e-5;23;24
+Aramid paper/phenolic honeycomb (0.029), L Direction;1.86e-5;4.57e-5;28.8;32
+Aramid paper/phenolic honeycomb (0.029), W Direction;1.86e-5;4.57e-5;28.8;32
+Aramid paper/phenolic honeycomb (0.05), L Direction;9.3e-5;1.77e-4;48;50
+Aramid paper/phenolic honeycomb (0.05), W Direction;9.3e-5;1.77e-4;48;50
+Aramid paper/phenolic honeycomb (0.064), L Direction;2.22e-4;3.8e-4;62.7;65.3
+Aramid paper/phenolic honeycomb (0.064), W Direction;2.22e-4;3.8e-4;62.7;65.3
+Aramid paper/phenolic honeycomb (0.072), L Direction;3.16e-4;5.43e-4;70.6;73.4
+Aramid paper/phenolic honeycomb (0.072), W Direction;3.16e-4;5.43e-4;70.6;73.4
+Aramid paper/phenolic honeycomb (0.08), L Direction;4.33e-4;7.43e-4;78.4;81.6
+Aramid paper/phenolic honeycomb (0.08), W Direction;4.33e-4;7.43e-4;78.4;81.6
+Aramid paper/phenolic honeycomb (0.096), L Direction;7.49e-4;0.00128;94.1;97.9
+Aramid paper/phenolic honeycomb (0.096), W Direction;7.49e-4;0.00128;94.1;97.9
+Aramid paper/phenolic honeycomb (0.128), L Direction;0.00155;0.00298;123;128
+Aramid paper/phenolic honeycomb (0.128), W Direction;0.00155;0.00298;123;128
+Aramid paper/phenolic honeycomb (0.144), L Direction;0.0023;0.00421;139;144
+Aramid paper/phenolic honeycomb (0.144), W Direction;0.0023;0.00421;139;144
+Aramid paper/phenolic honeycomb (0.176), L Direction;0.00466;0.00786;172;180
+Aramid paper/phenolic honeycomb (0.176), W Direction;0.00466;0.00786;172;180
+Ash (fraxinus americana) (l);11.9;14.5;600;740
+Ash (fraxinus americana) (t);1.82;2.03;600;740
+Ash (fraxinus excelsior) (l);12.8;15.6;620;760
+Ash (fraxinus excelsior) (t);1.97;2.2;620;760
+Ash (fraxinus latifolia) (l);9.3;11.3;550;680
+Ash (fraxinus latifolia) (t);1.4;1.57;550;680
+Ash (fraxinus nigra) (l);10.9;13.3;490;600
+Ash (fraxinus nigra) (t);0.99;1.11;490;600
+Ash (fraxinus pennsylvanica) (l);11.3;13.8;560;690
+Ash (fraxinus pennsylvanica) (t);1.48;1.65;560;690
+Ash (fraxinus quadrangulata) (l);9.6;11.7;580;710
+Ash (fraxinus quadrangulata) (t);1.64;1.84;580;710
+Aspen (populus grandidentata) (l);9.8;11.9;390;480
+Aspen (populus grandidentata) (t);0.5;0.56;390;480
+Aspen (populus tremuloides) (l);8.1;9.8;380;470
+Aspen (populus tremuloides) (t);0.46;0.52;380;470
+Avodire (l);10.2;12.4;530;650
+Avodire (t);1.25;1.4;530;650
+Azobe (l);18.1;22.1;960;1.18e3
+Azobe (t);7.35;8.21;960;1.18e3
+Baldcypress (l);9.8;12;460;570
+Baldcypress (t);0.82;0.92;460;570
+Balsa (l) (ld);7.2;8.8;240;300
+Balsa (ochroma spp.) (0.09-0.11) (l);2.1;2.5;90;110
+Balsa (ochroma spp.) (0.09-0.11) (t);0.06;0.08;90;110
+Balsa (ochroma spp.) (0.12-0.14) (l);2.8;3.4;120;140
+Balsa (ochroma spp.) (0.12-0.14) (t);0.09;0.11;120;140
+Balsa (ochroma spp.) (0.17-0.21) (l);4.2;5.2;170;210
+Balsa (ochroma spp.) (0.17-0.21) (t);0.15;0.19;170;210
+Balsa (t) (ld);0.23;0.28;240;300
+Bamboo (longitudinal);15;20;600;800
+Bamboo (transverse);1.5;2;600;800
+Banak (l);13.9;17;460;570
+Banak (t);0.82;0.92;460;570
+Basswood (l);10;12.2;370;460
+Basswood (t);0.43;0.48;370;460
+Beech (fagus grandifolia) (l);11.7;14.3;650;790
+Beech (fagus grandifolia) (t);2.21;2.47;650;790
+Beech (fagus sylvatica) (l);14.2;17.3;680;830
+Beech (fagus sylvatica) (t);2.53;2.83;680;830
+Benge (l);13.9;17;730;890
+Benge (t);3.15;3.51;730;890
+Birch (betula alleghaniensis) (l);13.7;16.8;620;760
+Birch (betula alleghaniensis) (t);2.01;2.24;620;760
+Birch (betula lenta) (l);14.8;18.1;660;800
+Birch (betula lenta) (t);2.31;2.59;660;800
+Birch (betula papyrifera) (l);10.9;13.3;550;680
+Birch (betula papyrifera) (t);1.4;1.57;550;680
+Birch (betula verrucosa) (l);14.7;17.9;620;760
+Birch (betula verrucosa) (t);0.79;0.97;620;760
+Bone;17;22;1.8e3;2.1e3
+Bubinga (l);16.9;20.7;790;960
+Bubinga (t);4;4.47;790;960
+Bulletwood (l);13.4;16.4;800;970
+Bulletwood (t);4.16;4.64;800;970
+Butternut (l);8.1;9.8;380;470
+Butternut (t);0.46;0.52;380;470
+Carbon foam (reticulated, vitreous)(0.05);0.031;0.062;49;51
+Cardboard;3;8.9;480;860
+Cativo (l);7.6;9.3;440;540
+Cativo (t);0.72;0.8;440;540
+Cedar (chamaecyparis lawsoniana) (l);11.6;14.2;430;530
+Cedar (chamaecyparis lawsoniana) (t);0.67;0.75;430;530
+Cedar (chamaecyparis nootkatensis) (l);9.7;11.8;440;540
+Cedar (chamaecyparis nootkatensis) (t);0.72;0.8;440;540
+Cedar (chamaecyparis thyoides) (l);6.3;7.8;320;390
+Cedar (chamaecyparis thyoides) (t);0.28;0.31;320;390
+Cedar (juniperus virginiana) (l);6;7.3;470;580
+Cedar (juniperus virginiana) (t);0.88;0.98;470;580
+Cedar (libocedrus decurrens) (l);7.1;8.7;370;460
+Cedar (libocedrus decurrens) (t);0.43;0.48;370;460
+Cedar (thuja occidentalis) (l);5.5;6.7;310;380
+Cedar (thuja occidentalis) (t);0.25;0.28;310;380
+Cedar (thuja plicata) (l);7.6;9.3;320;390
+Cedar (thuja plicata) (t);0.28;0.31;320;390
+Ceiba (l);3.7;4.5;280;340
+Ceiba (t);0.19;0.21;280;340
+Cherry (prunus avium) (l);10.2;12.5;550;670
+Cherry (prunus avium) (t);1.36;1.52;550;670
+Cherry (prunus serotina) (l);10.2;12.4;500;620
+Cherry (prunus serotina) (t);1.05;1.18;500;620
+Chestnut (l);8.4;10.3;430;530
+Chestnut (t);0.67;0.75;430;530
+Cordierite foam (0.5);0.5;0.7;480;520
+Cork (high density);0.025;0.05;160;240
+Cork (low density);0.013;0.03;120;180
+Cottonwood (populus balsamifera) (l);7.5;9.2;340;420
+Cottonwood (populus balsamifera) (t);0.33;0.37;340;420
+Cottonwood (populus deltoides) (l);9.4;11.4;400;490
+Cottonwood (populus deltoides) (t);0.54;0.6;400;490
+Cottonwood (populus trichocarpa) (l);8.7;10.6;350;430
+Cottonwood (populus trichocarpa) (t);0.36;0.4;350;430
+Courbaril (l);14.7;18;790;960
+Courbaril (t);4;4.47;790;960
+Cuangare (l);10.4;12.7;340;420
+Cuangare (t);0.33;0.37;340;420
+Cypress (cupressus lusitanica) (l);7;8.5;430;530
+Cypress (cupressus lusitanica) (t);0.67;0.75;430;530
+Cypress (cupressus torulosa) (l);8.5;10.3;460;560
+Cypress (cupressus torulosa) (t);0.78;0.87;460;560
+Degame (l);15.5;18.9;750;910
+Degame (t);3.42;3.81;750;910
+Determa (l);12.4;15.2;570;700
+Determa (t);1.56;1.74;570;700
+Douglas fir (pseudotsuga menziesii (coastal)) (l);13.3;16.3;480;590
+Douglas fir (pseudotsuga menziesii (coastal)) (t);0.93;1.04;480;590
+Douglas fir (pseudotsuga menziesii (northern)) (l);12.2;14.9;480;590
+Douglas fir (pseudotsuga menziesii (northern)) (t);0.93;1.04;480;590
+Douglas fir (pseudotsuga menziesii (southern)) (l);10.2;12.4;460;570
+Douglas fir (pseudotsuga menziesii (southern)) (t);0.82;0.92;460;570
+Douglas fir (pseudotsuga menziesii (western)) (l);12.5;15.3;500;620
+Douglas fir (pseudotsuga menziesii (western)) (t);1.05;1.18;500;620
+Ebony (l);9.7;11.9;940;1.14e3
+Ebony (t);6.75;7.54;940;1.14e3
+Ekop (l);15.1;18.4;670;810
+Ekop (t);2.42;2.71;670;810
+Elm (ulmus americana) (l);9.1;11.2;500;620
+Elm (ulmus americana) (t);1.05;1.18;500;620
+Elm (ulmus rubra) (l);10.2;12.4;530;650
+Elm (ulmus rubra) (t);1.25;1.4;530;650
+Elm (ulmus thomasii) (l);10.5;12.8;640;780
+Elm (ulmus thomasii) (t);2.11;2.35;640;780
+Fir (abies alba) (l);10.8;13.2;400;490
+Fir (abies alba) (t);0.55;0.61;400;490
+Fir (abies balsamea) (l);9.9;12.1;350;430
+Fir (abies balsamea) (t);0.36;0.4;350;430
+Fir (abies concolor) (l);10.2;12.5;390;480
+Fir (abies concolor) (t);0.5;0.56;390;480
+Fir (abies grandis) (l);10.7;13.1;370;460
+Fir (abies grandis) (t);0.43;0.48;370;460
+Fir (abies lasiocarpa) (l);8.8;10.8;320;390
+Fir (abies lasiocarpa) (t);0.28;0.31;320;390
+Fir (abies magnifica) (l);10.2;12.5;380;470
+Fir (abies magnifica) (t);0.46;0.52;380;470
+Fir (abies procera) (l);11.7;14.3;390;480
+Fir (abies procera) (t);0.5;0.56;390;480
+Fir (l) (md);12;14.7;430;530
+Fir (t) (md);0.67;0.75;430;530
+Glass foam (0.13);0.88;0.94;130;140
+Glass/phenolic honeycomb, 0°/90° fabric (0.035), L Direction;8.12e-5;2.06e-4;34.5;35.9
+Glass/phenolic honeycomb, 0°/90° fabric (0.035), W Direction;8.12e-5;2.06e-4;34.5;35.9
+Glass/phenolic honeycomb, 0°/90° fabric (0.055), L Direction;3.27e-4;8.26e-4;54.9;57.1
+Glass/phenolic honeycomb, 0°/90° fabric (0.055), W Direction;3.27e-4;8.26e-4;54.9;57.1
+Glass/phenolic honeycomb, 0°/90° fabric (0.064), L Direction;4.89e-4;0.00123;62.7;65.3
+Glass/phenolic honeycomb, 0°/90° fabric (0.064), W Direction;4.89e-4;0.00123;62.7;65.3
+Glass/phenolic honeycomb, 0°/90° fabric (0.072), L Direction;6.94e-4;0.00177;70.6;73.4
+Glass/phenolic honeycomb, 0°/90° fabric (0.072), W Direction;6.94e-4;0.00177;70.6;73.4
+Glass/phenolic honeycomb, 0°/90° fabric (0.088), L Direction;0.00127;0.00322;86.2;89.8
+Glass/phenolic honeycomb, 0°/90° fabric (0.088), W Direction;0.00127;0.00322;86.2;89.8
+Glass/phenolic honeycomb, 0°/90° fabric (0.096), L Direction;0.00138;0.00519;96;104
+Glass/phenolic honeycomb, 0°/90° fabric (0.096), W Direction;0.00138;0.00519;96;104
+Glass/phenolic honeycomb, 0°/90° fabric (0.112), L Direction;0.00261;0.00663;110;114
+Glass/phenolic honeycomb, 0°/90° fabric (0.112), W Direction;0.00261;0.00663;110;114
+Glass/phenolic honeycomb, 0°/90° fabric (0.128), L Direction;0.0039;0.0099;125;131
+Glass/phenolic honeycomb, 0°/90° fabric (0.128), W Direction;0.0039;0.0099;125;131
+Glass/phenolic honeycomb, 0°/90° fabric (0.192), L Direction;0.0132;0.0334;188;196
+Glass/phenolic honeycomb, 0°/90° fabric (0.192), W Direction;0.0132;0.0334;188;196
+Glass/phenolic honeycomb, ±45° fabric (0.032), L Direction;3.42e-5;8.63e-5;31.4;32.6
+Glass/phenolic honeycomb, ±45° fabric (0.032), W Direction;3.42e-5;8.63e-5;31.4;32.6
+Glass/phenolic honeycomb, ±45° fabric (0.048), L Direction;1.15e-4;2.91e-4;47;49
+Glass/phenolic honeycomb, ±45° fabric (0.048), W Direction;1.15e-4;2.91e-4;47;49
+Glass/phenolic honeycomb, ±45° fabric (0.064), L Direction;2.74e-4;6.9e-4;62.7;65.3
+Glass/phenolic honeycomb, ±45° fabric (0.064), W Direction;2.74e-4;6.9e-4;62.7;65.3
+Glass/phenolic honeycomb, ±45° fabric (0.088), L Direction;7.1e-4;0.0018;86.2;89.8
+Glass/phenolic honeycomb, ±45° fabric (0.088), W Direction;7.1e-4;0.0018;86.2;89.8
+Glass/phenolic honeycomb, ±45° fabric (0.128), L Direction;0.00219;0.00554;125;131
+Glass/phenolic honeycomb, ±45° fabric (0.128), W Direction;0.00219;0.00554;125;131
+Glass/polyimide honeycomb, ±45° fabric (0.051), L Direction;3.32e-4;5.14e-4;50.2;52.2
+Glass/polyimide honeycomb, ±45° fabric (0.051), W Direction;3.32e-4;5.14e-4;50.2;52.2
+Glass/polyimide honeycomb, ±45° fabric (0.064), L Direction;6.49e-4;0.001;62.7;65.3
+Glass/polyimide honeycomb, ±45° fabric (0.064), W Direction;6.49e-4;0.001;62.7;65.3
+Glass/polyimide honeycomb, ±45° fabric (0.072), L Direction;9.26e-4;0.00143;70.6;73.4
+Glass/polyimide honeycomb, ±45° fabric (0.072), W Direction;9.26e-4;0.00143;70.6;73.4
+Glass/polyimide honeycomb, ±45° fabric (0.088), L Direction;0.00169;0.00259;86.2;89.8
+Glass/polyimide honeycomb, ±45° fabric (0.088), W Direction;0.00169;0.00259;86.2;89.8
+Glass/polyimide honeycomb, ±45° fabric (0.096), L Direction;0.00219;0.00337;94.1;97.9
+Glass/polyimide honeycomb, ±45° fabric (0.096), W Direction;0.00219;0.00337;94.1;97.9
+Glass/polyimide honeycomb, ±45° fabric (0.112), L Direction;0.00347;0.00536;110;114
+Glass/polyimide honeycomb, ±45° fabric (0.112), W Direction;0.00347;0.00536;110;114
+Glass/polyimide honeycomb, ±45° fabric (0.128), L Direction;0.00519;0.00801;125;131
+Glass/polyimide honeycomb, ±45° fabric (0.128), W Direction;0.00519;0.00801;125;131
+Goncalo alves (l);15.2;18.6;930;1.13e3
+Goncalo alves (t);6.56;7.33;930;1.13e3
+Graphite foam (0.12);0.012;0.034;70;180
+Greenheart (l);23.3;28.4;970;1.19e3
+Greenheart (t);7.56;8.44;970;1.19e3
+Hackberry (l);8.1;9.9;530;650
+Hackberry (t);1.25;1.4;530;650
+Hemlock (l) (ld);8.2;10;400;490
+Hemlock (t) (ld);0.54;0.6;400;490
+Hemlock (tsuga heterophylla) (l);11.1;13.6;450;550
+Hemlock (tsuga heterophylla) (t);0.77;0.86;450;550
+Hemlock (tsuga mertensiana) (l);9.1;11.1;450;550
+Hemlock (tsuga mertensiana) (t);0.77;0.86;450;550
+Hickory (carya aquatica) (l);13.8;16.9;620;760
+Hickory (carya aquatica) (t);2.01;2.24;620;760
+Hickory (carya cordiformis) (l);12.2;14.9;670;810
+Hickory (carya cordiformis) (t);2.42;2.71;670;810
+Hickory (carya glabra) (l);15.4;18.9;760;920
+Hickory (carya glabra) (t);3.56;3.97;760;920
+Hickory (carya illioensis) (l);11.8;14.4;670;810
+Hickory (carya illioensis) (t);2.42;2.71;670;810
+Hickory (carya laciniosa) (l);12.9;15.8;700;850
+Hickory (carya laciniosa) (t);2.77;3.09;700;850
+Hickory (carya myristiciformis) (l);11.6;14.2;600;740
+Hickory (carya myristiciformis) (t);1.82;2.03;600;740
+Hickory (carya ovata) (l);14.7;18;730;890
+Hickory (carya ovata) (t);3.15;3.51;730;890
+Hickory (carya tomentosa) (l);15.2;18.5;730;890
+Hickory (carya tomentosa) (t);3.15;3.51;730;890
+Honeylocust (l);11.1;13.6;670;810
+Honeylocust (t);2.42;2.71;670;810
+Horn;6;10;1.22e3;1.3e3
+Hornbeam (l);14.8;18;730;890
+Hornbeam (t);3.19;3.56;730;890
+Hura (l);8;9.8;420;520
+Hura (t);0.62;0.7;420;520
+Ilomba (l);10.9;13.3;440;540
+Ilomba (t);0.72;0.8;440;540
+Impregnated paper honeycomb (0.025), L Direction;2.67e-5;4e-5;24.6;25.8
+Impregnated paper honeycomb (0.025), W Direction;2.67e-5;4e-5;24.6;25.8
+Impregnated paper honeycomb (0.035), L Direction;7.05e-5;1.06e-4;31.4;38.7
+Impregnated paper honeycomb (0.035), W Direction;7.05e-5;1.06e-4;31.4;38.7
+Impregnated paper honeycomb (0.05), L Direction;2.11e-4;3.17e-4;47.2;53.4
+Impregnated paper honeycomb (0.05), W Direction;2.11e-4;3.17e-4;47.2;53.4
+Ipe (l);21.4;26.2;1.02e3;1.24e3
+Ipe (t);8.68;9.7;1.02e3;1.24e3
+Iroko (l);10;12.2;590;730
+Iroko (t);1.73;1.93;590;730
+Ironwood (l);17.6;21.5;850;1.03e3
+Ironwood (t);4.98;5.56;850;1.03e3
+Jarrah (l);12.8;15.7;750;910
+Jarrah (t);3.42;3.81;750;910
+Jelutong (l);8.1;9.8;400;490
+Jelutong (t);0.54;0.6;400;490
+Kaneelhart (l);27.7;33.9;1.07e3;1.31e3
+Kaneelhart (t);10;11.2;1.07e3;1.31e3
+Kapur (l);12.8;15.7;710;860
+Kapur (t);2.89;3.23;710;860
+Karri (l);17.7;21.7;910;1.11e3
+Karri (t);6.15;6.86;910;1.11e3
+Kauri (l);11.8;14.4;450;550
+Kauri (t);0.75;0.84;450;550
+Kempas (l);18.4;22.4;790;960
+Kempas (t);4;4.47;790;960
+Keruing (l);14.1;17.3;770;940
+Keruing (t);3.7;4.13;770;940
+Larch (larix decidua) (l);12.2;14.9;520;640
+Larch (larix decidua) (t);1.17;1.31;520;640
+Larch (larix occidentalis) (l);12.8;15.6;520;640
+Larch (larix occidentalis) (t);1.19;1.32;520;640
+Leather;0.1;0.5;810;1.05e3
+Lemonwood (l);11.5;14;560;680
+Lemonwood (t);1.43;1.6;560;680
+Lignumvitae (l);12.1;14.8;1.11e3;1.35e3
+Lignumvitae (t);11.2;12.5;1.11e3;1.35e3
+Limba (l);6.9;8.4;420;520
+Limba (t);0.62;0.7;420;520
+Locust (l);14;17.1;700;850
+Locust (t);2.77;3.09;700;850
+Macawood (l);21.8;26.7;1.04e3;1.27e3
+Macawood (t);9.21;10.3;1.04e3;1.27e3
+Magnolia (magnolia acuminata) (l);12.4;15.2;480;590
+Magnolia (magnolia acuminata) (t);0.93;1.04;480;590
+Magnolia (magnolia grandiflora) (l);9.6;11.7;500;620
+Magnolia (magnolia grandiflora) (t);1.05;1.18;500;620
+Mahogany (khaya spp.) (l);9.6;11.7;460;570
+Mahogany (khaya spp.) (t);0.82;0.92;460;570
+Mahogany (swietenia macrophylla) (l);10.2;12.5;460;570
+Mahogany (swietenia macrophylla) (t);0.82;0.92;460;570
+Manbarklak (l);21.4;26.2;970;1.18e3
+Manbarklak (t);7.46;8.33;970;1.18e3
+Manni (l);16.8;20.5;650;790
+Manni (t);2.21;2.47;650;790
+Maple (acer macrophyllum) (l);9.9;12.1;480;590
+Maple (acer macrophyllum) (t);0.93;1.04;480;590
+Maple (acer nigrum) (l);11.1;13.5;570;700
+Maple (acer nigrum) (t);1.56;1.74;570;700
+Maple (acer rubrum) (l);11.2;13.7;540;670
+Maple (acer rubrum) (t);1.33;1.48;540;670
+Maple (acer saccharinum) (l);7.8;9.5;470;580
+Maple (acer saccharinum) (t);0.88;0.98;470;580
+Maple (acer saccharum) (l);12.5;15.3;640;780
+Maple (acer saccharum) (t);2.11;2.35;640;780
+Marishballi (l);22.8;27.9;980;1.2e3
+Marishballi (t);7.69;8.59;980;1.2e3
+Massaranduba (l);23.5;28.8;950;1.16e3
+Massaranduba (t);7;7.82;950;1.16e3
+Melamine foam (0.011);1e-4;2e-4;9;12
+Merbau (l);15.2;18.6;710;860
+Merbau (t);2.89;3.23;710;860
+Mersawa (l);15.6;19;570;700
+Mersawa (t);1.56;1.74;570;700
+Mora (l);20.2;24.7;870;1.06e3
+Mora (t);5.36;5.99;870;1.06e3
+Mullite foam (0.65);1.4;1.6;620;670
+Mullite foam (0.70);1.7;1.9;670;720
+Mullite foam (NCL)(0.46);0.6;1;450;470
+Oak (quercus alba) (l);12.1;14.8;690;840
+Oak (quercus alba) (t);2.65;2.96;690;840
+Oak (quercus bicolor) (l);14;17.1;730;890
+Oak (quercus bicolor) (t);3.15;3.51;730;890
+Oak (quercus coccinea) (l);13;15.9;680;830
+Oak (quercus coccinea) (t);2.54;2.83;680;830
+Oak (quercus falcata var. pagoaefolia) (l);15.6;19;690;840
+Oak (quercus falcata var. pagoaefolia) (t);2.65;2.96;690;840
+Oak (quercus falcata) (l);10.2;12.4;590;730
+Oak (quercus falcata) (t);1.73;1.93;590;730
+Oak (quercus laurelfolia) (l);11.5;14.1;640;780
+Oak (quercus laurelfolia) (t);2.11;2.35;640;780
+Oak (quercus lyrata) (l);9.7;11.8;640;780
+Oak (quercus lyrata) (t);2.11;2.35;640;780
+Oak (quercus macrocarpa) (l);7;8.6;650;790
+Oak (quercus macrocarpa) (t);2.21;2.47;650;790
+Oak (quercus michauxii) (l);12.1;14.8;680;830
+Oak (quercus michauxii) (t);2.54;2.83;680;830
+Oak (quercus nigra) (l);13.8;16.9;640;780
+Oak (quercus nigra) (t);2.11;2.35;640;780
+Oak (quercus palustris) (l);11.8;14.4;640;780
+Oak (quercus palustris) (t);2.11;2.35;640;780
+Oak (quercus phellos) (l);13;15.9;700;850
+Oak (quercus phellos) (t);2.77;3.09;700;850
+Oak (quercus primus) (l);10.9;13.3;670;810
+Oak (quercus primus) (t);2.42;2.71;670;810
+Oak (quercus robur) (l);12.4;15.1;640;780
+Oak (quercus robur) (t);2.11;2.35;640;780
+Oak (quercus rubra) (l);12.4;15.2;640;780
+Oak (quercus rubra) (t);2.11;2.35;640;780
+Oak (quercus spp.) (l);20.6;25.2;850;1.03e3
+Oak (quercus spp.) (t);5;5.58;850;1.03e3
+Oak (quercus stellata) (l);10.3;12.6;680;830
+Oak (quercus stellata) (t);2.54;2.83;680;830
+Oak (quercus velutina) (l);11.2;13.7;610;750
+Oak (quercus velutina) (t);1.91;2.14;610;750
+Oak (quercus virginiana) (l);13.5;16.5;890;1.08e3
+Oak (quercus virginiana) (t);5.74;6.41;890;1.08e3
+Obeche (l);5.9;7.2;330;410
+Obeche (t);0.3;0.34;330;410
+Okoume (l);7.8;9.5;360;440
+Okoume (t);0.39;0.44;360;440
+Opepe (l);13.2;16.2;700;850
+Opepe (t);2.77;3.09;700;850
+Ovangkoi (l);17.5;21.4;750;910
+Ovangkoi (t);3.42;3.81;750;910
+Palm (0.35);4;6;250;480
+Palm (0.50);8;10;490;710
+Palm (0.83);12;14;720;950
+Paper (cellulose based);2;4;700;1.15e3
+Para-angelium (l);14;17.1;700;850
+Para-angelium (t);2.77;3.09;700;850
+Para-aramid paper/phenolic honeycomb (0.03), L Direction;2.67e-5;6.55e-5;28;32
+Para-aramid paper/phenolic honeycomb (0.03), W Direction;2.67e-5;6.55e-5;28;32
+Para-aramid paper/phenolic honeycomb (0.04), L Direction;7.53e-5;1.29e-4;38;40
+Para-aramid paper/phenolic honeycomb (0.04), W Direction;7.53e-5;1.29e-4;38;40
+Para-aramid paper/phenolic honeycomb (0.048), L Direction;1.43e-4;2.37e-4;47;49
+Para-aramid paper/phenolic honeycomb (0.048), W Direction;1.43e-4;2.37e-4;47;49
+Para-aramid paper/phenolic honeycomb (0.064), L Direction;3.4e-4;5.62e-4;62.7;65.3
+Para-aramid paper/phenolic honeycomb (0.064), W Direction;3.4e-4;5.62e-4;62.7;65.3
+Para-aramid paper/phenolic honeycomb (0.072), L Direction;4.84e-4;8.04e-4;70.6;73.4
+Para-aramid paper/phenolic honeycomb (0.072), W Direction;4.84e-4;8.04e-4;70.6;73.4
+Para-aramid paper/phenolic honeycomb (0.096), L Direction;0.00115;0.0019;94.1;97.9
+Para-aramid paper/phenolic honeycomb (0.096), W Direction;0.00115;0.0019;94.1;97.9
+Parana-pine (l);11;13.4;510;630
+Parana-pine (t);1.12;1.25;510;630
+Pau marfim (l);18.5;22.7;810;990
+Pau marfim (t);4.32;4.82;810;990
+PC foam (rigid, closed cell, 0.65);0.95;1.05;620;680
+PC foam (structural, 0.85);1.9;2;840;860
+PE foam (cross-linked, closed cell, 0.030);0.005;0.008;27;33
+PE foam (cross-linked, closed cell, 0.050);0.001;0.0015;47;53
+PE foam (cross-linked, closed cell, 0.080);0.004;0.006;77;83
+PE-HD foam (cross linked, closed cell, 0.080);0.0055;0.0065;72;80
+PE-HD foam (cross-linked, closed cell, 0.030);8e-4;0.001;27;30
+PE-HD foam (cross-linked, closed cell, 0.060);0.003;0.004;57;60
+PE-HD foam (cross-linked, closed cell, 0.115);0.007;0.012;100;115
+PE-LD foam (cross-linked, closed cell, 0.018);2.5e-4;3e-4;16;20
+PE-LD foam (cross-linked, closed cell, 0.024);4e-4;6e-4;22;26
+PE-LD foam (cross-linked, closed cell, 0.033);8e-4;9e-4;31;35
+PE-LD foam (cross-linked, closed cell, 0.045);0.0015;0.0018;43;47
+PE-LD foam (cross-linked, closed cell, 0.060);0.0025;0.003;58;62
+PE-LD foam (cross-linked, closed cell, 0.070);0.0035;0.004;68;72
+PE-LD foam (crosslinked, closed cell, 0.029);5e-4;7e-4;27;31
+Pear (l);7.9;9.7;670;810
+Pear (t);2.43;2.72;670;810
+Pernambuco (l);10.4;12.7;770;950
+Pernambuco (t);3.82;4.26;770;950
+Peroba de campos (l);12.1;14.8;690;840
+Peroba de campos (t);2.65;2.96;690;840
+Peroba rosa (l);10.4;12.8;740;900
+Peroba rosa (t);3.28;3.66;740;900
+PES foam (rigid, closed cell, 0.090);0.024;0.026;85;95
+PES foam (rigid, closed cell, 0.200);0.15;0.16;190;210
+Phenolic foam (closed cell, 0.035);0.004;0.007;32;38
+Phenolic foam (closed cell, 0.080);0.026;0.032;76;84
+Phenolic foam (closed cell, 0.120);0.059;0.07;115;125
+Phenolic foam (closed cell, 0.160);0.11;0.125;155;165
+Phenolic foam (closed cell, 0.200);0.165;0.19;193;207
+Pilon (l);15.5;18.9;730;890
+Pilon (t);3.15;3.51;730;890
+Pine (pinus banksiana) (l);9.2;11.3;430;530
+Pine (pinus banksiana) (t);0.67;0.75;430;530
+Pine (pinus caribaea) (l);15.3;18.7;760;920
+Pine (pinus caribaea) (t);3.56;3.97;760;920
+Pine (pinus clausa) (l);9.6;11.8;480;590
+Pine (pinus clausa) (t);0.93;1.04;480;590
+Pine (pinus contorta) (l);9.1;11.2;410;510
+Pine (pinus contorta) (t);0.58;0.65;410;510
+Pine (pinus echinata) (l);11.9;14.6;510;630
+Pine (pinus echinata) (t);1.12;1.25;510;630
+Pine (pinus elloittii) (l);13.5;16.5;590;730
+Pine (pinus elloittii) (t);1.73;1.93;590;730
+Pine (pinus lambertiana) (l);8.1;9.9;360;440
+Pine (pinus lambertiana) (t);0.39;0.44;360;440
+Pine (pinus monticola) (l);10;12.2;380;470
+Pine (pinus monticola) (t);0.46;0.52;380;470
+Pine (pinus oocarpa) (l);15.4;18.8;610;750
+Pine (pinus oocarpa) (t);1.91;2.14;610;750
+Pine (pinus palustris) (l);13.5;16.5;590;730
+Pine (pinus palustris) (t);1.73;1.93;590;730
+Pine (pinus ponderosa) (l);8.8;10.8;400;490
+Pine (pinus ponderosa) (t);0.54;0.6;400;490
+Pine (pinus radiata) (l);10.1;12.3;460;570
+Pine (pinus radiata) (t);0.82;0.92;460;570
+Pine (pinus resinosa) (l);11.1;13.6;460;570
+Pine (pinus resinosa) (t);0.82;0.92;460;570
+Pine (pinus rigida) (l);9.8;11.9;520;640
+Pine (pinus rigida) (t);1.19;1.32;520;640
+Pine (pinus serotina) (l);11.9;14.6;560;690
+Pine (pinus serotina) (t);1.48;1.65;560;690
+Pine (pinus spp.) (l);8.4;10.3;440;540
+Pine (pinus spp.) (t);0.72;0.8;440;540
+Pine (pinus strobus) (l);8.5;10.3;350;430
+Pine (pinus strobus) (t);0.36;0.4;350;430
+Pine (pinus sylvestris) (l);11.8;14.4;480;580
+Pine (pinus sylvestris) (t);0.89;1;480;580
+Pine (pinus taeda) (l);12.2;14.9;510;630
+Pine (pinus taeda) (t);1.12;1.25;510;630
+Pine (pinus virginiana) (l);10.4;12.7;480;590
+Pine (pinus virginiana) (t);0.93;1.04;480;590
+Piquia (l);14.7;18;800;970
+Piquia (t);4.16;4.64;800;970
+Polycarbonate honeycomb (0.064);5.15e-4;5.69e-4;62.7;65.3
+Polycarbonate honeycomb (0.07);6.71e-4;7.42e-4;68.5;71.3
+Polycarbonate honeycomb (0.08);0.00101;0.00111;78.4;81.6
+Polycarbonate honeycomb (0.09);0.00143;0.00158;88.1;91.7
+Polyetherimide foam, (closed cell, 0.06);0.0455;0.0503;58.8;61.2
+Polyetherimide foam, (closed cell, 0.08);0.062;0.0685;78.4;81.6
+Polyetherimide foam, (closed cell, 0.11);0.0875;0.0968;107;112
+Polyetherimide honeycomb (0.048);2.28e-4;2.52e-4;47;49
+Polyetherimide honeycomb (0.075);8.67e-4;9.58e-4;73.4;76.4
+Polyetherimide honeycomb (0.1);0.00205;0.00227;97.8;102
+Polyetherimide honeycomb (0.12);0.00355;0.00393;117;122
+Polyetherimide honeycomb (0.144);0.00614;0.00679;141;147
+Polyethylene terephthalate foam (closed cell, 0.108);0.0519;0.0712;101;115
+Polyethylene terephthalate foam (closed cell, 0.15);0.0732;0.107;134;160
+Polyethylene terephthalate foam (closed cell, 0.24);0.154;0.182;235;245
+Polyethylene terephthalate foam (closed cell, 0.32);0.228;0.272;314;326
+Polymethacrylimide foam (rigid, 0.051);0.045;0.075;40;64
+Polymethacrylimide foam (rigid, 0.071);0.075;0.1;60;90
+Polymethacrylimide foam (rigid, 0.110);0.135;0.18;95;130
+Polymethacrylimide foam (rigid, 0.200);0.25;0.26;170;235
+Polypropylene honeycomb (0.045);2.41e-4;2.95e-4;43.9;45.7
+Polypropylene honeycomb (0.06);5.57e-4;8.6e-4;59.2;64
+Polypropylene honeycomb (0.082);0.00137;0.00195;80;84
+Polyurethane filter foam (open cell, 0.019);4.4e-5;5.2e-5;17;21
+Polyurethane filter foam (open cell, 0.022);7.2e-5;8e-5;20;24
+Polyurethane filter foam (open cell, 0.030);5e-5;6.4e-5;28;32
+Polyurethane foam (elastomeric, open cell, 0.024);1e-5;2e-5;23;25
+Polyurethane foam (elastomeric, open cell, 0.028);1.4e-5;3e-5;26;32
+Polyurethane foam (elastomeric, open cell, 0.032);4e-5;6e-5;30;34
+Polyurethane foam (elastomeric, open cell, 0.065);2e-5;5e-5;60;70
+Polyurethane foam (flexible, closed cell, 0.08);3.3e-4;4e-4;75;85
+Polyurethane foam (flexible, closed cell, 0.16);9e-4;0.0011;150;170
+Polyurethane foam (rigid, closed cell, 0.062);0.00985;0.0195;59.2;64
+Polyurethane foam (rigid, closed cell, 0.08);0.0144;0.026;78.4;81.6
+Polyurethane foam (rigid, closed cell, 0.096);0.0183;0.0331;94.1;97.9
+Polyurethane foam (rigid, closed cell, 0.128);0.0271;0.0494;125;131
+Polyurethane foam (rigid, closed cell, 0.16);0.0372;0.0682;157;163
+Polyurethane foam (rigid, closed cell, 0.192);0.0487;0.0897;188;196
+Polyurethane foam (rigid, closed cell, 0.24);0.0685;0.127;235;245
+Polyurethane foam (rigid, closed cell, 0.3);0.0913;0.202;288;320
+Polyurethane foam (rigid, closed cell, 0.4);0.156;0.293;392;408
+Polyurethane foam (rigid, closed cell, 0.6);0.278;0.665;560;640
+Polyurethane microcellular foam (closed cell, 0.35);0.0014;0.0016;330;370
+Polyurethane microcellular foam (closed cell, 0.53);0.0023;0.0027;530;570
+Polyurethane microcellular foam (closed cell, 0.70);0.0032;0.0036;700;750
+Polyurethane microcellular foam (closed cell, 1.05);0.007;0.009;1.03e3;1.08e3
+Poplar (l);9;11;430;530
+Poplar (t);0.66;0.74;430;530
+PP foam (closed cell, 0.020);3e-4;5e-4;20;22
+PP foam (closed cell, 0.030);6e-4;9e-4;28;32
+PP foam (closed cell, 0.040);0.003;0.005;38;42
+PP foam (closed cell, 0.060);0.005;0.008;58;62
+PP foam (structural, 0.6);0.5;0.6;580;620
+Primavera (l);7.1;8.7;440;540
+Primavera (t);0.72;0.8;440;540
+PS foam (closed cell, 0.020);0.0034;0.007;18;22
+PS foam (closed cell, 0.025);0.0056;0.0092;23;27
+PS foam (closed cell, 0.030);0.0077;0.0113;28;32
+PS foam (closed cell, 0.050);0.025;0.03;47;53
+PS foam (structural, 0.8);1.2;1.3;760;820
+Purpleheart (l);15.5;18.9;750;910
+Purpleheart (t);3.42;3.81;750;910
+PVC cross-linked foam (rigid, closed cell, AC 0.040);0.023;0.029;36;44
+PVC cross-linked foam (rigid, closed cell, AC 0.055);0.034;0.04;50;60
+PVC cross-linked foam (rigid, closed cell, AC 0.065);0.051;0.059;60;70
+PVC cross-linked foam (rigid, closed cell, AC 0.075);0.068;0.076;70;80
+PVC cross-linked foam (rigid, closed cell, AC 0.090);0.08;0.088;85;95
+PVC cross-linked foam (rigid, closed cell, DH 0.030);0.028;0.032;28;32
+PVC cross-linked foam (rigid, closed cell, DH 0.045);0.042;0.046;43;47
+PVC cross-linked foam (rigid, closed cell, DH 0.060);0.056;0.06;58;62
+PVC cross-linked foam (rigid, closed cell, DH 0.080);0.08;0.085;78;82
+PVC cross-linked foam (rigid, closed cell, DH 0.100);0.109;0.11;97;103
+PVC cross-linked foam (rigid, closed cell, DH 0.130);0.14;0.155;127;133
+PVC cross-linked foam (rigid, closed cell, DH 0.160);0.17;0.185;156;164
+PVC cross-linked foam (rigid, closed cell, DH 0.200);0.23;0.25;195;205
+PVC cross-linked foam (rigid, closed cell, DH 0.250);0.3;0.32;243;257
+PVC cross-linked foam (rigid, closed cell, KR 0.030);0.019;0.021;28;32
+PVC cross-linked foam (rigid, closed cell, KR 0.040);0.027;0.03;38;42
+PVC cross-linked foam (rigid, closed cell, KR 0.045);0.03;0.034;43;47
+PVC cross-linked foam (rigid, closed cell, KR 0.055);0.038;0.042;52;58
+PVC cross-linked foam (rigid, closed cell, KR 0.075);0.06;0.064;72;78
+PVC cross-linked foam (rigid, closed cell, KR 0.090);0.076;0.084;86;94
+PVC cross-linked foam (rigid, closed cell, KR 0.100);0.09;0.095;96;104
+PVC cross-linked foam (rigid, closed cell, KR 0.130);0.123;0.132;125;135
+PVC cross-linked foam (rigid, closed cell, KR 0.200);0.205;0.225;195;205
+PVC cross-linked foam (rigid, closed cell, KR 0.260);0.28;0.3;253;267
+PVC cross-linked foam (rigid, closed cell, KR 0.300);0.33;0.35;290;310
+PVC cross-linked foam (rigid, closed cell, KR 0.400);0.46;0.48;390;410
+PVC foam (semi-rigid, closed cell, 0.500);0.45;0.55;470;530
+PVC foam (semi-rigid, closed cell, 0.700);0.84;0.88;670;730
+Ramin (l);14.8;18.1;570;700
+Ramin (t);1.56;1.74;570;700
+Redwood (sequoia sempervirens (old)) (l);9.1;11.2;400;490
+Redwood (sequoia sempervirens (old)) (t);0.54;0.6;400;490
+Redwood (sequoia sempervirens (young)) (l);7.5;9.2;350;430
+Redwood (sequoia sempervirens (young)) (t);0.36;0.4;350;430
+Roble (l);10.9;13.3;570;700
+Roble (t);1.56;1.74;570;700
+Rosewood (dalbergia latifolia) (l);12.1;14.8;840;1.02e3
+Rosewood (dalbergia latifolia) (t);4.82;5.38;840;1.02e3
+Rosewood (dalbergia nigra) (l);10.9;13.3;800;980
+Rosewood (dalbergia nigra) (t);4.23;4.72;800;980
+Sande (l);16.3;19.9;540;670
+Sande (t);1.33;1.48;540;670
+Santa maria (l);12.5;15.3;570;700
+Santa maria (t);1.56;1.74;570;700
+Sapele (l);12.4;15.2;610;750
+Sapele (t);1.91;2.14;610;750
+Sassafras (l);7.6;9.3;460;570
+Sassafras (t);0.82;0.92;460;570
+Satinwood (l);15.2;18.6;860;1.06e3
+Satinwood (t);5.31;5.93;860;1.06e3
+Sepetir (l);13.4;16.4;620;760
+Sepetir (t);2.01;2.24;620;760
+Shell;30;65;1.8e3;2.1e3
+Shorea (l);17.8;21.8;760;920
+Shorea (t);3.56;3.97;760;920
+Shorea-lauan-meranti (l) (ld);8.4;10.3;370;460
+Shorea-lauan-meranti (l) (md);12.1;14.8;510;630
+Shorea-lauan-meranti (t) (ld);0.43;0.48;370;460
+Shorea-lauan-meranti (t) (md);1.12;1.25;510;630
+Shorea-white-meranti (l);10.2;12.4;610;750
+Shorea-white-meranti (t);1.91;2.14;610;750
+Shorea-yellow-meranti (l);10.6;12.9;510;630
+Shorea-yellow-meranti (t);1.12;1.25;510;630
+Silicon carbide foam (0.5);1.5;1.65;480;520
+Spanish-cedar (l);9.8;12;450;550
+Spanish-cedar (t);0.77;0.86;450;550
+Spruce (picea abies) (l);14.3;17.4;460;560
+Spruce (picea abies) (t);0.8;0.89;460;560
+Spruce (picea engelmannii) (l);8.9;10.8;350;430
+Spruce (picea engelmannii) (t);0.36;0.4;350;430
+Spruce (picea glauca) (l);9.8;11.9;360;440
+Spruce (picea glauca) (t);0.39;0.44;360;440
+Spruce (picea mariana) (l);11;13.4;420;520
+Spruce (picea mariana) (t);0.62;0.7;420;520
+Spruce (picea rubens) (l);11;13.4;400;490
+Spruce (picea rubens) (t);0.54;0.6;400;490
+Spruce (picea sitchensis) (l);10.7;13.1;400;490
+Spruce (picea sitchensis) (t);0.54;0.6;400;490
+Stainless steel honeycomb, 301 (0.085), L Direction;1.26e-4;1.89e-4;83.1;86.5
+Stainless steel honeycomb, 301 (0.085), W Direction;1.26e-4;1.89e-4;83.1;86.5
+Stainless steel honeycomb, 301 (0.114), L Direction;2.95e-4;4.65e-4;111;116
+Stainless steel honeycomb, 301 (0.114), W Direction;2.95e-4;4.65e-4;111;116
+Stainless steel honeycomb, 304 (0.085), L Direction;1.15e-4;1.82e-4;83.1;86.5
+Stainless steel honeycomb, 304 (0.085), W Direction;1.15e-4;1.82e-4;83.1;86.5
+Stainless steel honeycomb, 304 (0.114), L Direction;2.84e-4;4.37e-4;111;116
+Stainless steel honeycomb, 304 (0.114), W Direction;2.84e-4;4.37e-4;111;116
+Styrene acrylonitrile foam (closed cell, 0.055);0.0466;0.056;53.9;56.1
+Styrene acrylonitrile foam (closed cell, 0.068);0.0567;0.0737;65.6;70.4
+Styrene acrylonitrile foam (closed cell, 0.09);0.0758;0.103;84.8;94.4
+Styrene acrylonitrile foam (closed cell, 0.117);0.108;0.139;115;122
+Styrene acrylonitrile foam (closed cell, 0.148);0.136;0.188;139;155
+Styrene acrylonitrile foam (closed cell, 0.21);0.215;0.292;200;219
+Styrene acrylonitrile foam (closed cell, 0.315);0.397;0.479;309;322
+Sucupira;5.36;5.99;870;1.06e3
+Sucupira (l);19.6;23.9;870;1.06e3
+Sweetgum (l);11.2;13.7;520;640
+Sweetgum (t);1.19;1.32;520;640
+Sycamore (l);9.7;11.8;490;600
+Sycamore (t);0.99;1.11;490;600
+Tamarack (l);11.2;13.7;530;650
+Tamarack (t);1.25;1.4;530;650
+Teak (l);10.6;12.9;610;750
+Teak (t);1.91;2.14;610;750
+Tornillo (l);11.6;14.2;500;620
+Tornillo (t);1.05;1.18;500;620
+Tupelo (nyssa aquatica) (l);8.6;10.5;500;620
+Tupelo (nyssa aquatica) (t);1.05;1.18;500;620
+Tupelo (nyssa sylvatica) (l);8.2;10;500;620
+Tupelo (nyssa sylvatica) (t);1.05;1.18;500;620
+Wallaba (l);15.6;19;870;1.06e3
+Wallaba (t);5.36;5.99;870;1.06e3
+Walnut (juglans nigra) (l);11.5;14;550;680
+Walnut (juglans nigra) (t);1.4;1.57;550;680
+Walnut (juglans regia) (l);11.8;14.4;620;760
+Walnut (juglans regia) (t);1.97;2.2;620;760
+Willow (salix alba) (l);7.1;8.7;310;380
+Willow (salix alba) (t);0.26;0.29;310;380
+Willow (salix nigra) (l);6.9;8.4;390;480
+Willow (salix nigra) (t);0.5;0.56;390;480
+Yellow-poplar (l);10.8;13.2;420;520
+Yellow-poplar (t);0.62;0.7;420;520
+Yew (taxus baccata (European)) (l);6.1;7.5;630;770
+Yew (taxus baccata (European)) (t);2.06;2.3;630;770
+Yew (taxus baccata (Indian)) (l);7;8.6;600;740
+Yew (taxus baccata (Indian)) (t);1.8;2.02;600;740
+Yew (taxus cuspidata) (l);7.7;9.4;480;580
+Yew (taxus cuspidata) (t);0.89;1;480;580
+Yttria zirconia alumina foam (1.20);1.7;1.9;1.17e3;1.22e3
+Zirconia foam (partly stabilized)(1.23);2.1;2.3;1.2e3;1.25e3
+Zirconia foam (partly stabilized)(1.27);2.2;2.4;1.27e3;1.3e3
+Zirconia foam (partly stabilized)(1.28);2;2.2;1.25e3;1.35e3
+Zirconia mullite alumina foam (0.63);1;1.6;570;680
+Zirconia with calcia foam (fully stabilized)(0.74);0.6;1.2;720;760
+Zirconia with magnesia foam (partly stabilized)(0.81);1;1.5;740;880

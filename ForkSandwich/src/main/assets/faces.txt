@@ -1,0 +1,2597 @@
+2595
+materialf;Eminf;Emaxf;Emoyf;rhominf;nhomaxf,rhomoyf     Lu par lecturef
+17%Co steel;199;209;8.35E+03;8.35E+03
+2024, T3 aluminum/aramid fiber, UD composite, 0� lamina;66.2;68.3;2.37E+03;2.39E+03
+2024, T3 aluminum/aramid fiber, UD composite, 90� lamina;48.3;55.8;2.37E+03;2.39E+03
+250 maraging steel, maraged at 482�C;183;192;7.88E+03;7.96E+03
+27Co-0.6Cr-Fe soft magnetic alloy;195;215;7.95E+03;7.95E+03
+2V-49Co-49Fe (high purity) soft magnetic alloy;195;215;8.12E+03;8.12E+03
+2V-49Co-49Fe soft magnetic alloy;195;215;8.12E+03;8.12E+03
+36%Co steel;199;209;8.18E+03;8.18E+03
+6%W steel;218;229;8.12E+03;8.12E+03
+7075, T761 aluminum/aramid fiber, UD composite, 0� lamina;67.6;69;2.34E+03;2.36E+03
+7075, T761 aluminum/aramid fiber, UD composite, 90� lamina;46.2;53.1;2.34E+03;2.36E+03
+ABS (10% stainless steel fiber);2.69;2.83;1.13E+03;1.15E+03
+ABS (20% carbon fiber, EMI shielding, conductive);12.4;13.8;1.13E+03;1.14E+03
+ABS (20% glass fiber, injection molding);5.1;6.07;1.18E+03;1.22E+03
+ABS (20% glass fiber, injection molding, flame retarded);5.8;6;1.36E+03;1.38E+03
+ABS (20% long glass fiber, injection molding);6.05;6.36;1.22E+03;1.24E+03
+ABS (30% glass fiber, injection molding);6.8;8.3;1.28E+03;1.30E+03
+ABS (40% aluminum flake);2.49;2.61;1.54E+03;1.61E+03
+ABS (40% long glass fiber, injection molding);6.73;7.07;1.35E+03;1.37E+03
+ABS (6% stainless steel fiber);2.07;2.76;1.10E+03;1.28E+03
+ABS (7% stainless steel fiber);2.88;3.03;1.11E+03;1.13E+03
+ABS (extrusion);2;2.9;1.02E+03;1.08E+03
+ABS (flame retarded, molding and extrusion);1.86;2.76;1.16E+03;1.21E+03
+ABS (heat resistant, injection molding);1.97;2.48;1.05E+03;1.08E+03
+ABS (high-impact, injection molding);1.1;2.41;1.01E+03;1.05E+03
+ABS (injection molding, platable);2.21;2.62;1.04E+03;1.07E+03
+ABS (medium-impact, injection molding);2.07;2.76;1.03E+03;1.06E+03
+ABS (rubber modified, injection molding and extrusion);2.09;2.19;1.03E+03;1.19E+03
+ABS (transparent, injection molding);1.95;2.05;1.07E+03;1.09E+03
+ABS/PA (unfilled);1.18;1.47;1.06E+03;1.09E+03
+ABS/PC (flame retarded);2.41;3.14;1.17E+03;1.23E+03
+ABS/PC (injection molding and extrusion);2.41;2.62;1.07E+03;1.15E+03
+ABS/PVC (flame retarded);2.24;2.62;1.13E+03;1.25E+03
+Acrylic rubber (ACM, 30-40% carbon black);0.00246;0.00651;1.25E+03;1.30E+03
+Acrylic rubber (ACM, unreinforced);7.80E-04;0.00165;1.09E+03;1.10E+03
+Acrylonitrile copolymer (extrusion);3.45;3.79;1.14E+03;1.16E+03
+Acrylonitrile copolymer (high-impact extrusion);3.1;3.45;1.10E+03;1.12E+03
+Acrylonitrile copolymer (injection molding);3.45;3.79;1.14E+03;1.16E+03
+Aerated concrete;12;18;400;900
+AerMet 100;193;203;7.85E+03;7.93E+03
+Afrormosia (l);13.2;16.2;680;830
+Afrormosia (t);2.54;2.83;680;830
+Al(2009)-15%SiC(w), powder product;91;106;2.84E+03;2.85E+03
+Al(2124)-15%SiC(w), powder product;100;120;2.83E+03;2.85E+03
+Al(2124)-20%SiC(p) MMC powder product;102;104;2.84E+03;2.86E+03
+Al(6013)-15%SiC(w), powder product;119;121;2.77E+03;2.79E+03
+Al(8089)-20%SiC(p) MMC powder product;104;106;2.66E+03;2.68E+03
+Al-11%SiC(p), powder product;93;100;2.94E+03;2.98E+03
+Al-12%SiC(p);94;98;2.81E+03;2.82E+03
+Al-12.5%SiC(p), powder product;81;95;3.00E+03;3.01E+03
+Al-17%SiC(p),powder product, T351 (AMC217-xa);100;105;2.85E+03;2.86E+03
+Al-17%SiC(p),powder product, T4 (AMC217-xa);100;105;2.85E+03;2.86E+03
+Al-17%SiC(p),powder product, T4 (AMC217-xe);100;105;2.85E+03;2.86E+03
+Al-20%SiC(p), powder product;109;110;2.85E+03;2.86E+03
+Al-25%SiC(p) MMC powder product;110;115;2.87E+03;2.89E+03
+Al-25%SiC(p), powder product;107;110;2.83E+03;2.84E+03
+Al-30%SiC(p) MMC powder product;121;125;2.90E+03;2.95E+03
+Al-40%Al2O3(Nextel fiber), longitudinal;185;195;3.32E+03;3.33E+03
+Al-40%Al2O3(Nextel fiber), transverse;80;81;3.32E+03;3.33E+03
+Al-40%AlN(p);110;130;2.92E+03;2.93E+03
+Al-47%SiC(f), 0/90/0/90;135;140;2.84E+03;2.85E+03
+Al-47%SiC(f), longitudinal;202;207;2.84E+03;2.85E+03
+Al-47%SiC(f), transverse;115;120;2.84E+03;2.85E+03
+Al-48%B(f), longitudinal;205;208;2.59E+03;2.64E+03
+Al-48%B(f), transverse;140;146;2.59E+03;2.64E+03
+Al-50%Al2O3(Altex fasern, f), longitudinal;130;140;3.00E+03;3.10E+03
+Al-50%Al2O3(Altex fasern, f), transverse;100;110;3.00E+03;3.10E+03
+Al-50%Al2O3(Nextel fiber), longitudinal;226;230;3.22E+03;3.23E+03
+Al-50%Al2O3(Nextel fiber), transverse;135;145;3.32E+03;3.33E+03
+Al-50%B(f), longitudinal;208;215;2.70E+03;2.71E+03
+Al-50%B(f), transverse;135;139;2.70E+03;2.71E+03
+Al-55%SiC(p) MMC powder product;175;186;2.95E+03;2.97E+03
+Al-60%C-M40(HM-C-fiber), longitudinal;240;250;2.20E+03;2.30E+03
+Al-60%C-M40(HM-C-fiber), transverse;110;120;2.20E+03;2.30E+03
+Al-65%Al2O3(Nextel fiber), longitudinal;240;262;3.40E+03;3.40E+03
+Al-65%Al2O3(Nextel fiber), quasi-isotropic laminate;158;179;3.40E+03;3.40E+03
+Al-65%Al2O3(Nextel fiber), transverse;123;131;3.40E+03;3.40E+03
+Al-70%Al2O3(Almax, f), longitudinal;200;210;3.20E+03;3.30E+03
+Al-70%Al2O3(Almax, f), transverse;150;170;3.20E+03;3.30E+03
+Al-70%SiC(p) MMC powder product;255;265;2.98E+03;3.01E+03
+Al-conductor steel reinforced, class A, coated;88;96;3.42E+03;3.72E+03
+Al-conductor steel reinforced, class AA, high strength;104;119;4.02E+03;4.58E+03
+Al-conductor steel reinforced, class AA, large;74.4;85.2;2.92E+03;3.31E+03
+Al-conductor steel reinforced, class AA, medium;75.8;100;2.96E+03;3.87E+03
+Al-conductor steel reinforced, class AA, small;75.8;94.6;2.96E+03;3.67E+03
+Albarco (l);10.2;12.5;520;640
+Albarco (t);1.19;1.32;520;640
+Alder (alnus glutinosa) (l);9.4;11.5;480;580
+Alder (alnus glutinosa) (t);0.89;1;480;580
+Alder (alnus ruba) (l);9.4;11.5;410;510
+Alder (alnus ruba) (t);0.58;0.65;410;510
+Alkali barium glass;54.3;72.4;2.57E+03;2.62E+03
+Alkali strontium clear glass;59.3;78.5;2.65E+03;2.70E+03
+Alkaline earth lead glass;57;61;3.14E+03;3.21E+03
+Alkyd molding compound (glass fiber reinforced);13.8;19.3;2.00E+03;2.30E+03
+Alkyd molding compound (mineral filled);13.5;20.7;1.60E+03;2.30E+03
+Allyl diglycol carbonate (sheet, cast);2.02;2.12;1.30E+03;1.40E+03
+Alnico 1 (cast);150;200;6.83E+03;6.97E+03
+Alnico 3 (cast);150;200;6.90E+03;6.90E+03
+Alnico 4 (cast);150;200;7.01E+03;7.01E+03
+Alnico 5 iso (cast);150;200;7.31E+03;7.31E+03
+Alnico 5DG (cast);150;200;7.31E+03;7.31E+03
+Alnico 8 iso (cast);150;200;7.26E+03;7.26E+03
+Alnico 8 iso (sintered);150;200;6.98E+03;6.98E+03
+Alnico 8A (cast);150;200;7.26E+03;7.26E+03
+Alnico 8A (sintered);150;200;6.98E+03;6.98E+03
+Alnico 8B (cast);150;200;7.26E+03;7.26E+03
+Alnico 8B (sintered);150;200;6.98E+03;6.98E+03
+Alnico 8C (cast);150;200;7.26E+03;7.26E+03
+Aluminum nitride;323;348;3.27E+03;3.33E+03
+Aluminum nitride (97);323;339;3.27E+03;3.33E+03
+Aluminum nitride (AlN);302;345;3.21E+03;3.28E+03
+Aluminum, 2008, wrought, T4;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 2008, wrought, T62;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 2010, wrought, T4;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 2010, wrought, T41;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 2010, wrought, T62;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 2014, wrought, T4;73;77;2.77E+03;2.83E+03
+Aluminum, 2014, wrought, T6;72;77;2.77E+03;2.83E+03
+Aluminum, 2014, wrought, T62;72;75.7;2.78E+03;2.81E+03
+Aluminum, 2014, wrought, T651;74;77.8;2.78E+03;2.81E+03
+Aluminum, 2014, wrought, T6510;74;77.8;2.78E+03;2.81E+03
+Aluminum, 2014, wrought, T6511;74;77.8;2.78E+03;2.81E+03
+Aluminum, 2014, wrought, T652;72;75.7;2.78E+03;2.81E+03
+Aluminum, 2017, wrought, T4;72;75.7;2.78E+03;2.81E+03
+Aluminum, 2017, wrought, T42;72;75.7;2.78E+03;2.81E+03
+Aluminum, 2017, wrought, T451;72;75.7;2.78E+03;2.81E+03
+Aluminum, 2024, wrought, O;73;77;2.74E+03;2.80E+03
+Aluminum, 2024, wrought, T3;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T351;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T3510/T3511;74;77.8;2.76E+03;2.78E+03
+Aluminum, 2024, wrought, T36;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T361;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T4;72;77;2.74E+03;2.80E+03
+Aluminum, 2024, wrought, T42;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T6;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T62;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T72;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T81;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T851;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T8510/T8511;74;77.8;2.75E+03;2.78E+03
+Aluminum, 2024, wrought, T861;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2025, wrought, T6;71;74.6;2.78E+03;2.81E+03
+Aluminum, 2026, wrought, T3511;73.6;74.2;2.74E+03;2.80E+03
+Aluminum, 2036, wrought, O;68.5;72.1;2.72E+03;2.78E+03
+Aluminum, 2036, wrought, T4;68.9;72.4;2.72E+03;2.78E+03
+Aluminum, 2090, wrought, T83;76;79.9;2.59E+03;2.61E+03
+Aluminum, 2124, wrought, T851;72;75.7;2.75E+03;2.78E+03
+Aluminum, 2219, wrought, T62;72;75.7;2.84E+03;2.87E+03
+Aluminum, 2219, wrought, T81;72;75.7;2.84E+03;2.87E+03
+Aluminum, 2219, wrought, T851;72;75.7;2.84E+03;2.87E+03
+Aluminum, 2219, wrought, T8511;72;75.7;2.84E+03;2.87E+03
+Aluminum, 2219, wrought, T852;70;73.6;2.84E+03;2.87E+03
+Aluminum, 2219, wrought, T87;72;75.7;2.84E+03;2.87E+03
+Aluminum, 2224A, wrought, T351;72;76;2.74E+03;2.80E+03
+Aluminum, 2297, wrought, T87;76;79.9;2.62E+03;2.68E+03
+Aluminum, 2424, wrought, T3;63;68;2.76E+03;2.82E+03
+Aluminum, 2519, wrought, T87;72;75.7;2.81E+03;2.84E+03
+Aluminum, 2524, wrought, T3;71;74.6;2.75E+03;2.78E+03
+Aluminum, 2618, wrought, T4;72;76;2.72E+03;2.78E+03
+Aluminum, 2618, wrought, T6;72;76;2.72E+03;2.78E+03
+Aluminum, 2618, wrought, T61;72;76;2.72E+03;2.78E+03
+Aluminum, 296.0, permanent mold cast, T6;68.6;71.4;2.77E+03;2.82E+03
+Aluminum, 3004, wrought, H11;68.3;71.8;2.68E+03;2.74E+03
+Aluminum, 3004, wrought, H19;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 3004, wrought, H32;68.3;71.8;2.69E+03;2.74E+03
+Aluminum, 3004, wrought, H34;68.3;71.8;2.69E+03;2.74E+03
+Aluminum, 3004, wrought, H36;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 3004, wrought, H38;68.3;71.8;2.69E+03;2.75E+03
+Aluminum, 3004, wrought, O;68.3;71.8;2.69E+03;2.74E+03
+Aluminum, 3103, wrought, H14;69.5;73;2.70E+03;2.76E+03
+Aluminum, 3103, wrought, H18;69.5;73;2.70E+03;2.76E+03
+Aluminum, 3103, wrought, O;69.5;73;2.70E+03;2.76E+03
+Aluminum, 3105, wrought, H14;69;72;2.67E+03;2.73E+03
+Aluminum, 3105, wrought, H18;69;72;2.67E+03;2.73E+03
+Aluminum, 3105, wrought, O;69;72;2.67E+03;2.73E+03
+Aluminum, 319.0, permanent mold cast, T6;72.5;75.5;2.77E+03;2.82E+03
+Aluminum, 319.0, sand cast, F;72.5;75.5;2.77E+03;2.82E+03
+Aluminum, 319.0, sand cast, T6;72.5;75.5;2.77E+03;2.82E+03
+Aluminum, 332.0, permanent mold cast, T5;75.5;78.5;2.74E+03;2.80E+03
+Aluminum, 333.0, permanent mold cast, T6;72.5;75.5;2.74E+03;2.80E+03
+Aluminum, 336.0, permanent mold cast, T551;72.5;75.5;2.69E+03;2.74E+03
+Aluminum, 336.0, permanent mold cast, T65;72.5;75.5;2.69E+03;2.74E+03
+Aluminum, 354.0, cast, T6;73;76.7;2.78E+03;2.81E+03
+Aluminum, 355.0, permanent mold cast, T6;68.6;71.4;2.68E+03;2.74E+03
+Aluminum, 355.0, sand cast, T6;68.6;71.4;2.68E+03;2.74E+03
+Aluminum, 356.0, investment cast, T6;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, 356.0, permanent mold cast, T6;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, 356.0, sand cast, F;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, 356.0, sand cast, T6;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, 357.0, sand cast, T6;70.6;73.4;2.69E+03;2.74E+03
+Aluminum, 359.0, cast, T6;72;75.7;2.67E+03;2.70E+03
+Aluminum, 360.0, die cast, F;69.6;72.4;2.66E+03;2.71E+03
+Aluminum, 380.0, die cast, F;69.6;72.4;2.71E+03;2.77E+03
+Aluminum, 383.0, die cast, F;69.6;72.4;2.71E+03;2.77E+03
+Aluminum, 413.0, die cast, F;69.6;72.4;2.63E+03;2.68E+03
+Aluminum, 443.0, sand cast, F;69.6;72.4;2.66E+03;2.71E+03
+Aluminum, 5005, wrought, H14;69.5;73;2.66E+03;2.72E+03
+Aluminum, 5005, wrought, H16;69.5;73;2.66E+03;2.72E+03
+Aluminum, 5005, wrought, O;69.5;73;2.66E+03;2.72E+03
+Aluminum, 5052, wrought, H11;68.3;71.8;2.65E+03;2.71E+03
+Aluminum, 5052, wrought, H19;68.3;71.8;2.65E+03;2.71E+03
+Aluminum, 5052, wrought, H32;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5052, wrought, H34;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5052, wrought, H36;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5052, wrought, H38;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5052, wrought, O;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5083, wrought, H111;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5083, wrought, H112;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5083, wrought, H321;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5083, wrought, H323;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5083, wrought, H343;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5083, wrought, O;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, H111;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, H112;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, H32;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, H34;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, H36;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, H38;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5086, wrought, O;70;73.6;2.64E+03;2.67E+03
+Aluminum, 514.0, sand cast, F;69.6;72.4;2.63E+03;2.68E+03
+Aluminum, 5154, wrought, H12;70.5;74;2.64E+03;2.70E+03
+Aluminum, 5154, wrought, H14;70.5;74;2.64E+03;2.70E+03
+Aluminum, 5154, wrought, O;70.5;74;2.64E+03;2.70E+03
+Aluminum, 518.0, die cast, F;69.6;72.4;2.49E+03;2.54E+03
+Aluminum, 5182, wrought, H16;69.2;72.8;2.63E+03;2.69E+03
+Aluminum, 5182, wrought, H18;69.2;72.8;2.63E+03;2.69E+03
+Aluminum, 5182, wrought, H19;68.5;72.1;2.63E+03;2.68E+03
+Aluminum, 5182, wrought, H32;68.5;72.1;2.63E+03;2.68E+03
+Aluminum, 5182, wrought, H34;68.5;72.1;2.63E+03;2.68E+03
+Aluminum, 5182, wrought, O;68.8;72.3;2.63E+03;2.68E+03
+Aluminum, 520.0, sand cast, T4;64.7;67.3;2.55E+03;2.60E+03
+Aluminum, 5251, wrought, H14;70;74;2.66E+03;2.72E+03
+Aluminum, 5251, wrought, H18;70;74;2.66E+03;2.72E+03
+Aluminum, 5251, wrought, O;70;74;2.66E+03;2.72E+03
+Aluminum, 5454, wrought, H111;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5454, wrought, H112;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5454, wrought, H12;70.5;74;2.65E+03;2.71E+03
+Aluminum, 5454, wrought, H14;70.5;74;2.65E+03;2.71E+03
+Aluminum, 5454, wrought, H32;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5454, wrought, H34;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5454, wrought, O;70;73.6;2.67E+03;2.70E+03
+Aluminum, 5456, wrought, H111;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5456, wrought, H112;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5456, wrought, H321;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5456, wrought, O;70;73.6;2.64E+03;2.67E+03
+Aluminum, 5754, wrought, H12;68.7;72.3;2.65E+03;2.71E+03
+Aluminum, 5754, wrought, H14;68.7;72.3;2.65E+03;2.71E+03
+Aluminum, 5754, wrought, H16;68.7;72.3;2.65E+03;2.71E+03
+Aluminum, 5754, wrought, H18;68.7;72.3;2.65E+03;2.71E+03
+Aluminum, 5754, wrought, H19;68.7;72.3;2.65E+03;2.71E+03
+Aluminum, 5754, wrought, O;69;72.5;2.65E+03;2.70E+03
+Aluminum, 6005, wrought, T1;67.5;71;2.68E+03;2.73E+03
+Aluminum, 6005, wrought, T5;67.4;70.9;2.68E+03;2.73E+03
+Aluminum, 6005A, wrought, T1;67.8;71.2;2.68E+03;2.74E+03
+Aluminum, 6005A, wrought, T4;67.8;71.2;2.68E+03;2.74E+03
+Aluminum, 6005A, wrought, T5;67.5;71;2.68E+03;2.73E+03
+Aluminum, 6005A, wrought, T6;67.8;71.2;2.68E+03;2.74E+03
+Aluminum, 6009, wrought, O;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6009, wrought, T4;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6009, wrought, T6;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6009, wrought, T62;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6010, wrought, O;67.3;70.7;2.67E+03;2.73E+03
+Aluminum, 6010, wrought, T4;67.3;70.7;2.67E+03;2.73E+03
+Aluminum, 6010, wrought, T6;67.3;70.7;2.67E+03;2.73E+03
+Aluminum, 6013, wrought, T6;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6016, wrought, O;67.8;71.2;2.67E+03;2.73E+03
+Aluminum, 6016, wrought, T1;67.8;71.2;2.67E+03;2.73E+03
+Aluminum, 6016, wrought, T4;67.8;71.2;2.67E+03;2.73E+03
+Aluminum, 6016, wrought, T5;67.8;71.2;2.67E+03;2.73E+03
+Aluminum, 6016, wrought, T6;67.8;71.2;2.67E+03;2.73E+03
+Aluminum, 6022, wrought, T4;67.3;70.7;2.66E+03;2.72E+03
+Aluminum, 6022, wrought, T43;67.3;70.7;2.66E+03;2.72E+03
+Aluminum, 6022, wrought, T4E32;67.3;70.7;2.66E+03;2.72E+03
+Aluminum, 6022, wrought, T62;67.3;70.7;2.66E+03;2.72E+03
+Aluminum, 6060, wrought, T4;69.5;73;2.67E+03;2.73E+03
+Aluminum, 6060, wrought, T6;69.5;73;2.67E+03;2.73E+03
+Aluminum, 6061, wrought, T4;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6061, wrought, T42;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6061, wrought, T451;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6061, wrought, T4510/T4511;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6061, wrought, T6;68;74;2.67E+03;2.73E+03
+Aluminum, 6061, wrought, T62;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6061, wrought, T651;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6061, wrought, T6510/T6511;68;71.5;2.70E+03;2.72E+03
+Aluminum, 6061, wrought, T652;68;71.5;2.70E+03;2.73E+03
+Aluminum, 6063, wrought, O;67.2;70.6;2.67E+03;2.72E+03
+Aluminum, 6063, wrought, T1;67.2;70.6;2.66E+03;2.71E+03
+Aluminum, 6063, wrought, T4;67.2;70.7;2.67E+03;2.72E+03
+Aluminum, 6063, wrought, T5;67.2;70.7;2.66E+03;2.71E+03
+Aluminum, 6063, wrought, T6;69.5;73;2.66E+03;2.72E+03
+Aluminum, 6063, wrought, T8;67.8;71.2;2.67E+03;2.73E+03
+Aluminum, 6063, wrought, T83;66.6;70;2.66E+03;2.72E+03
+Aluminum, 6063, wrought, T831;66.6;70;2.66E+03;2.72E+03
+Aluminum, 6063, wrought, T832;66.6;70;2.66E+03;2.72E+03
+Aluminum, 6082, wrought, T4;70;74;2.67E+03;2.73E+03
+Aluminum, 6082, wrought, T6;70;74;2.67E+03;2.73E+03
+Aluminum, 6111, wrought, T4;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6111, wrought, T41;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6111, wrought, T62;67.3;70.7;2.68E+03;2.74E+03
+Aluminum, 6151, wrought, T6;70;73.6;2.70E+03;2.73E+03
+Aluminum, 6463, wrought, T4;72;76;2.66E+03;2.72E+03
+Aluminum, 6463, wrought, T6;72;76;2.66E+03;2.72E+03
+Aluminum, 7010, wrought, T7451;70;73.6;2.81E+03;2.84E+03
+Aluminum, 7010, wrought, T7651;70;73.6;2.81E+03;2.84E+03
+Aluminum, 7020, wrought, T5;70;74;2.75E+03;2.81E+03
+Aluminum, 7020, wrought, T6;70;74;2.75E+03;2.81E+03
+Aluminum, 7040, wrought, T7451;66;70;2.82E+03;2.87E+03
+Aluminum, 7049, wrought, T73;70;73.6;2.84E+03;2.87E+03
+Aluminum, 7049, wrought, T7351;70;73.6;2.84E+03;2.87E+03
+Aluminum, 7049, wrought, T73511;72;75.7;2.84E+03;2.87E+03
+Aluminum, 7050, wrought, T73511;71;74.6;2.81E+03;2.84E+03
+Aluminum, 7050, wrought, T74;70;73.6;2.81E+03;2.84E+03
+Aluminum, 7050, wrought, T7451;71;74.6;2.81E+03;2.84E+03
+Aluminum, 7050, wrought, T74511;71;74.6;2.81E+03;2.84E+03
+Aluminum, 7050, wrought, T7452;70;73.6;2.81E+03;2.84E+03
+Aluminum, 7050, wrought, T7651;71;74.6;2.81E+03;2.84E+03
+Aluminum, 7050, wrought, T76511;71;74.6;2.81E+03;2.84E+03
+Aluminum, 7055, wrought, T7751;67;71;2.85E+03;2.91E+03
+Aluminum, 7055, wrought, T77511;67;71;2.85E+03;2.91E+03
+Aluminum, 7075, wrought, O;72;76;2.77E+03;2.83E+03
+Aluminum, 7075, wrought, T6;69;76;2.77E+03;2.83E+03
+Aluminum, 7075, wrought, T62;71;74.6;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T651;71;74.6;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T6510/1;72;75.7;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T652;69;72.5;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T73;69;72.5;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T7351;71;74.6;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T73510/1;72;75.7;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T7352;69;72.5;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T76;71;74.6;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T7651;71;74.6;2.78E+03;2.81E+03
+Aluminum, 7075, wrought, T76510/1;72;75.7;2.78E+03;2.81E+03
+Aluminum, 713.0, permanent mold cast, T5;65.7;68.3;2.85E+03;2.91E+03
+Aluminum, 713.0, sand cast, F;65.7;68.3;2.85E+03;2.91E+03
+Aluminum, 713.0, sand cast, T5;65.7;68.3;2.85E+03;2.91E+03
+Aluminum, 7149, wrought, T73;70;73.6;2.84E+03;2.87E+03
+Aluminum, 7149, wrought, T73511;72;75.7;2.84E+03;2.87E+03
+Aluminum, 7150, wrought, T6151;70;73.6;2.81E+03;2.84E+03
+Aluminum, 7150, wrought, T61511;72;75.7;2.81E+03;2.84E+03
+Aluminum, 7150, wrought, T7751;71;74.6;2.81E+03;2.83E+03
+Aluminum, 7150, wrought, T77511;72;75.7;2.81E+03;2.84E+03
+Aluminum, 7175, wrought, T66;70;73.6;2.78E+03;2.81E+03
+Aluminum, 7175, wrought, T73511;70;73.6;2.78E+03;2.81E+03
+Aluminum, 7175, wrought, T74;70;73.6;2.78E+03;2.81E+03
+Aluminum, 7175, wrought, T7452;70;73.6;2.78E+03;2.81E+03
+Aluminum, 7249, wrought, T7452;70;73.6;2.79E+03;2.81E+03
+Aluminum, 7249, wrought, T76511;74.6;78.4;2.79E+03;2.85E+03
+Aluminum, 7449, wrought, T7651;71.7;75.3;2.82E+03;2.88E+03
+Aluminum, 7475, wrought, T61;69;72.5;2.78E+03;2.81E+03
+Aluminum, 7475, wrought, T651;70;73.6;2.78E+03;2.81E+03
+Aluminum, 7475, wrought, T7351;71;74.6;2.78E+03;2.81E+03
+Aluminum, 7475, wrought, T761;69;72.5;2.78E+03;2.81E+03
+Aluminum, 7475, wrought, T7651;70;73.6;2.78E+03;2.81E+03
+Aluminum, 8009, rapid solidification;88;92;2.89E+03;2.95E+03
+Aluminum, 8019, rapid solidification;88;92;2.90E+03;2.96E+03
+Aluminum, 8090, wrought, T851;80;84;2.52E+03;2.57E+03
+Aluminum, 8091, wrought, T6;77;81;2.56E+03;2.61E+03
+Aluminum, A201.0, cast, T7;71;74.6;2.78E+03;2.81E+03
+Aluminum, A206.0, permanent mold cast, T7;69.4;71;2.77E+03;2.83E+03
+Aluminum, A332.0, cast, T5;71;75;2.67E+03;2.73E+03
+Aluminum, A332.0, cast, T6;71;75;2.67E+03;2.73E+03
+Aluminum, A356.0, permanent mold cast, F;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, A356.0, permanent mold cast, T6;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, A356.0, sand cast, F;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, A356.0, sand cast, T6;71.5;74.5;2.66E+03;2.71E+03
+Aluminum, A357.0, investment cast, T6;70.6;73.4;2.65E+03;2.71E+03
+Aluminum, A357.0, permanent mold cast, T6;70.6;73.4;2.65E+03;2.71E+03
+Aluminum, A360.0, die cast, F;69.6;72.4;2.66E+03;2.71E+03
+Aluminum, A380.0, die cast, F;69.6;72.4;2.71E+03;2.77E+03
+Aluminum, A413.0, die cast, F;69.6;72.4;2.63E+03;2.68E+03
+Aluminum, C355.0, cast, T6;70;73.6;2.70E+03;2.73E+03
+Aluminum, C355.0, permanent mold cast, T6;68.6;71.4;2.69E+03;2.74E+03
+Aluminum, C355.0, sand cast, T6;68.6;71.4;2.69E+03;2.74E+03
+Aluminum, commercial purity, 1-0, wrought;69;72;2.67E+03;2.73E+03
+Aluminum, commercial purity, 1050A, wrought, H19;69;72;2.68E+03;2.74E+03
+Aluminum, commercial purity, 1050A, wrought, O;69;72;2.68E+03;2.74E+03
+Aluminum, commercial purity, 1080, wrought, H18;69;72;2.67E+03;2.73E+03
+Aluminum, commercial purity, 1080, wrought, O;69;72;2.67E+03;2.73E+03
+Aluminum, commercial purity, 1200, wrought, H14;69;72;2.68E+03;2.74E+03
+Aluminum, commercial purity, 1200, wrought, H19;69;72;2.68E+03;2.74E+03
+Aluminum, commercial purity, 1200, wrought, O;69;72;2.68E+03;2.74E+03
+Aluminum, commercial purity, S150.1: LM0-M, cast;69;72;2.67E+03;2.73E+03
+Aluminum, D357.0, cast, T6;72;75.7;2.67E+03;2.70E+03
+Aluminum, EN AC-44300, die cast, F;73.5;76.5;2.65E+03;2.71E+03
+Aluminum, EN AC-46000, die cast, F;74.5;77.5;2.73E+03;2.79E+03
+Aluminum, EN AC-47100, die cast, F;73.5;76.5;2.67E+03;2.73E+03
+Aluminum, EN AC-48000, chill cast, T5;70.6;73.4;2.65E+03;2.71E+03
+Aluminum, EN AC-48000, chill cast, T6;70.6;73.4;2.65E+03;2.71E+03
+Aluminum, FC1-TD, wrought;70;74;2.80E+03;2.86E+03
+Aluminum, FC1-TF, wrought;70;74;2.80E+03;2.86E+03
+Aluminum-polyethylene sandwich;17;20;1.37E+03;1.40E+03
+Brass, CuZn10, C22000, wrought, soft (gilding metal);116;124;8.63E+03;8.80E+03
+Brass, CuZn10Pb3Sn2, sand-cast;97;99;8.32E+03;8.48E+03
+Brass, CuZn15, C23000, wrought, soft (red brass);114;122;8.58E+03;8.75E+03
+Brass, CuZn15As0.2, C23000, sand-cast (brazable brass);99;101;8.51E+03;8.69E+03
+Brass, CuZn20, C24000, wrought, soft (low brass);112;118;8.53E+03;8.70E+03
+Brass, CuZn20Al2, C68700, wrought, soft (aluminum brass);107;113;8.38E+03;8.55E+03
+Brass, CuZn27Al4.5, wrought, as drawn (high-tensile brass);101;107;8.23E+03;8.40E+03
+Brass, CuZn28, C25600, wrought, soft (deep-drawing/cartridge brass);109;115;8.48E+03;8.65E+03
+Brass, CuZn28Sn1, C44300, wrought, half hard (admiralty brass);102;108;8.38E+03;8.55E+03
+Brass, CuZn28Sn1, C44300, wrought, soft (admiralty brass);102;108;8.38E+03;8.55E+03
+Brass, CuZn30, C26000, wrought, soft (deep-drawing/cartridge brass);102;108;8.43E+03;8.60E+03
+Brass, CuZn30, C43600, wrought, hard (arsenical 70/30 brass);102;108;8.38E+03;8.55E+03
+Brass, CuZn30, C43600, wrought, soft (arsenical 70/30 brass);102;108;8.38E+03;8.55E+03
+Brass, CuZn30Al5Mn4Fe2, cast (high-tensile manganese bronze);89.1;90.9;7.82E+03;7.98E+03
+Brass, CuZn30Pb2, C85400, sand-cast;96;98;8.12E+03;8.28E+03
+Brass, CuZn33, C26800, wrought, soft (yellow brass);99.9;106;8.38E+03;8.55E+03
+Brass, CuZn34Pb1, C34000, wrought, soft (leaded (clock) brass);101;107;8.23E+03;8.40E+03
+Brass, CuZn35Sn1, C85700, sand-cast (naval brass);95;97;8.07E+03;8.23E+03
+Brass, CuZn36, C26800, wrought, hard (basis brass);97;103;8.33E+03;8.50E+03
+Brass, CuZn36, C26800, wrought, soft (basis brass);97;103;8.33E+03;8.50E+03
+Brass, CuZn36Pb2, C35300, wrought, soft (leaded (clock) brass);98.9;105;8.23E+03;8.40E+03
+Brass, CuZn36Pb3, C36000, wrought (cold worked), (free-cutting brass);98.9;105;8.18E+03;8.35E+03
+Brass, CuZn36Pb3, C36000, wrought, soft (free-cutting brass);98.9;105;8.18E+03;8.35E+03
+Brass, CuZn38Mn1.5, wrought (hot worked), (high-tensile brass);97;103;8.19E+03;8.36E+03
+Brass, CuZn38Mn1.5, wrought, as drawn (high-tensile brass);97;103;8.19E+03;8.36E+03
+Brass, CuZn38Sn1, C46400, wrought, hard (naval brass);98.9;105;8.19E+03;8.36E+03
+Brass, CuZn38Sn1, C46400, wrought, soft (naval brass);98.9;105;8.19E+03;8.36E+03
+Brass, CuZn39Pb2, C37700, wrought (cold worked), (leaded (clock) brass);97;103;8.18E+03;8.35E+03
+Brass, CuZn39Pb2, C37700, wrought (hot worked), (leaded (clock) brass);97;103;8.18E+03;8.35E+03
+Brass, CuZn39Pb2, C37700, wrought (hot worked), (leaded (forging) brass);97;103;8.18E+03;8.35E+03
+Brass, CuZn39Pb2, C37700, wrought, soft (leaded (clock) brass);97;103;8.18E+03;8.35E+03
+Brass, CuZn39Pb2, C37700, wrought, soft (leaded (forging) brass);97;103;8.18E+03;8.35E+03
+Brass, CuZn40, C28000, wrought, hard (muntz metal);97;103;8.18E+03;8.35E+03
+Brass, CuZn40, C28000, wrought, soft (muntz metal);97;103;8.18E+03;8.35E+03
+Brass, CuZn40, C85500, gravity die-cast;93.1;94.9;8.02E+03;8.18E+03
+Brass, CuZn40Mn3Al2Fe2, C86550, cast (high-tensile manganese bronze);89.1;90.9;7.82E+03;7.98E+03
+Brass, CuZn40Pb1, C36500, wrought (cold worked), (leaded muntz metal);97;103;8.18E+03;8.35E+03
+Brass, CuZn40Pb1, C36500, wrought (hot worked), (leaded muntz metal);97;103;8.18E+03;8.35E+03
+Brass, CuZn40Pb2, C38000, pressure die cast;91.1;92.9;7.92E+03;8.08E+03
+Brass, CuZn40Pb2Sn1, C85800, gravity die-cast (naval brass);91.1;92.9;7.92E+03;8.08E+03
+Brass, CuZn40Pb3, C37710, wrought (hot worked), (free-cutting brass);97;103;8.18E+03;8.35E+03
+Brass, CuZn5, C21000, wrought, soft (gilding metal);116;124;8.59E+03;8.76E+03
+Bronze, C86300 (manganese bronze);98;103;7.79E+03;7.87E+03
+Bronze, C86500 (manganese bronze);103;108;8.29E+03;8.37E+03
+Bronze, C93500, cast (leaded bronze 85-5-10);72;74;8.91E+03;9.09E+03
+Bronze, C93700, cast (leaded bronze 80-10-10);72;74;8.85E+03;8.87E+03
+Bronze, C93800, cast (leaded bronze 76-9-15);70;72;8.95E+03;9.00E+03
+Bronze, C94100, cast (leaded bronze 75-5-20);68;72;8.95E+03;9.05E+03
+Bronze, CuAl10, wrought (cold worked), (90/10 aluminum bronze);115;122;7.80E+03;8.00E+03
+Bronze, CuAl10, wrought (hot worked), (90/10 aluminum bronze);115;122;7.80E+03;8.00E+03
+Bronze, CuAl10, wrought, as extruded (90/10 aluminum bronze);115;122;7.80E+03;8.00E+03
+Bronze, CuAl10Fe3, C95200, cast (aluminum bronze);100;103;7.37E+03;7.83E+03
+Bronze, CuAl10Fe5Ni5, C63020, wrought (hot worked), (nickel iron aluminum bronze);115;125;7.60E+03;7.75E+03
+Bronze, CuAl10Fe5Ni5, C63020, wrought, as extruded (nickel iron aluminum bronze);115;125;7.60E+03;7.75E+03
+Bronze, CuAl10Fe5Ni5, C95820, cast (aluminum bronze);110;113;7.37E+03;7.83E+03
+Bronze, CuAl5, C60800, wrought, half hard (95/5 aluminum bronze);130;135;8.10E+03;8.20E+03
+Bronze, CuAl5, C60800, wrought, hard (95/5 aluminum bronze);130;135;8.10E+03;8.20E+03
+Bronze, CuAl5, C60800, wrought, soft (95/5 aluminum bronze);130;135;8.10E+03;8.20E+03
+Bronze, CuAl6Si2Fe1, C64200, wrought, as extruded (silicon aluminum bronze);120;128;7.70E+03;7.90E+03
+Bronze, CuAl7, C61000, wrought, half hard (93/7 aluminum bronze);122;127;7.70E+03;7.90E+03
+Bronze, CuAl7, C61000, wrought, hard (93/7 aluminum bronze);122;127;7.70E+03;7.90E+03
+Bronze, CuAl7, C61000, wrought, soft (93/7 aluminum bronze);122;127;7.70E+03;7.90E+03
+Bronze, CuAl7Fe3, C61300, wrought (93/7 aluminum bronze D);120;128;7.70E+03;7.90E+03
+Bronze, CuAl8, C61000, wrought, half hard (92/8 aluminum bronze);125;130;7.90E+03;8.10E+03
+Bronze, CuAl8, C61000, wrought, hard (92/8 aluminum bronze);125;130;7.90E+03;8.10E+03
+Bronze, CuAl8, C61000, wrought, soft (92/8 aluminum bronze);125;130;7.90E+03;8.10E+03
+Bronze, CuAl9Ni6Fe3, C63000, wrought, forged (aluminum bronze E);115;125;7.60E+03;7.75E+03
+Bronze, CuAl9Ni6Fe3, C63000, wrought, rolled (aluminum bronze E);115;125;7.60E+03;7.75E+03
+Bronze, CuMn13Al8, C95700, cast (aluminum bronze);114;118;7.28E+03;7.73E+03
+Bronze, CuMn13Al9, cast (aluminum bronze);119;122;7.28E+03;7.73E+03
+Bronze, CuNi10Zn27, C74500, wrought, extra hard (10% nickel silver);123;128;8.55E+03;8.56E+03
+Bronze, CuNi10Zn27, C74500, wrought, half hard (10% nickel silver);123;128;8.55E+03;8.56E+03
+Bronze, CuNi10Zn27, C74500, wrought, hard (10% nickel silver);123;128;8.55E+03;8.56E+03
+Bronze, CuNi10Zn27, C74500, wrought, soft (10% nickel silver);123;128;8.55E+03;8.56E+03
+Bronze, CuNi10Zn42Pb2, C79830, wrought, half hard (leaded nickel silver);118;120;8.49E+03;8.51E+03
+Bronze, CuNi10Zn42Pb2, C79830, wrought, soft (leaded nickel silver);118;120;8.49E+03;8.51E+03
+Bronze, CuNi12Zn22Pb9Sn2, C97300, cast (12% nickel silver);123;128;8.60E+03;8.63E+03
+Bronze, CuNi12Zn24, C75700, wrought, hard (12% nickel silver);128;132;8.58E+03;8.60E+03
+Bronze, CuNi12Zn24, C75700, wrought, soft (12% nickel silver);128;132;8.58E+03;8.60E+03
+Bronze, CuNi14Zn44Pb2, wrought, half hard (leaded nickel silver);120;123;8.50E+03;8.51E+03
+Bronze, CuNi14Zn44Pb2, wrought, soft (leaded nickel silver);120;123;8.50E+03;8.51E+03
+Bronze, CuNi15Zn21, C75400, wrought, hard (15% nickel silver);129;133;8.62E+03;8.65E+03
+Bronze, CuNi15Zn21, C75400, wrought, soft (15% nickel silver);129;133;8.62E+03;8.65E+03
+Bronze, CuNi18Zn20, C75200, wrought, hard (18% nickel silver);130;134;8.62E+03;8.65E+03
+Bronze, CuNi18Zn20, C75200, wrought, soft (18% nickel silver);130;134;8.62E+03;8.65E+03
+Bronze, CuNi18Zn29, C77000, wrought, hard (18% nickel silver);132;137;8.68E+03;8.73E+03
+Bronze, CuNi18Zn29, C77000, wrought, soft (18% nickel silver);132;137;8.68E+03;8.73E+03
+Bronze, CuNi20Zn27, wrought, hard (20% nickel silver);133;138;8.70E+03;8.75E+03
+Bronze, CuNi20Zn27, wrought, soft (20% nickel silver);133;138;8.70E+03;8.75E+03
+Bronze, CuNi25Zn17, wrought, hard (25% nickel silver);131;133;8.70E+03;8.75E+03
+Bronze, CuNi25Zn17, wrought, soft (25% nickel silver);131;133;8.70E+03;8.75E+03
+Bronze, CuNi25Zn4Sn5Pb1, C97800, cast (25% nickel silver);135;137;8.70E+03;8.75E+03
+Bronze, CuSi3.5Mn1, cast (silicon bronze);102;110;8.52E+03;8.57E+03
+Bronze, CuSi3Mn1, C65500, wrought, hard (silicon bronze);102;110;8.52E+03;8.57E+03
+Bronze, CuSi3Mn1, C65500, wrought, soft (silicon bronze);102;110;8.52E+03;8.57E+03
+Bronze, CuSn10, C90700, cast (tin bronze);78;82;8.80E+03;8.82E+03
+Bronze, CuSn11P, C90710, cast (phospor bronze);78;82;8.80E+03;8.82E+03
+Bronze, CuSn12, C90810, cast (phospor bronze);78;82;8.80E+03;8.82E+03
+Bronze, CuSn3Zn1, wrought, hard (coinage bronze);118;122;8.84E+03;8.85E+03
+Bronze, CuSn4, C50900, wrought, half hard (3% phospor bronze);118;122;8.83E+03;8.85E+03
+Bronze, CuSn4, C50900, wrought, hard (3% phospor bronze);118;122;8.83E+03;8.85E+03
+Bronze, CuSn4, C50900, wrought, soft (3% phospor bronze);118;122;8.83E+03;8.85E+03
+Bronze, CuSn4, C51000, wrought, half hard (5% phospor bronze);114;117;8.70E+03;8.73E+03
+Bronze, CuSn4, C51000, wrought, hard (5% phospor bronze);114;117;8.70E+03;8.73E+03
+Bronze, CuSn4, C51000, wrought, soft (5% phospor bronze);114;117;8.70E+03;8.73E+03
+Bronze, CuSn6, C51900, wrought, extra hard (7% phospor bronze);112;115;8.60E+03;8.62E+03
+Bronze, CuSn6, C51900, wrought, hard (7% phospor bronze);112;115;8.60E+03;8.62E+03
+Bronze, CuSn6, C51900, wrought, soft (7% phospor bronze);112;115;8.60E+03;8.62E+03
+Bronze, CuSn7Pb3, C93100, cast (leaded phospor bronze);74;76;8.83E+03;8.85E+03
+Bronze, CuSn8, C52100, wrought, extra hard (9% phospor bronze);105;110;8.50E+03;8.52E+03
+Bronze, CuSn8, C52100, wrought, soft (9% phospor bronze);105;110;8.50E+03;8.52E+03
+Bronze, CuSn9Pb1, C52400, cast (phospor bronze);78;82;8.80E+03;8.82E+03
+Carbon (anthracite coal base);4.1;8.3;1.55E+03;1.66E+03
+Carbon (CY);9.7;10.3;1.58E+03;1.62E+03
+Carbon (industrial);6;15;1.30E+03;1.80E+03
+Carbon (petroleum coke base);11;16;1.25E+03;1.41E+03
+Carbon (recrystallized)(parallel to plane);10.3;18.6;1.90E+03;1.98E+03
+Carbon (recrystallized)(perpendicular to plane);5.5;5.9;1.90E+03;1.98E+03
+Carbon (vapor deposited);27.6;28.4;2.08E+03;2.12E+03
+Carbon (vitreous);25.3;26.7;1.48E+03;1.52E+03
+Carbon fiber reinforced carbon matrix composite (Vf:40%);71;79;1.68E+03;1.72E+03
+Carbon fiber reinforced carbon matrix composite (Vf:50%);90;100;1.68E+03;1.72E+03
+Carbon steel, AISI 1010, annealed;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1015, annealed;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1015, as rolled;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1015, normalized;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1020, annealed;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1020, as rolled;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1020, normalized;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1022, annealed;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1022, as rolled;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1022, normalized;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1025, annealed;200;210;7.82E+03;7.90E+03
+Carbon steel, AISI 1025, normalized;200;210;7.82E+03;7.90E+03
+Carbon steel, AISI 1030, annealed;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, as rolled;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, normalized;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, tempered at 205�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, tempered at 315�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, tempered at 425�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, tempered at 540�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1030, tempered at 650�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, annealed;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, as rolled;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, normalized;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 205�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 205�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 315�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 315�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 425�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 425�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 540�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 540�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 650�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1040, tempered at 650�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, annealed;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, as rolled;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, normalized;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 205�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 315�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 315�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 425�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 425�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 540�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 540�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 650�C & H2O quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1050, tempered at 650�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, annealed;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, as rolled;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, normalized;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, tempered at 205�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, tempered at 315�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, tempered at 425�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, tempered at 540�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1060, tempered at 650�C & oil quenched;208;216;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, annealed;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, as rolled;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, normalized;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, tempered at 205�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, tempered at 315�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, tempered at 425�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, tempered at 540�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1080, tempered at 650�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, annealed;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, as rolled;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, normalized;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 205�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 205�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 315�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 315�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 425�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 425�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 540�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 540�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 650�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1095, tempered at 650�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1117, annealed;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1117, as rolled;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1117, normalized;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1118, annealed;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1118, as rolled;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1118, normalized;205;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, annealed;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, as rolled;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, normalized;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 205�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 205�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 315�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 315�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 425�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 425�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 540�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 540�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 650�C & H2O quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1137, tempered at 650�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, annealed;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, as rolled;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, normalized;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, tempered at 205�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, tempered at 315�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, tempered at 425�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, tempered at 540�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1141, tempered at 650�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, annealed;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, as rolled;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, normalized;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, tempered at 205�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, tempered at 315�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, tempered at 425�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, tempered at 540�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1144, tempered at 650�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, annealed;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, normalized;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, tempered at 205�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, tempered at 315�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, tempered at 425�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, tempered at 540�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, AISI 1340, tempered at 650�C & oil quenched;200;215;7.80E+03;7.90E+03
+Carbon steel, SA216 (Type WCC), cast, annealed;198;209;7.81E+03;7.84E+03
+Carbon steel, SA216 (Type WCC), cast, normalized;198;209;7.81E+03;7.84E+03
+Carbon steel, SA216 (Type WCC), cast, normalized & tempered;198;209;7.81E+03;7.84E+03
+Carbon steel, SA216 (Type WCC), cast, quenched & tempered;198;209;7.81E+03;7.84E+03
+Carbon/resin;12.6;13.4;1.82E+03;1.88E+03
+Cardboard;3;8.9;480;860
+Cast iron, austenitic (flake), EN GJLA XNiCuCr15 6 2;85;105;7.25E+03;7.35E+03
+Cast iron, austenitic (flake), EN GJLA XNiMn 13 7;70;90;7.25E+03;7.35E+03
+Cast iron, austenitic (nodular), EN GJSA XNi22;85;90;7.35E+03;7.40E+03
+Cast iron, austenitic (nodular), EN GJSA XNi35;112;117;7.55E+03;7.60E+03
+Cast iron, austenitic (nodular), EN GJSA XNiCr20 2;112;117;7.35E+03;7.40E+03
+Cast iron, austenitic (nodular), EN GJSA XNiCr30 3;92;97;7.35E+03;7.40E+03
+Cast iron, austenitic (nodular), EN GJSA XNiCr35 3;112;117;7.55E+03;7.60E+03
+Cast iron, austenitic (nodular), EN GJSA XNiCrNb20 2;112;133;7.35E+03;7.40E+03
+Cast iron, austenitic (nodular), EN GJSA XNiMn13 7;140;145;7.25E+03;7.30E+03
+Cast iron, austenitic (nodular), EN GJSA XNiMn23 4;120;125;7.35E+03;7.40E+03
+Cast iron, austenitic (nodular), EN GJSA XNiSiCr30 5 5;91;96;7.35E+03;7.40E+03
+Cast iron, austenitic (nodular), EN GJSA XNiSiCr35 5 2;92;120;7.55E+03;7.65E+03
+Cast iron, blackheart malleable, EN GJMB 300-6;158;173;7.20E+03;7.40E+03
+Cast iron, blackheart malleable, EN GJMB 350-10;165;173;7.30E+03;7.40E+03
+Cast iron, gray, flake graphite, EN GJL 100;80;100;6.90E+03;7.10E+03
+Cast iron, gray, flake graphite, EN GJL 150;90;109;7.00E+03;7.10E+03
+Cast iron, gray, flake graphite, EN GJL 200;103;120;7.05E+03;7.20E+03
+Cast iron, gray, flake graphite, EN GJL 250;113;135;7.15E+03;7.25E+03
+Cast iron, gray, flake graphite, EN GJL 300;121;140;7.20E+03;7.30E+03
+Cast iron, gray, flake graphite, EN GJL 350;126;150;7.25E+03;7.35E+03
+Cast iron, high silicon, BS grade Si 10;120;128;6.90E+03;7.10E+03
+Cast iron, high silicon, BS grade Si 14;120;128;6.90E+03;7.10E+03
+Cast iron, high silicon, BS grade Si16;120;128;6.90E+03;7.10E+03
+Cast iron, high silicon, BS grade SiCr 14 4;120;128;6.90E+03;7.10E+03
+Cast iron, nodular graphite, EN GJS 350 22;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 350 22 LT;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 400 15U <30mm;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 400 18;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 400 18 LT;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 400 18U;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 450 10;165;173;7.05E+03;7.15E+03
+Cast iron, nodular graphite, EN GJS 500 7;165;178;7.05E+03;7.22E+03
+Cast iron, nodular graphite, EN GJS 600 3;170;180;7.12E+03;7.25E+03
+Cast iron, nodular graphite, EN GJS 700-2, as cast & normalized;172;180;7.15E+03;7.25E+03
+Cast iron, nodular graphite, EN GJS 700-2, hardened & tempered;168;176;7.10E+03;7.20E+03
+Cast iron, nodular graphite, EN GJS 800 2, as cast & normalized;172;180;7.15E+03;7.25E+03
+Cast iron, nodular graphite, EN GJS 800 2, hardened & tempered;168;176;7.10E+03;7.20E+03
+Cast iron, nodular graphite, EN GJS 900 2, as cast & normalized;172;180;7.15E+03;7.25E+03
+Cast iron, nodular graphite, EN GJS 900 2, hardened & tempered;168;176;7.10E+03;7.20E+03
+Cast iron, pearlitic malleable, EN GJMB 450-6;153;176;7.20E+03;7.35E+03
+Cast iron, pearlitic malleable, EN GJMB 500-5;153;183;7.22E+03;7.32E+03
+Cast iron, pearlitic malleable, EN GJMB 550-4;153;190;7.21E+03;7.36E+03
+Cast iron, pearlitic malleable, EN GJMB 600-3;153;176;7.15E+03;7.25E+03
+Cast iron, pearlitic malleable, EN GJMB 650-2;153;187;7.17E+03;7.40E+03
+Cast iron, pearlitic malleable, EN GJMB 700-2;153;179;7.34E+03;7.44E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr11) (former BS 3F);165;220;7.60E+03;8.00E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr11) (former BS 3G);165;220;7.60E+03;8.00E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr14) (former BS 3A);165;220;7.60E+03;8.00E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr14) (former BS 3B);165;220;7.60E+03;8.00E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr18)  (former BS 3C);165;220;7.60E+03;8.00E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr23) (former BS 3D);165;220;7.60E+03;8.00E+03
+Cast iron, white, high-chromium alloy, EN GJN HV600 (XCr23) (former BS 3E);165;220;7.60E+03;8.00E+03
+Cast iron, white, low alloy, EN GJN HV350 (former BS 1A);185;215;7.60E+03;7.80E+03
+Cast iron, white, low alloy, EN GJN HV350 (former BS 1B);185;215;7.60E+03;7.80E+03
+Cast iron, white, low alloy, EN GJN HV350 (former BS 1C);185;215;7.60E+03;7.80E+03
+Cast iron, white, Ni-Cr alloy, EN GJN HV520 (former BS 2A);165;180;7.60E+03;7.80E+03
+Cast iron, white, Ni-Cr alloy, EN GJN HV550 (former BS 2B);165;180;7.60E+03;7.80E+03
+Cast iron, white, Ni-Cr alloy, EN GJN HV600 (former BS 2C);165;180;7.60E+03;7.80E+03
+Cast iron, white, Ni-Cr alloy, EN GJN HV600 (former BS 2D);165;180;7.60E+03;7.80E+03
+Cast iron, white, Ni-Cr alloy, EN GJN HV600 (former BS 2E);165;180;7.60E+03;7.80E+03
+Cast iron, whiteheart malleable, EN GJMW 350-4;165;186;7.35E+03;7.45E+03
+Cast iron, whiteheart malleable, EN GJMW 360-12;165;186;7.35E+03;7.45E+03
+Cast iron, whiteheart malleable, EN GJMW 400-5;165;186;7.35E+03;7.45E+03
+Cast iron, whiteheart malleable, EN GJMW 450-7;165;186;7.35E+03;7.45E+03
+Coated copper, copper, lead coated;112;148;8.93E+03;8.94E+03
+Coated steel, stainless steel, terne coated;189;197;7.60E+03;8.10E+03
+Coated steel, steel, galvanized;200;215;7.80E+03;7.90E+03
+Coated steel, steel, terne coated;185;200;7.85E+03;7.90E+03
+Cobalt, commercial purity, cold worked, hard, >99.3%Co;199;215;8.80E+03;8.90E+03
+Cobalt, commercial purity, soft (annealed), >99.3%Co;199;215;8.80E+03;8.90E+03
+Cobalt-base-superalloy, CCM, wrought, annealed (high carbon);235;247;8.19E+03;8.36E+03
+Cobalt-base-superalloy, CCM, wrought, annealed (low carbon);235;247;8.28E+03;8.30E+03
+Cobalt-base-superalloy, CCM, wrought, hot worked (high carbon);235;247;8.19E+03;8.36E+03
+Cobalt-base-superalloy, CCM, wrought, hot worked (low carbon);235;247;8.28E+03;8.30E+03
+Cobalt-base-superalloy, CCM, wrought, warm worked (low carbon);235;247;8.28E+03;8.30E+03
+Cobalt-base-superalloy, Elgiloy/Phynox, annealed;198;211;8.30E+03;8.30E+03
+Cobalt-base-superalloy, HAYNES STELLITE 6B, wrought;210;235;8.30E+03;8.45E+03
+Cobalt-base-superalloy, HAYNES STELLITE 6K, wrought;210;235;8.30E+03;8.45E+03
+Cobalt-base-superalloy, HS 188, wrought, solution treated;232;244;8.92E+03;9.01E+03
+Cobalt-base-superalloy, L605, wrought, solution treated;225;237;9.08E+03;9.18E+03
+Cobalt-base-superalloy, MAR-M 302, cast;210;235;9.15E+03;9.25E+03
+Cobalt-base-superalloy, MAR-M 509, cast;220;230;8.80E+03;8.90E+03
+Cobalt-base-superalloy, multiphase, MP159, cold drawn, aged (solution treated);243;255;8.32E+03;8.40E+03
+Cobalt-base-superalloy, multiphase, MP35N, cold drawn, aged (solution treated);234;246;8.37E+03;8.46E+03
+Cobalt-base-superalloy, UMCo-50, cast;210;220;8.00E+03;8.10E+03
+Cobalt-base-superalloy, UMCo-50, wrought;210;220;8.00E+03;8.10E+03
+Cobalt-base-superalloy, WI-52, cast;210;235;8.50E+03;8.70E+03
+Cobalt-base-superalloy, X-40, cast;220;230;8.50E+03;8.70E+03
+Cobalt-base-superalloy,�Elgiloy/Phynox, cold worked;193;204;8.30E+03;8.30E+03
+Cobalt-base-superalloy,�Elgiloy/Phynox, cold worked, aged;199;208;8.30E+03;8.30E+03
+Copolyester, Tritan-type (unfilled);1.55;1.58;1.17E+03;1.18E+03
+Copper, C10100, wrought, hard (electrolytic tough-pitch h.c. copper);125;135;8.94E+03;8.95E+03
+Copper, C10100, wrought, soft (electrolytic tough-pitch h.c. copper);122;128;8.94E+03;8.95E+03
+Copper, C10200, wrought (hot-rolled), (oxygen-free h.c. copper);124;128;8.94E+03;8.95E+03
+Copper, C10200, wrought, half hard (oxygen-free h.c. copper);125;128;8.94E+03;8.95E+03
+Copper, C10200, wrought, hard (oxygen-free h.c. copper);128;135;8.94E+03;8.95E+03
+Copper, C10200, wrought, soft (oxygen-free h.c. copper);120;125;8.94E+03;8.95E+03
+Copper, C10500, hot rolled (silver-bearing oxygen-free h.c. copper);120;125;8.94E+03;8.95E+03
+Copper, C10500, wrought, hard (silver-bearing oxygen-free h.c. copper);125;135;8.94E+03;8.95E+03
+Copper, C10500, wrought, soft (silver-bearing oxygen-free h.c. copper);120;125;8.94E+03;8.95E+03
+Copper, C12200, wrought, hard (phosphorus de-oxidized arsenical h.c. copper);125;135;8.94E+03;8.95E+03
+Copper, C12200, wrought, soft (phosphorus de-oxidized h.c. copper);120;128;8.94E+03;8.95E+03
+Copper, C12500, wrought, hard (fire-refined tough-pitch h.c. copper);125;135;8.94E+03;8.95E+03
+Copper, C12500, wrought, soft (fire-refined tough-pitch h.c. copper);122;128;8.94E+03;8.95E+03
+Copper, C14200, wrought, hard (phosphorus de-oxidized arsenical h.c. copper);128;135;8.92E+03;8.93E+03
+Copper, C14200, wrought, hard (tough-pitch arsenical h.c. copper);122;128;8.94E+03;8.95E+03
+Copper, C14200, wrought, soft (phosphorus de-oxidized arsenical h.c. copper);120;125;8.92E+03;8.93E+03
+Copper, C14200, wrought, soft (tough-pitch arsenical h.c. copper);122;128;8.94E+03;8.95E+03
+Copper, cast (h.c. copper);122;128;8.94E+03;8.95E+03
+Copper, CuSn10Zn2, C90500, cast (admiralty gunmetal);79;82;8.75E+03;8.85E+03
+Copper-10% niobium composite (wire);106;110;8.92E+03;8.93E+03
+Copper-12.5% niobium composite (wire);108;112;8.91E+03;8.92E+03
+Copper-15% niobium composite (wire);117;124;8.90E+03;8.91E+03
+Copper-18% niobium composite (wire);109;113;8.89E+03;8.90E+03
+Copper-24% silver composite (wire);115;122;9.33E+03;9.33E+03
+Copper-7.5% niobium composite (wire);101;105;8.93E+03;8.94E+03
+Copper-beryllium alloy, CuBe2Co, C82400, cast;125;138;8.25E+03;8.50E+03
+Copper-beryllium alloy, CuBe2CoNi, C17000, half hard (w1/2hp);133;138;8.24E+03;8.26E+03
+Copper-beryllium alloy, CuBe2CoNi, C17000, w;120;130;8.24E+03;8.26E+03
+Copper-beryllium alloy, CuBe2CoNi, C17000, wh;120;130;8.24E+03;8.26E+03
+Copper-beryllium alloy, CuBe2CoNi, C17000, whp;133;138;8.24E+03;8.26E+03
+Copper-beryllium alloy, CuBe2CoNi, C17000, wp;133;138;8.24E+03;8.26E+03
+Copper-beryllium alloy, TF00 (CuBe2), C17200;128;135;8.21E+03;8.29E+03
+Copper-beryllium alloy, TH04 (CuBe2), C17200;128;135;8.21E+03;8.29E+03
+Copper-cadmium alloy, C16200, wrought, hard (h.c. copper);126;128;8.94E+03;8.95E+03
+Copper-cadmium alloy, C16200, wrought, soft (h.c. copper);133;135;8.94E+03;8.95E+03
+Copper-Cd-Sn alloy, wrought, hard (h.c. copper);126;128;8.94E+03;8.95E+03
+Copper-Cd-Sn alloy, wrought, soft (h.c. copper);133;135;8.94E+03;8.95E+03
+Copper-chromium alloy, C18200, w (h.c. copper);110;115;8.94E+03;8.95E+03
+Copper-chromium alloy, C18200, wh (h.c. copper);110;115;8.94E+03;8.95E+03
+Copper-chromium alloy, C18200, whp (h.c. copper);140;150;8.94E+03;8.95E+03
+Copper-chromium alloy, C18200, wp (h.c. copper);140;150;8.94E+03;8.95E+03
+Copper-chromium alloy, C18200, wph (h.c. copper);140;150;8.94E+03;8.95E+03
+Copper-Co-Be alloy, CuBe1Co2, C82000, cast;125;138;8.65E+03;8.70E+03
+Copper-Co-Be alloy, CuCo2Be, C17500, w;120;130;8.73E+03;8.77E+03
+Copper-Co-Be alloy, CuCo2Be, C17500, wh;120;130;8.73E+03;8.77E+03
+Copper-Co-Be alloy, CuCo2Be, C17500, whp;130;138;8.73E+03;8.77E+03
+Copper-Co-Be alloy, CuCo2Be, C17500, wp;130;138;8.73E+03;8.77E+03
+Copper-Cr-Zr alloy, C18100, whp (h.c. copper);122;128;8.94E+03;8.95E+03
+Copper-Cr-Zr alloy, C18100, wp (h.c. copper);122;128;8.94E+03;8.95E+03
+Copper-lead alloy, 87-7-3-3, C92410, cast (leaded gunmetal);79;82;8.75E+03;8.85E+03
+Copper-lead alloy, CuPb5Sn5Zn5 (85-5-5-5) C83600, cast (leaded gunmetal);79;82;8.75E+03;8.85E+03
+Copper-lead alloy, CuSn2ZnPb, C83810, cast (leaded gunmetal);79;82;8.75E+03;8.85E+03
+Copper-nickel alloy, C70400, wrought, half hard (95/5 copper-nickel);133;138;8.50E+03;8.55E+03
+Copper-nickel alloy, C70400, wrought, soft (95/5 copper-nickel);133;138;8.50E+03;8.55E+03
+Copper-nickel alloy, C70600, wrought, hard (90/10 copper-nickel);140;145;8.60E+03;8.65E+03
+Copper-nickel alloy, C70600, wrought, soft (90/10 copper-nickel);140;145;8.60E+03;8.65E+03
+Copper-nickel alloy, C71000, wrought, hard (80/20 copper-nickel);145;150;8.70E+03;8.75E+03
+Copper-nickel alloy, C71000, wrought, soft (80/20 copper-nickel);145;150;8.70E+03;8.75E+03
+Copper-nickel alloy, C71300, wrought, half hard (75/25 copper-nickel);150;154;8.83E+03;8.88E+03
+Copper-nickel alloy, C71300, wrought, soft (75/25 copper-nickel);150;154;8.83E+03;8.87E+03
+Copper-nickel alloy, C96200, cast (90/10 copper-nickel);120;125;8.85E+03;8.89E+03
+Copper-nickel alloy, C96400, cast (70/30 copper-nickel);145;150;8.85E+03;8.89E+03
+Copper-nickel alloy, cast (nickel gunmetal);79;82;8.75E+03;8.85E+03
+Copper-nickel alloy, cast, aged (nickel gunmetal);79;82;8.75E+03;8.85E+03
+Copper-nickel alloy, CuNi30Mn1Fe, C71500, wrought, half hard (70/30 copper-nickel);153;158;8.90E+03;8.95E+03
+Copper-nickel alloy, CuNi30Mn1Fe, C71500, wrought, soft (70/30 copper-nickel);153;158;8.90E+03;8.95E+03
+Copper-nickel alloy, CuNi30Mn2Fe2, C71640, wrought, hard (70/30 copper-nickel);153;158;8.90E+03;8.95E+03
+Copper-nickel alloy, CuNi30Mn2Fe2, C71640, wrought, soft (70/30 copper-nickel);153;158;8.90E+03;8.95E+03
+Copper-sulfurous alloy, C14700, wrought, hard (h.c. copper);128;135;8.94E+03;8.95E+03
+Copper-sulfurous alloy, C14700, wrought, soft (h.c. copper);122;128;8.94E+03;8.95E+03
+Copper-tellurium alloy, C14500, wrought, hard (h.c. copper);125;132;8.94E+03;8.95E+03
+Copper-tellurium alloy, C14500, wrought, soft (h.c. copper);122;128;8.94E+03;8.95E+03
+Copper-zirconium alloy, C15100, whp (h.c. copper);122;128;8.94E+03;8.95E+03
+Copper-zirconium alloy, C15100, wp (h.c. copper);122;128;8.94E+03;8.95E+03
+Cordierite;107;113;2.38E+03;2.42E+03
+Cu-2%TiB2, mixalloy process;136;138;8.77E+03;8.79E+03
+Cu-3%TiB2, mixalloy process;130;135;8.81E+03;8.82E+03
+Cu-40%C(f) 0,90 laminate;143;162;6.06E+03;6.15E+03
+Cu-5%TiB2, mixalloy process;132;138;8.72E+03;8.73E+03
+Cuangare (l);10.4;12.7;340;420
+Cuangare (t);0.33;0.37;340;420
+Cyanate ester/HM carbon fiber, UD composite, 0� lamina;299;376;1.62E+03;1.67E+03
+Cyanate ester/HM carbon fiber, UD composite, 90� lamina;5.6;6.5;1.62E+03;1.67E+03
+Cyanate ester/HM carbon fiber, UD composite, quasi-isotropic laminate;101;115;1.62E+03;1.67E+03
+Cypress (cupressus lusitanica) (l);7;8.5;430;530
+Cypress (cupressus lusitanica) (t);0.67;0.75;430;530
+Cypress (cupressus torulosa) (l);8.5;10.3;460;560
+Cypress (cupressus torulosa) (t);0.78;0.87;460;560
+DAP (molding, glass filled);9.65;15.2;1.70E+03;1.98E+03
+DAP (molding, mineral filled);8.27;15.2;1.65E+03;1.85E+03
+Dual phase steel, YS350 (cold rolled);200;221;7.80E+03;7.90E+03
+Dual phase steel, YS400 (hot rolled);200;221;7.80E+03;7.90E+03
+Dual phase steel, YS450 (cold rolled);200;221;7.80E+03;7.90E+03
+Dual phase steel, YS600 (cold rolled);200;221;7.80E+03;7.90E+03
+Duralcan Al-10Al2O3 (p) wrought (W2A10A-T6);81;82;2.91E+03;2.93E+03
+Duralcan Al-10Al2O3 (p) wrought (W6A10A-T6);81;82;2.81E+03;2.83E+03
+Duralcan Al-10SiC (p) cast (F3K10S);87;88;2.76E+03;2.77E+03
+Duralcan Al-10SiC (p) cast (F3S10S);82;84;2.71E+03;2.72E+03
+Duralcan Al-15Al2O3 (p) wrought (W2A15A-T6);88;89;2.96E+03;2.99E+03
+Duralcan Al-15Al2O3 (p) wrought (W6A15A-T6);87;88;2.85E+03;2.87E+03
+Duralcan Al-20Al2O3 (p) wrought (W2A20A-T6);96;97;3.04E+03;3.08E+03
+Duralcan Al-20Al2O3 (p) wrought (W6A20A-T6);98;99;2.95E+03;2.97E+03
+Duralcan Al-20SiC (p) cast (F3K20S);100;102;2.81E+03;2.82E+03
+Duralcan Al-20SiC (p) cast (F3S20S);97;99;2.76E+03;2.78E+03
+Epichlorohydrin copolymer (ECO/GECO, 20-45% carbon black);0.00216;0.012;1.36E+03;1.52E+03
+Epichlorohydrin copolymer (ECO/GECO, unreinforced);0.0015;0.0021;1.27E+03;1.30E+03
+Epichlorohydrin rubber (CO, unreinforced);0.0015;0.0021;1.36E+03;1.40E+03
+Epoxy (glass filler);12;14;1.90E+03;2.10E+03
+Epoxy (mineral filler);8;12;1.85E+03;1.95E+03
+Epoxy resin (cycloaliphatic);2.93;3.08;1.16E+03;1.21E+03
+Epoxy resin (flexibilized);0.976;1.03;960;1.35E+03
+Epoxy resin (high heat);2.4;2.9;1.18E+03;1.24E+03
+Epoxy resin (unfilled);2.35;2.47;1.11E+03;1.40E+03
+Epoxy SMC (carbon fiber);69;150;1.40E+03;1.70E+03
+Epoxy SMC (glass fiber);13.8;27.6;1.50E+03;1.80E+03
+Epoxy/aramid fiber, UD composite, 0� lamina;60;80;1.38E+03;1.38E+03
+Epoxy/aramid fiber, UD composite, 90� lamina;5.5;8;1.38E+03;1.38E+03
+Epoxy/aramid fiber, UD composite, quasi-isotropic laminate;23.5;30.9;1.38E+03;1.38E+03
+Epoxy/E-glass fiber, woven fabric composite, biaxial lamina;26.4;26.4;1.97E+03;1.97E+03
+Epoxy/E-glass fiber, woven fabric composite, QI laminate;21;21.8;1.75E+03;1.97E+03
+Epoxy/HS carbon fiber, UD composite, 0� lamina;129;154;1.55E+03;1.58E+03
+Epoxy/HS carbon fiber, UD composite, 90� lamina;8.5;8.5;1.55E+03;1.58E+03
+Epoxy/HS carbon fiber, UD composite, quasi-isotropic laminate;49.7;60.1;1.55E+03;1.58E+03
+Epoxy/HS carbon fiber, woven fabric composite, biaxial lamina;62.7;68.7;1.54E+03;1.61E+03
+Epoxy/HS carbon fiber, woven fabric composite, QI laminate;44.2;48.2;1.54E+03;1.61E+03
+Epoxy/S-glass fiber, UD composite, 0� lamina;47.6;47.8;1.84E+03;1.97E+03
+Epoxy/S-glass fiber, UD composite, 90� lamina;12.7;13.3;1.84E+03;1.97E+03
+Epoxy/S-glass fiber, UD composite, quasi-isotropic laminate;23.9;24.2;1.84E+03;1.97E+03
+ETFE (25% glass fiber, modified);8.07;8.48;1.78E+03;1.82E+03
+ETFE (unfilled);0.807;0.848;1.68E+03;1.72E+03
+Ethylene acrylic rubber (AEM, 30-40% carbon black);0.0026;0.0093;1.20E+03;1.26E+03
+Ethylene acrylic rubber (AEM, unreinforced);6.80E-04;0.00165;1.03E+03;1.06E+03
+Ethylene propylene (diene) (EPDM/EPM, 30-50% carbon black, plasticized);0.00235;0.0097;1.00E+03;1.10E+03
+Ethylene propylene (diene) (EPDM/EPM, unreinforced);7.00E-04;0.0017;860;880
+Ethylene vinyl acetate rubber (EVM, 60-70% VA);6.80E-04;0.00165;1.04E+03;1.08E+03
+Ethylene vinyl acetate rubber (EVM, 60-70% VA, 30-40% carbon black);0.0026;0.01;1.04E+03;1.08E+03
+Europium, commercial purity, min 99%;14.5;18.5;5.20E+03;5.30E+03
+EVA (Shore A65, 33% vinyl acetate);0.007;0.009;945;955
+EVA (Shore A85, 25% vinyl acetate);0.02;0.03;945;955
+EVA (Shore A95/D50, 12% vinyl acetate);0.07;0.09;930;940
+EVOH (unfilled);2.34;2.46;1.12E+03;1.20E+03
+Fiberboard, extra hard, parallel to board;7.2;10.1;900;1.00E+03
+Fiberboard, extra hard, perpendicular to board;4.5;6.3;900;1.00E+03
+Fiberboard, hard, parallel to board;3.5;8.6;800;900
+Fiberboard, hard, perpendicular to board;2.2;5.4;800;900
+Fiberboard, medium hard, parallel to board;2.2;6.5;700;800
+Fiberboard, medium hard, perpendicular to board;1.4;4.1;700;800
+Glass ceramic (FC);85;89;2.21E+03;2.61E+03
+Glass ceramic (N0);76;80;2.48E+03;2.53E+03
+Glass ceramic (N11);76;80;2.20E+03;2.80E+03
+Glass ceramic (ZD);89;93;2.50E+03;2.56E+03
+Glass ceramic 330;83.9;88.1;2.51E+03;2.56E+03
+Glass ceramic 9606;115;121;2.57E+03;2.62E+03
+Glass ceramic 9608;83.9;88.1;2.47E+03;2.52E+03
+Glass ceramic 9658;62.5;65.7;2.51E+03;2.56E+03
+Glass ceramic MCR;65.3;68.7;2.49E+03;2.54E+03
+Glass ceramic slipcast;30;35;1.88E+03;1.92E+03
+Glass-ionomer;4;9.8;2.02E+03;2.16E+03
+Glass/epoxy unidirectional composite;35;45;1.60E+03;1.95E+03
+High strength low alloy steel, YS300 (cold rolled);200;221;7.80E+03;7.90E+03
+High strength low alloy steel, YS350 (cold rolled);200;221;7.80E+03;7.90E+03
+High strength low alloy steel, YS355 (hot rolled);200;221;7.80E+03;7.90E+03
+High strength low alloy steel, YS420 (cold rolled);200;221;7.80E+03;7.90E+03
+High strength low alloy steel, YS500 (hot rolled);200;221;7.80E+03;7.90E+03
+High strength low alloy steel, YS550 (hot rolled);200;221;7.80E+03;7.90E+03
+Intermediate alloy, Fe-5Cr-Mo-V aircraft steel, quenched & tempered;207;218;7.74E+03;7.82E+03
+Intermediate alloy, Fe-9Ni-4Co-0.20C steel, quenched & tempered;199;209;7.79E+03;7.87E+03
+Intermediate alloy, Fe-9Ni-4Co-0.30C steel, quenched & tempered;197;207;7.71E+03;7.79E+03
+Interstitial free steel, YS260 (cold rolled);200;221;7.80E+03;7.90E+03
+Iron, commercial purity, ingot iron, annealed, >99.9%Fe;204;212;7.86E+03;7.88E+03
+Iron, commercial purity, ingot iron, hot rolled, >99.9%Fe;204;212;7.86E+03;7.88E+03
+Iron-base-superalloy, Cr-Ni alloy, A-286, solution treated & aged;201;211;7.90E+03;7.98E+03
+Iron-base-superalloy, N-155, solution treated;201;211;8.26E+03;8.35E+03
+Low alloy steel, 0.40C 300M, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, 0.42C 300M, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, 4330V, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, 4335V, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 3140, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 3140, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4037, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4037, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4037, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4037, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4037, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4042, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4042, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4042, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4042, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4042, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4130, air melted, normalized;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 4130, air melted, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 4130, annealed;201;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4130, tempered at 205�C & H2O quenched;201;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4130, tempered at 315�C & H2O quenched;201;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4130, tempered at 425�C & H2O quenched;201;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4130, tempered at 540�C & H2O quenched;201;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4130, tempered at 650�C & H2O quenched;201;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4135, air melted, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 4135, normalized;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 4140, annealed;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4140, normalized;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4140, tempered at 205�C & oil quenched;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4140, tempered at 315�C & oil quenched;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4140, tempered at 425�C & oil quenched;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4140, tempered at 540�C & oil quenched;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4140, tempered at 650�C & oil quenched;208;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4150, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4320, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4320, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, annealed;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, normalized;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 4340, tempered at 205�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, tempered at 315�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, tempered at 425�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, tempered at 540�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4340, tempered at 650�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 4620, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4620, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4820, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 4820, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5046, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5046, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5046, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5046, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5046, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B46, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B46, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B46, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B46, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B60, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B60, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B60, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 50B60, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5130, tempered at 205�C & oil quenched;201;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5130, tempered at 315�C & oil quenched;201;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5130, tempered at 425�C & oil quenched;201;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5130, tempered at 540�C & oil quenched;201;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5130, tempered at 650�C & oil quenched;201;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, annealed;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, normalized;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, tempered at 205�C & oil quenched;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, tempered at 315�C & oil quenched;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, tempered at 425�C & oil quenched;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, tempered at 540�C & oil quenched;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5140, tempered at 650�C & oil quenched;209;217;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5150, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, annealed;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, normalized;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, tempered at 205�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, tempered at 315�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, tempered at 425�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, tempered at 540�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 5160, tempered at 650�C & oil quenched;205;213;7.80E+03;7.90E+03
+Low alloy steel, AISI 51B60, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 51B60, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 51B60, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 6150, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 81B45, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 81B45, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 81B45, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 81B45, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 81B45, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8620, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8620, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8630, air melted, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 8630, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8630, normalized;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 8630, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8630, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8630, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8630, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8630, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8640, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8640, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8640, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8640, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8640, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, annealed;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, normalized;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, tempered at 205�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, tempered at 315�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, tempered at 425�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, tempered at 540�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8650, tempered at 650�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 8660, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8660, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8660, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 86B45, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 86B45, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 86B45, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 86B45, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 86B45, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8735, normalized;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 8740, annealed;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8740, normalized;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8740, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, AISI 8740, tempered at 205�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8740, tempered at 315�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8740, tempered at 425�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8740, tempered at 540�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 8740, tempered at 650�C & oil quenched;201;212;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, annealed;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, normalized;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, tempered at 205�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, tempered at 315�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, tempered at 425�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, tempered at 540�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9255, tempered at 650�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9260, tempered at 425�C & oil quenched;203;211;7.80E+03;7.90E+03
+Low alloy steel, AISI 9260, tempered at 540�C & oil quenched;203;211;7.80E+03;7.90E+03
+Low alloy steel, AISI 9260, tempered at 650�C & oil quenched;203;211;7.80E+03;7.90E+03
+Low alloy steel, AISI 9310, annealed;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 9310, normalized;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 94B30, tempered at 205�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 94B30, tempered at 315�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 94B30, tempered at 425�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 94B30, tempered at 540�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, AISI 94B30, tempered at 650�C & oil quenched;206;216;7.80E+03;7.90E+03
+Low alloy steel, D6AC, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, Hy-Tuf, quenched & tempered;200;210;7.79E+03;7.87E+03
+Low alloy steel, SAE 4130, cast, normalized & tempered;198;206;7.81E+03;7.84E+03
+Low alloy steel, SAE 4130, cast, quenched & tempered;197;205;7.81E+03;7.84E+03
+Low alloy steel, SAE 4335M, cast, quenched & tempered;196;204;7.81E+03;7.84E+03
+Low alloy steel, SAE 8630, cast, normalized & tempered;196;204;7.81E+03;7.84E+03
+Low alloy steel, SAE 8630, cast, quenched & tempered;196;204;7.81E+03;7.84E+03
+Low-e glass;68;72;2.44E+03;2.49E+03
+Lutetium, commercial purity, min 99.9%;68;84;9.83E+03;9.85E+03
+MABS (unfilled);1.9;2.11;1.08E+03;1.09E+03
+Macawood (l);21.8;26.7;1.04E+03;1.27E+03
+Macawood (t);9.21;10.3;1.04E+03;1.27E+03
+Magnesia (hot pressed);293;308;3.55E+03;3.58E+03
+Magnesia (MgO);270;330;3.54E+03;3.58E+03
+Magnesium AE42, cast, F;44;46;1.78E+03;1.80E+03
+Magnesium AE44, cast, F;44;46;1.81E+03;1.83E+03
+Magnesium, AJ62A, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AM100A, cast, T6;45;47.3;1.79E+03;1.81E+03
+Magnesium, AM20, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AM50A, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AM60A, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AM60B, cast;44;46;1.77E+03;1.79E+03
+Magnesium, AS21A, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AS21B, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AS41A, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AS41B, cast;40;45;1.78E+03;1.81E+03
+Magnesium, AZ31B, wrought;44;46;1.77E+03;1.78E+03
+Magnesium, AZ61A, cast;40;45;1.80E+03;1.81E+03
+Magnesium, AZ61A, wrought;44;46;1.80E+03;1.81E+03
+Magnesium, AZ80A, wrought;44;46;1.80E+03;1.81E+03
+Magnesium, AZ81A, cast;40;45;1.81E+03;1.82E+03
+Magnesium, AZ91C, cast, T6;45;47.3;1.80E+03;1.81E+03
+Magnesium, AZ91D, cast;44;46;1.80E+03;1.82E+03
+Magnesium, AZ92A, cast, T6;45;47.3;1.81E+03;1.83E+03
+Magnesium, commercial purity;44;45.5;1.73E+03;1.75E+03
+Magnesium, EA55RS, wrought;45;46;1.94E+03;1.95E+03
+Magnesium, Elektron 21;43;45;1.81E+03;1.83E+03
+Magnesium, Elektron ZW3, wrought;44;46;1.79E+03;1.81E+03
+Magnesium, EQ21A, cast;43;45;1.81E+03;1.82E+03
+Magnesium, EZ33A, cast, T5;45;47.3;1.81E+03;1.83E+03
+Magnesium, Mg-12Li, cast;45;46;1.75E+03;1.80E+03
+Magnesium, QE22A, cast, T6;45;47.3;1.80E+03;1.82E+03
+Magnesium, WE43A, cast;43;45;1.84E+03;1.85E+03
+Magnesium, WE43A, wrought;42;45;1.84E+03;1.85E+03
+Magnesium, WE43B, cast, T6;43;45;1.84E+03;1.85E+03
+Magnesium, WE54A, cast;43;45;1.85E+03;1.86E+03
+Magnesium, WE54A, wrought;43;45;1.85E+03;1.86E+03
+Magnesium, Z6, wrought;46;47;1.83E+03;1.84E+03
+Magnesium, ZC63A, cast;43;45;1.87E+03;1.88E+03
+Magnesium, ZC71, wrought;43;46;1.87E+03;1.88E+03
+Magnesium, ZE41A, cast, T5;45;47.3;1.81E+03;1.82E+03
+Magnesium, ZK60A-F, wrought;44;46;1.83E+03;1.84E+03
+Magnesium, ZK60A-T5, wrought;44;46;1.83E+03;1.84E+03
+Magnesium, ZM21, wrought;43;44;1.78E+03;1.79E+03
+Magnolia (magnolia acuminata) (l);12.4;15.2;480;590
+Magnolia (magnolia acuminata) (t);0.93;1.04;480;590
+Magnolia (magnolia grandiflora) (l);9.6;11.7;500;620
+Magnolia (magnolia grandiflora) (t);1.05;1.18;500;620
+Mahogany (khaya spp.) (l);9.6;11.7;460;570
+Mahogany (khaya spp.) (t);0.82;0.92;460;570
+Mahogany (swietenia macrophylla) (l);10.2;12.5;460;570
+Mahogany (swietenia macrophylla) (t);0.82;0.92;460;570
+Manbarklak (l);21.4;26.2;970;1.18E+03
+Manbarklak (t);7.46;8.33;970;1.18E+03
+Manganese, commercial purity;187;199;7.35E+03;7.50E+03
+Manni (l);16.8;20.5;650;790
+Manni (t);2.21;2.47;650;790
+Maple (acer macrophyllum) (l);9.9;12.1;480;590
+Maple (acer macrophyllum) (t);0.93;1.04;480;590
+Maple (acer nigrum) (l);11.1;13.5;570;700
+Maple (acer nigrum) (t);1.56;1.74;570;700
+Maple (acer rubrum) (l);11.2;13.7;540;670
+Maple (acer rubrum) (t);1.33;1.48;540;670
+Maple (acer saccharinum) (l);7.8;9.5;470;580
+Maple (acer saccharinum) (t);0.88;0.98;470;580
+Maple (acer saccharum) (l);12.5;15.3;640;780
+Maple (acer saccharum) (t);2.11;2.35;640;780
+Maraging steel, 280 (300), maraged at 482�C;183;192;7.88E+03;7.96E+03
+Marble(2.7);50;70;2.72E+03;2.85E+03
+Marishballi (l);22.8;27.9;980;1.20E+03
+Marishballi (t);7.69;8.59;980;1.20E+03
+Martensitic steel, YS1200 (hot rolled);200;221;7.80E+03;7.90E+03
+Massaranduba (l);23.5;28.8;950;1.16E+03
+Massaranduba (t);7;7.82;950;1.16E+03
+Medium density fiberboard, parallel to board;2.9;5;600;900
+Medium density fiberboard, perpendicular to board;1.8;3.2;600;900
+Merbau (l);15.2;18.6;710;860
+Merbau (t);2.89;3.23;710;860
+Mersawa (l);15.6;19;570;700
+Mersawa (t);1.56;1.74;570;700
+Metal impregnated carbon;15;40;2.00E+03;3.00E+03
+Metglas 2605CO (iron based);100;110;7.56E+03;7.56E+03
+Metglas 2605S3A (iron based);100;110;7.29E+03;7.29E+03
+Metglas 2605SA1 (iron based);100;110;7.19E+03;7.19E+03
+Metglas 2605SC (iron based);100;110;7.32E+03;7.32E+03
+Metglas 2705M (cobalt based);100;110;7.80E+03;7.80E+03
+Metglas 2714A (cobalt based);100;110;7.58E+03;7.60E+03
+Metglas 2826MB (iron-nickel based);100;110;7.90E+03;7.90E+03
+MF (alpha cellulose filled, modified);6.73;7.07;1.42E+03;1.44E+03
+MF (alpha cellulose filler);7.58;9.65;1.47E+03;1.52E+03
+MF (asbestos filler);13.1;13.8;1.76E+03;1.80E+03
+MF (glass fiber);11;16.5;1.60E+03;2.00E+03
+MF (rag filler);9.42;9.89;1.49E+03;1.52E+03
+MF (woodflour filler);6.73;7.07;1.41E+03;1.43E+03
+Mg(+2%Al)-30%graphite (f), longitudinal;88;90;1.79E+03;1.86E+03
+Mg(+4%Al)-30%graphite (f), longitudinal;91;93;1.79E+03;1.86E+03
+Mg-12%SiC(p);63;64;2.00E+03;2.02E+03
+Mg-14%SiC(p), rapid solidification;66;67;2.01E+03;2.03E+03
+Mg-15%B4C(p), powder metallurgy;61;62;1.88E+03;2.06E+03
+Mg-15%SiC(p), powder metallurgy;72;73;2.03E+03;2.04E+03
+Mg-15%SiC(w);83;84;2.03E+03;2.05E+03
+Mg-20%B4C(p);83;84;1.96E+03;1.99E+03
+Mg-20%SiC(p);72;75;2.09E+03;2.11E+03
+Mg-20%SiC(w);95;97;2.11E+03;2.12E+03
+Mg-21%SiC(p), liquid metallurgy;70;71;1.92E+03;2.17E+03
+Mg-24%Al2O3(f), longitudinal;95;100;2.12E+03;2.16E+03
+Mg-25%B4C(p), powder metallurgy;78;79;1.94E+03;2.23E+03
+Mg-30%B4C(p);65;72;1.99E+03;2.34E+03
+Mg-30%graphite (f), longitudinal;84;85;1.74E+03;1.85E+03
+Mg-30%SiC(p);61;75;2.23E+03;2.25E+03
+Mg-70%B(f), longitudinal;276;296;2.42E+03;2.48E+03
+Mg-70%B(f), transverse;101;122;2.42E+03;2.48E+03
+Molybdenum disilicide;430;450;6.19E+03;6.29E+03
+Molybdenum, 360 grade, wrought, fully recrystallized;315;335;1.01E+04;1.03E+04
+Molybdenum, 360 grade, wrought, stress relieved;315;335;1.01E+04;1.03E+04
+Molybdenum, 360 grade, wrought, wire, 150�m dia.;335;343;1.01E+04;1.03E+04
+Molybdenum, Alloy 362, Mo-0.5Ti;305;325;1.01E+04;1.03E+04
+Molybdenum, Alloy 363, TZM;305;325;1.01E+04;1.03E+04
+Molybdenum, Alloy 366, Mo-30W;335;355;1.18E+04;1.20E+04
+Natural rubber (15-42% carbon black);0.0021;0.0084;1.02E+03;1.20E+03
+Natural rubber (unreinforced);0.0012;0.0021;930;970
+NBR+PVC blend;0.0021;0.0063;1.10E+03;1.25E+03
+Nickel, commercial purity, grade 200, hard (spring temper);190;220;8.85E+03;8.95E+03
+Nickel, commercial purity, grade 200, soft (annealed);190;220;8.85E+03;8.95E+03
+Nickel, commercial purity, grade 200, spring temper, wire;190;220;8.84E+03;8.94E+03
+Nickel, commercial purity, grade 201, annealed, low carbon;190;220;8.83E+03;8.93E+03
+Nickel, commercial purity, grade 205, annealed;190;220;8.83E+03;8.94E+03
+Nickel, commercial purity, grade 270;190;220;8.83E+03;8.93E+03
+Nickel, CZ-100, as cast;140;160;8.20E+03;8.40E+03
+Nickel, Duranickel Alloy 301, annealed & aged;190;220;8.20E+03;8.30E+03
+Nickel, Permanickel Alloy 300, annealed;190;220;8.70E+03;8.80E+03
+Nickel, Permanickel Alloy 300, annealed & aged;190;220;8.70E+03;8.80E+03
+Nickel, thoria dispersed, TD Nickel;130;144;8.75E+03;9.00E+03
+Nickel-beryllium alloy, Alloy 440, hard;186;207;8.75E+03;8.85E+03
+Nickel-beryllium alloy, Alloy 440, soft;186;207;8.75E+03;8.85E+03
+Nickel-beryllium alloy, Alloy CR-1, cast, annealed (aged);172;194;8.11E+03;8.28E+03
+Nickel-beryllium alloy, Alloy CR-1, cast, as cast;172;194;8.11E+03;8.28E+03
+Nickel-beryllium alloy, Alloy M 220C, cast, annealed;180;192;8.05E+03;8.15E+03
+Nickel-beryllium alloy, Alloy M 220C, cast, annealed (aged);180;192;8.05E+03;8.15E+03
+Nickel-chromium alloy, HASTELLOY G, wrought, solution treated;185;200;8.20E+03;8.40E+03
+Nickel-chromium alloy, HASTELLOY G-3, wrought, solution treated;180;205;8.20E+03;8.40E+03
+Nickel-chromium alloy, HASTELLOY X, wrought, solution treated;205;216;8.18E+03;8.26E+03
+Nickel-chromium alloy, HAYNES 230, wrought, annealed;206;216;8.88E+03;9.06E+03
+Nickel-chromium alloy, INCONEL 600, wrought (cold drawn);207;218;8.37E+03;8.46E+03
+Nickel-chromium alloy, INCONEL 600, wrought (cold worked);207;218;8.37E+03;8.46E+03
+Nickel-chromium alloy, INCONEL 600, wrought (hot worked);207;218;8.37E+03;8.46E+03
+Nickel-chromium alloy, INCONEL 600, wrought, annealed;207;218;8.37E+03;8.46E+03
+Nickel-chromium alloy, INCONEL 600, wrought, hard;195;220;8.35E+03;8.50E+03
+Nickel-chromium alloy, INCONEL 600, wrought, spring temper;195;220;8.35E+03;8.50E+03
+Nickel-chromium alloy, INCONEL 600, wrought, wire (spring);195;220;8.35E+03;8.50E+03
+Nickel-chromium alloy, INCONEL 625, wrought, annealed;205;216;8.40E+03;8.48E+03
+Nickel-chromium alloy, INCONEL 671, wrought, annealed;215;245;7.80E+03;7.92E+03
+Nickel-chromium alloy, INCONEL 686, wrought, annealed;202;212;8.72E+03;8.73E+03
+Nickel-chromium alloy, INCONEL 690, wrought, annealed;195;215;8.08E+03;8.20E+03
+Nickel-chromium alloy, INCONEL 706, wrought, annealed;205;215;8.00E+03;8.15E+03
+Nickel-chromium alloy, INCONEL 706, wrought, solution treated;210;221;8.04E+03;8.12E+03
+Nickel-chromium alloy, INCONEL 713, cast, as cast;200;210;7.80E+03;8.00E+03
+Nickel-chromium alloy, INCONEL 713L, cast, as cast;190;200;7.90E+03;8.10E+03
+Nickel-chromium alloy, INCONEL 718, wrought, solution treated;203;213;8.18E+03;8.26E+03
+Nickel-chromium alloy, INCONEL 718, wrought, solution treated & aged;198;208;8.18E+03;8.26E+03
+Nickel-chromium alloy, INCONEL 754, wrought, annealed;145;153;8.22E+03;8.38E+03
+Nickel-chromium alloy, INCONEL X-750, wrought, annealed & aged;211;222;8.21E+03;8.29E+03
+Nickel-chromium alloy, INCONEL X-750, wrought, equalized & aged;211;222;8.21E+03;8.29E+03
+Nickel-chromium alloy, N06008, annealed (resistance alloy);155;175;8.00E+03;8.20E+03
+Nickel-chromium alloy, NICHROME V, annealed (resistance alloy);205;220;8.30E+03;8.50E+03
+Nickel-chromium alloy, NIMONIC 75, annealed;217;225;8.25E+03;8.40E+03
+Nickel-chromium alloy, NIMONIC 80A, heat treated;215;223;8.05E+03;8.25E+03
+Nickel-chromium alloy, NIMONIC 81, heat treated;192;200;7.95E+03;8.15E+03
+Nickel-chromium alloy, WASPALOY, wrought, precipitation treated;211;222;8.21E+03;8.29E+03
+Nickel-Co-Cr alloy, AEREX 350, cold worked, aged;211;221;8.41E+03;8.84E+03
+Nickel-Co-Cr alloy, B-1900, as cast;205;220;8.15E+03;8.30E+03
+Nickel-Co-Cr alloy, EP741NP;185;195;8.42E+03;8.59E+03
+Nickel-Co-Cr alloy, HAYNES C263 (NIMONIC 263), sheet;215;230;8.25E+03;8.45E+03
+Nickel-Co-Cr alloy, IN-100, as cast;210;220;7.65E+03;7.85E+03
+Nickel-Co-Cr alloy, MAR-M 432, as cast;195;210;8.05E+03;8.25E+03
+Nickel-Co-Cr alloy, NIMONIC 105, bar;215;230;7.90E+03;8.10E+03
+Nickel-Co-Cr alloy, UDIMET 500, bar;215;230;7.95E+03;8.10E+03
+Nickel-Co-Cr alloy, UDIMET 700, bar;215;235;7.80E+03;8.00E+03
+Nickel-copper alloy, M-35-1, as cast;150;167;8.55E+03;8.70E+03
+Nickel-copper alloy, M-35-2, as cast;150;167;8.55E+03;8.70E+03
+Nickel-copper alloy, MONEL 400, hard (spring temper);170;188;8.75E+03;8.90E+03
+Nickel-copper alloy, MONEL 400, soft (annealed);170;188;8.75E+03;8.90E+03
+Nickel-copper alloy, MONEL 400, spring temper, wire;170;188;8.75E+03;8.90E+03
+Nickel-copper alloy, MONEL 404, sulfur rich;165;180;8.80E+03;8.95E+03
+Nickel-copper alloy, MONEL R-405;170;188;8.75E+03;8.90E+03
+Nickel-Cr-Co alloy, IN-162, as cast;190;200;8.00E+03;8.15E+03
+Nickel-Cr-Co alloy, IN-738C, as cast;195;205;8.00E+03;8.20E+03
+Nickel-Cr-Co alloy, IN-738LC, as cast;195;205;8.00E+03;8.20E+03
+Nickel-Cr-Co alloy, IN-939, as cast;195;205;8.00E+03;8.15E+03
+Nickel-Cr-Co alloy, MAR-M 421, as cast;200;210;8.00E+03;8.15E+03
+Nickel-Cr-Co alloy, NIMONIC 115, heat treated;215;230;7.75E+03;7.95E+03
+Nickel-Cr-Co alloy, NIMONIC 90, heat treated;222;230;8.10E+03;8.30E+03
+Nickel-Cr-Co alloy, NIMONIC PK33, heat treated;215;230;8.10E+03;8.30E+03
+Nickel-Cr-Co-Mo alloy, INCONEL 617, wrought;205;215;8.25E+03;8.45E+03
+Nickel-Cr-Co-Mo alloy, Rene 41;215;225;8.15E+03;8.35E+03
+Nickel-Cr-Co-Mo alloy, Rene 41, solution treated & aged;218;229;8.21E+03;8.29E+03
+Nickel-Cr-Co-Mo alloy, Rene 41, wire;215;225;8.15E+03;8.35E+03
+Nickel-Cr-Fe alloy, Alloy 610, as cast;150;167;8.25E+03;8.35E+03
+Nickel-Cr-Fe alloy, Alloy 611, as cast;150;167;8.25E+03;8.35E+03
+Nickel-Cr-Fe alloy, Alloy 705, as cast;165;180;8.00E+03;8.12E+03
+Nickel-Cr-Fe alloy, INCONEL 601, wrought;200;215;7.95E+03;8.15E+03
+Nickel-Cr-Fe alloy, NICHROME, annealed (resistance alloy);192;208;8.15E+03;8.35E+03
+Nickel-Cr-Mo alloy, CW-6MC, as cast;170;200;8.35E+03;8.45E+03
+Nickel-Cr-Mo alloy, ILLIUM 98, as cast;165;195;8.30E+03;8.40E+03
+Nickel-Cr-Mo alloy, ILLIUM B, as cast;165;195;8.50E+03;8.65E+03
+Nickel-Cr-Mo alloy, ILLIUM G, as cast;165;175;8.50E+03;8.65E+03
+Nickel-Cu-Al-Ti alloy, MONEL 502, age-hardened;170;188;8.35E+03;8.55E+03
+Nickel-Cu-Al-Ti alloy, MONEL 502, hot rolled;170;188;8.35E+03;8.55E+03
+Nickel-Cu-Al-Ti alloy, MONEL K-500, age-hardened;170;188;8.40E+03;8.55E+03
+Nickel-Cu-Al-Ti alloy, MONEL K-500, hot rolled;170;188;8.40E+03;8.55E+03
+Nickel-Cu-Nb alloy, M-30C, as cast;150;167;8.55E+03;8.70E+03
+Nickel-Cu-Si alloy, M-25S, age-hardened;155;175;8.25E+03;8.45E+03
+Nickel-Cu-Si alloy, M-25S, annealed;155;175;8.25E+03;8.45E+03
+Nickel-Cu-Si alloy, M-25S, as cast;155;175;8.25E+03;8.45E+03
+Nickel-Cu-Si alloy, M-30H, as cast;155;175;8.40E+03;8.60E+03
+Nickel-Fe-Cr alloy, D-979, bar;200;215;8.10E+03;8.30E+03
+Nickel-Fe-Cr alloy, HAYNES HR-120, annealed;192;202;7.87E+03;8.27E+03
+Nickel-Fe-Cr alloy, HW grade, aged;165;180;8.05E+03;8.20E+03
+Nickel-Fe-Cr alloy, HW grade, as cast;165;180;8.05E+03;8.20E+03
+Nickel-Fe-Cr alloy, HX grade, aged;165;180;8.05E+03;8.20E+03
+Nickel-Fe-Cr alloy, HX grade, as cast;165;180;8.05E+03;8.20E+03
+Nickel-Fe-Cr alloy, INCOLOY 800, annealed;190;200;7.85E+03;8.05E+03
+Nickel-Fe-Cr alloy, INCOLOY 800, cold drawn, bar;190;200;7.85E+03;8.05E+03
+Nickel-Fe-Cr alloy, INCOLOY 800, spring temper, wire;190;200;7.85E+03;8.05E+03
+Nickel-Fe-Cr alloy, INCOLOY 801, aged;200;215;7.85E+03;8.05E+03
+Nickel-Fe-Cr alloy, INCOLOY 801, annealed;200;215;7.85E+03;8.05E+03
+Nickel-Fe-Cr alloy, INCOLOY 825, annealed;190;200;8.05E+03;8.25E+03
+Nickel-Fe-Cr alloy, INCOLOY 840, annealed;192;201;7.91E+03;7.91E+03
+Nickel-Fe-Cr alloy, NIMONIC 942, bar;190;200;8.10E+03;8.30E+03
+Nickel-Fe-Cr alloy, NIMONIC PE11, bar;190;205;7.95E+03;8.10E+03
+Nickel-Fe-Cr alloy, NIMONIC PE16, bar;195;205;7.95E+03;8.10E+03
+Nickel-Fe-Cr alloy, PYROMET 860, bar;195;205;8.10E+03;8.30E+03
+Nickel-Fe-Cr alloy, UDIMET 630, bar;205;225;8.30E+03;8.50E+03
+Nickel-iron alloy, alloy 52, wrought (sealing alloy);158;166;8.30E+03;7.91E+03
+Nickel-iron alloy, INVAR, cold worked, hard;137;145;8.10E+03;8.20E+03
+Nickel-iron alloy, INVAR, soft (annealed);137;145;8.10E+03;8.20E+03
+Nickel-magnetic alloy, 45Ni-3Mo-Fe, soft;200;240;8.28E+03;8.28E+03
+Nickel-magnetic alloy, 45Ni-Fe, Alloy 1, cold rolled, soft;200;210;8.10E+03;8.25E+03
+Nickel-magnetic alloy, 45Ni-Fe, Alloy 1, soft (annealed);200;210;8.10E+03;8.25E+03
+Nickel-magnetic alloy, 49Ni-Fe, Alloy 2B, cold rolled, soft;200;210;8.15E+03;8.35E+03
+Nickel-magnetic alloy, 49Ni-Fe, Alloy 2B, soft (annealed);200;210;8.15E+03;8.35E+03
+Nickel-magnetic alloy, 75Ni-5Cu-2Cr-Fe, Alloy 3, soft (annealed);200;215;8.40E+03;8.60E+03
+Nickel-magnetic alloy, 78.5Ni-Fe, soft ;200;240;8.59E+03;8.59E+03
+Nickel-magnetic alloy, 79Ni-4Mo-Fe, Alloy 4, cold rolled, soft;220;240;8.65E+03;8.85E+03
+Nickel-magnetic alloy, 79Ni-4Mo-Fe, Alloy 4, soft (annealed);220;240;8.65E+03;8.85E+03
+Nickel-magnetic alloy, Alloy 2A, cold rolled, soft;200;210;8.15E+03;8.35E+03
+Nickel-Mo-Cr alloy, alloy 59, annealed;205;215;8.60E+03;8.59E+03
+Nickel-Mo-Cr alloy, CW-12MW, as cast;170;180;8.85E+03;9.05E+03
+Nickel-Mo-Cr alloy, CW-6M, as cast;160;170;8.90E+03;9.10E+03
+Nickel-Mo-Cr alloy, HASTELLOY C, as cast;170;180;8.85E+03;9.05E+03
+Nickel-Mo-Cr alloy, HASTELLOY C-22, annealed;206;207;8.63E+03;8.71E+03
+Nickel-Mo-Cr alloy, HASTELLOY C-276;200;210;8.80E+03;9.00E+03
+Nickel-Mo-Cr alloy, HASTELLOY C-4;207;215;8.60E+03;8.70E+03
+Nickel-Mo-Cr alloy, HASTELLOY N;210;225;8.85E+03;9.00E+03
+Nickel-Mo-Cr alloy, HASTELLOY S;208;216;8.65E+03;8.85E+03
+Nickel-Mo-Cr alloy, HASTELLOY W;225;245;8.95E+03;9.10E+03
+Nickel-molybdenum alloy, HASTELLOY B-2, plate;209;223;9.15E+03;9.30E+03
+Nickel-molybdenum alloy, HASTELLOY B-2, sheet;209;223;9.15E+03;9.30E+03
+Nickel-molybdenum alloy, N-12MV, as cast;180;195;9.20E+03;9.30E+03
+Nickel-molybdenum alloy, N-7M, as cast;180;195;9.20E+03;9.30E+03
+Nickel-titanium alloy wire, annealed, austenitic;41;75;6.43E+03;6.56E+03
+Nickel-titanium alloy wire, annealed, martensitic;28;41;6.43E+03;6.56E+03
+Nickel-titanium alloy, autensitic;41;83;6.41E+03;6.54E+03
+Nickel-titanium alloy, martensitic;28;41;6.41E+03;6.54E+03
+Nickel-tungsten alloy, MAR-M 200, as cast;215;225;8.45E+03;8.60E+03
+Nickel-tungsten alloy, MAR-M 200, directionally solidified;125;135;8.45E+03;8.60E+03
+Nickel-W-Co alloy, MAR-M 246, as cast;200;210;8.35E+03;8.55E+03
+Nickel-W-Co alloy, MAR-M 247, as cast;195;215;8.45E+03;8.60E+03
+Niobium carbide;320;340;7.47E+03;7.78E+03
+Niobium, commercial purity, Type 1 (reactor grade);100;110;8.60E+03;8.70E+03
+Niobium, commercial purity, Type 2 (commercial grade);100;110;8.60E+03;8.70E+03
+Niobium-Hf-Ti alloy, Alloy C-103, cold rolled;82;92;8.80E+03;8.95E+03
+Niobium-Hf-Ti alloy, Alloy C-103, recrystallized;82;92;8.80E+03;8.95E+03
+Niobium-Mo-V alloy, Alloy B-66;100;110;8.40E+03;8.50E+03
+Niobium-Ta-W alloy, Alloy Cb-132M;170;190;1.06E+04;1.08E+04
+Niobium-Ta-W alloy, Alloy SCb-291;130;150;9.50E+03;9.70E+03
+Niobium-W-Hf alloy, Alloy Cb-129Y;108;116;9.40E+03;9.60E+03
+Niobium-W-Zr alloy, Alloy Cb-752;106;114;8.95E+03;9.10E+03
+Niobium-zirconium alloy, NB-1Zr Type 3 (reactor grade);65;73;8.60E+03;8.70E+03
+Niobium-zirconium alloy, NB-1Zr Type 4 (commercial grade);65;73;8.60E+03;8.70E+03
+Nitrile rubber (NBR, 25-33% carbon black);0.0049;0.008;1.11E+03;1.12E+03
+Nitrile rubber (NBR, unreinforced);0.0018;0.0021;950;1.02E+03
+Nitrile rubber, carboxylated (XNBR, 25-33% carbon black);0.01;0.017;1.15E+03;1.18E+03
+Nitrile rubber, hydrogenated (HNBR);0.0018;0.0021;980;1.00E+03
+Nitrile rubber, hydrogenated (HNBR, 25-40% carbon black);0.0045;0.01;1.13E+03;1.22E+03
+PA (type 1010, molding & extrusion);1.16;1.2;1.05E+03;1.08E+03
+PA (type 11, flexible);0.35;0.36;1.04E+03;1.05E+03
+PA (type 11, rigid);1.06;1.33;1.02E+03;1.04E+03
+PA (type 11, semi-flexible);0.44;0.52;1.03E+03;1.04E+03
+PA (type 12, flexible);0.35;0.42;1.03E+03;1.04E+03
+PA (type 12, rigid);1.08;1.35;1.00E+03;1.02E+03
+PA (type 12, semi-flexible);0.44;0.55;1.02E+03;1.03E+03
+PA (type 46, 15% glass fiber);2.49;3.11;1.28E+03;1.30E+03
+PA (type 46, 15% glass fiber, flame retarded V-0);4.11;5.13;1.51E+03;1.54E+03
+PA (type 46, 30% glass fiber);5.34;6.66;1.42E+03;1.45E+03
+PA (type 46, 30% glass fiber, flame retarded V-0);7.12;8.88;1.62E+03;1.65E+03
+PA (type 46, 50% glass and mineral filled);8.29;10.3;1.63E+03;1.66E+03
+PA (type 46, 50% glass fiber);8.9;11.1;1.62E+03;1.65E+03
+PA (type 46, extrusion);0.89;1.11;1.17E+03;1.19E+03
+PA (type 46, general purpose);0.89;1.11;1.19E+03;1.21E+03
+PA (type 46, super-tough);0.534;0.666;1.08E+03;1.11E+03
+PA (type 6, 15% glass fiber);3.13;3.91;1.22E+03;1.24E+03
+PA (type 6, 25% glass fiber);3.8;4.75;1.25E+03;1.27E+03
+PA (type 6, 30% carbon fiber);12.9;16.1;1.26E+03;1.28E+03
+PA (type 6, 30% glass fiber, flame retarded);6.8;8.48;1.53E+03;1.56E+03
+PA (type 6, 30% glass fiber, impact modified);4.74;5.91;1.29E+03;1.31E+03
+PA (type 6, 30% long glass fiber);6.5;8.1;1.34E+03;1.37E+03
+PA (type 6, 30-35% glass fiber);5.34;6.66;1.34E+03;1.36E+03
+PA (type 6, 33% glass fiber, toughened);6.34;7.91;1.35E+03;1.38E+03
+PA (type 6, 40% glass fiber and mineral);4.28;5.33;1.43E+03;1.45E+03
+PA (type 6, 40% long glass fiber);8.28;10.3;1.44E+03;1.47E+03
+PA (type 6, 40% mineral);2.2;2.74;1.46E+03;1.49E+03
+PA (type 6, 50% glass fiber);9.5;11.8;1.56E+03;1.60E+03
+PA (type 6, 50% long glass fiber);10.9;13.5;1.54E+03;1.57E+03
+PA (type 6, cast);1.58;1.97;1.14E+03;1.16E+03
+PA (type 6, cast, heat stabilized);1.51;1.89;1.14E+03;1.16E+03
+PA (type 6, cast, oil-filled);1.29;1.61;1.12E+03;1.15E+03
+PA (type 6, cast, plasticized);1.2;1.5;1.09E+03;1.12E+03
+PA (type 6, cast, type 612 blend);1.98;2.47;1.12E+03;1.15E+03
+PA (type 6, molding and extrusion);0.944;1.18;1.13E+03;1.15E+03
+PA (type 6, MoS2 lubricated, anti-friction);0.979;1.22;1.12E+03;1.14E+03
+PA (type 6, toughened);0.782;0.976;1.07E+03;1.10E+03
+PA (type 6/66 copolymer);0.691;0.862;1.08E+03;1.10E+03
+PA (type 610, 30-40% glass fiber);5.74;7.16;1.33E+03;1.36E+03
+PA (type 610, unfilled);1.45;1.8;1.06E+03;1.08E+03
+PA (type 612, 10% PTFE, lubricated);1.49;1.86;1.10E+03;1.13E+03
+PA (type 612, 30% carbon fiber, 10% PTFE, lubricated);16;19.9;1.31E+03;1.34E+03
+PA (type 612, 30% glass fiber, 15% PTFE, lubricated);6.33;7.9;1.41E+03;1.44E+03
+PA (type 612, 30% glass fiber, flame retarded);8.96;11.2;1.29E+03;1.31E+03
+PA (type 612, 30-35% glass fiber);7.08;8.82;1.32E+03;1.34E+03
+PA (type 612, 33% glass fiber, toughened);5.86;7.31;1.25E+03;1.27E+03
+PA (type 612, molding);1.43;1.79;1.05E+03;1.07E+03
+PA (type 612, toughened);0.49;0.611;1.00E+03;1.02E+03
+PA (type 66, 10% stainless steel long fiber);1.74;2.17;1.23E+03;1.25E+03
+PA (type 66, 13-15% glass fiber);3.46;4.31;1.22E+03;1.24E+03
+PA (type 66, 15% nickel-coated carbon fiber);6.36;7.94;1.26E+03;1.28E+03
+PA (type 66, 20-25% glass fiber, flame retarded);5.84;7.28;1.44E+03;1.47E+03
+PA (type 66, 25-30% mineral filled, impact modified);1.54;1.91;1.35E+03;1.37E+03
+PA (type 66, 30% carbon fiber);17.8;22.2;1.27E+03;1.29E+03
+PA (type 66, 30% long glass fiber);5.9;7.36;1.36E+03;1.39E+03
+PA (type 66, 30-33% glass fiber);6.11;7.62;1.35E+03;1.38E+03
+PA (type 66, 30-33% glass fiber, flame retarded);7.11;8.87;1.51E+03;1.54E+03
+PA (type 66, 30-35% glass fiber, toughened);5.45;6.8;1.27E+03;1.29E+03
+PA (type 66, 40% glass and mineral);5.11;6.38;1.45E+03;1.48E+03
+PA (type 66, 40% long glass fiber);8.9;11.1;1.45E+03;1.47E+03
+PA (type 66, 40-45% mineral filled);3.61;4.51;1.48E+03;1.51E+03
+PA (type 66, 5% stainless steel long fiber);1.53;1.91;1.18E+03;1.20E+03
+PA (type 66, 50% glass fiber);10.9;13.6;1.56E+03;1.59E+03
+PA (type 66, 50% long glass fiber);10.5;13.1;1.55E+03;1.58E+03
+PA (type 66, 60% long glass fiber);12.5;15.5;1.65E+03;1.69E+03
+PA (type 66, flame retarded);1.63;2.04;1.15E+03;1.17E+03
+PA (type 66, lubricated, 10% PTFE);1.17;1.46;1.18E+03;1.20E+03
+PA (type 66, lubricated, 5% silicone);1.17;1.46;1.11E+03;1.14E+03
+PA (type 66, molding);1.33;1.65;1.13E+03;1.15E+03
+PA (type 66, MoS2 lubricated, anti-friction);1.54;1.91;1.15E+03;1.18E+03
+PA (type 66, toughened);0.939;1.17;1.06E+03;1.08E+03
+PA (type 69, unfilled);1.85;1.94;1.08E+03;1.10E+03
+PA transparent (blends with aliphatic PA, low Tg);1.54;1.91;1.01E+03;1.03E+03
+PA transparent (cycloaliphatic, microcrystalline);1.26;1.58;980;1.00E+03
+PA transparent (part-cycloaliphatic, amorphous, high Tg);2.05;2.55;1.00E+03;1.02E+03
+PA transparent (part-cycloaliphatic, amorphous, low Tg);1.74;2.16;1.03E+03;1.05E+03
+PA transparent (part-cycloaliphatic, amorphous, mid Tg);2.85;3.55;1.06E+03;1.08E+03
+PA transparent (semi-aromatic type 6-3-T, amorphous);2.94;3.66;1.10E+03;1.13E+03
+PA transparent (semi-aromatic type 6I/6T, amorphous);2.94;3.66;1.17E+03;1.19E+03
+PA12/E-glass fiber, 290gsm woven fabric composite, biaxial laminate;19.1;20;1.70E+03;1.80E+03
+PA6/E-glass fiber, 600gsm 80:20 woven fabric composite, biaxial laminate, 0� direction;28.6;31.6;1.80E+03;1.80E+03
+PA6/E-glass fiber, 600gsm 80:20 woven fabric composite, biaxial laminate, 90� direction;11.4;12.6;1.80E+03;1.80E+03
+PA6/E-glass fiber, 600gsm twill fabric composite, biaxial laminate;21.5;22.4;1.80E+03;1.80E+03
+PA6/PP (30-35% glass fiber);7.25;9.05;1.25E+03;1.27E+03
+PA66/E-glass fiber, 290gsm woven fabric composite, biaxial laminate;20.9;21.8;1.80E+03;1.80E+03
+PA66/E-glass fiber, 600gsm woven fabric composite, biaxial laminate;22.1;24.4;1.80E+03;1.80E+03
+PAI (30% carbon fiber);21.7;22.9;1.47E+03;1.50E+03
+PAI (30% glass fiber);10.5;11.1;1.59E+03;1.63E+03
+PAI (graphite and PTFE);6.6;7.8;1.46E+03;1.51E+03
+PAI (graphite and PTFE, high PV);9.46;9.94;1.58E+03;1.61E+03
+PAI (unfilled);4.78;5.02;1.40E+03;1.45E+03
+Palladium, commercial purity, P03980, cold worked, hard;118;124;1.20E+04;1.21E+04
+Palladium, commercial purity, P03980, soft (annealed);118;124;1.20E+04;1.21E+04
+Palladium, commercial purity, rolled, hard (electrical contact material);109;115;1.20E+04;1.21E+04
+Palladium, commercial purity, rolled, soft (electrical contact material);109;115;1.20E+04;1.21E+04
+Palladium-Ag-Cu alloy, hard (electrical contact alloy);108;112;1.08E+04;1.09E+04
+Palladium-Ag-Cu alloy, hard, wire, 1mm dia. (dental alloy);108;112;1.07E+04;1.09E+04
+Palladium-Ag-Cu alloy, soft (electrical contact alloy);108;112;1.08E+04;1.09E+04
+Palladium-Ag-Cu alloy, soft, wire, 1mm dia. (dental alloy);108;112;1.07E+04;1.09E+04
+Palladium-Ag-Cu-Au-Pt alloy, hard (electrical contact alloy);114;120;1.18E+04;1.19E+04
+Palladium-Ag-Cu-Au-Pt alloy, soft (electrical contact alloy);114;120;1.18E+04;1.19E+04
+Palladium-copper alloy, hard (electrical contact material);120;130;1.06E+04;1.07E+04
+Palladium-copper alloy, soft (electrical contact material);120;130;1.06E+04;1.07E+04
+Palladium-Jeneric Pentron NuGold 2% (dental alloy);70;80;9.55E+03;9.65E+03
+Palladium-ruthenium alloy, cold drawn, hard (jewellery alloy);138;144;1.20E+04;1.22E+04
+Palladium-ruthenium alloy, soft (annealed, jewellery alloy);138;144;1.20E+04;1.22E+04
+Palladium-silver alloy, hard (electrical contact material);95;110;1.13E+04;1.14E+04
+Palladium-silver alloy, soft (electrical contact material);95;110;1.13E+04;1.14E+04
+Particle board (flat pressed), parallel to board;1.6;3.5;450;750
+Particle board (flat pressed), perpendicular to board;1.2;2.7;450;750
+PAS (unfilled);2.14;2.65;1.29E+03;1.37E+03
+Pau marfim (l);18.5;22.7;810;990
+Pau marfim (t);4.32;4.82;810;990
+PB (adhesive resin);0.069;0.103;886;904
+PB (extrusion);0.207;0.276;910;925
+PB (film);0.202;0.212;900;918
+Pb-25%Al2O3 (f);96;97;9.49E+03;9.50E+03
+Pb-5%Al2O3 (f);24;25;1.10E+04;1.10E+04
+PBT (25% random glass mat);6.59;6.93;1.44E+03;1.46E+03
+PBT (30% carbon fiber);23.5;24.7;1.41E+03;1.42E+03
+PBT (30% glass fiber);8.96;10;1.48E+03;1.54E+03
+PBT (30% glass fiber, flame retarded);10.3;11.7;1.61E+03;1.65E+03
+PBT (30% long glass fiber);9.42;9.89;1.54E+03;1.58E+03
+PBT (35% glass fiber and mica);8.25;11;1.59E+03;1.74E+03
+PBT (35% random glass mat);8.74;9.19;1.57E+03;1.61E+03
+PBT (40% glass fiber);12.8;13.8;1.60E+03;1.65E+03
+PBT (40% long glass fiber);12.8;13.4;1.63E+03;1.67E+03
+PBT (40-45% glass and mineral);9.31;12.4;1.58E+03;1.74E+03
+PBT (50% glass fiber);16.6;17.5;1.71E+03;1.75E+03
+PBT (50% long glass fiber);12.8;13.4;1.73E+03;1.77E+03
+PBT (60% long glass fiber);14.1;14.8;1.85E+03;1.89E+03
+PBT (7-15% glass fiber, flame retarded);5.38;5.65;1.48E+03;1.53E+03
+PBT (general purpose);1.93;3;1.30E+03;1.38E+03
+PBT (general purpose, flame retarded);2.74;3.18;1.42E+03;1.46E+03
+PBT (impact modified);1.6;1.95;1.19E+03;1.30E+03
+PC (10% glass fiber);3.1;4.14;1.27E+03;1.28E+03
+PC (10% stainless steel fiber);3.36;3.53;1.26E+03;1.35E+03
+PC (10-15% PTFE, lubricated);2.29;2.4;1.26E+03;1.29E+03
+PC (20% carbon fiber);13.5;14.1;1.27E+03;1.29E+03
+PC (20% glass fiber, 10-15% PTFE);8.07;8.48;1.43E+03;1.50E+03
+PC (20-30% glass fiber, flame retarded);6.9;7.58;1.36E+03;1.45E+03
+PC (20-30% long glass fiber);8.27;10.3;1.34E+03;1.43E+03
+PC (30% glass fiber);8.62;9.65;1.40E+03;1.43E+03
+PC (30% glass fiber, 2% silicone);6.04;6.34;1.45E+03;1.47E+03
+PC (30% graphite fiber);14.5;15.2;1.32E+03;1.33E+03
+PC (30% PTFE, lubricated);3.09;3.24;1.38E+03;1.40E+03
+PC (35% random glass mat);7.4;7.77;1.38E+03;1.40E+03
+PC (40% carbon fiber);20.7;21.4;1.36E+03;1.38E+03
+PC (40% long glass fiber);11.4;12;1.50E+03;1.54E+03
+PC (50% long glass fiber);14.1;14.8;1.61E+03;1.65E+03
+PC (6% stainless steel fiber);2.76;2.9;1.27E+03;1.29E+03
+PC (copolymer, high-heat);2.21;2.4;1.14E+03;1.18E+03
+PC (high viscosity, molding and extrusion);2.32;2.44;1.19E+03;1.21E+03
+PC (low viscosity, molding and extrusion);2.32;2.44;1.19E+03;1.21E+03
+PC (low viscosity, molding and extrusion, flame retarded);2.29;2.31;1.19E+03;1.20E+03
+PC/Polyester transparent amorphous (general purpose);1.6;2.66;1.17E+03;1.20E+03
+PC/Polyester transparent amorphous (impact modified);1.5;1.7;1.16E+03;1.20E+03
+PC/Polyester transparent amorphous (optical quality);1.9;2.3;1.18E+03;1.20E+03
+PC/PPC (Unfilled);2.1;2.15;1.19E+03;1.20E+03
+PCL (unfilled);0.388;0.441;1.14E+03;1.15E+03
+PCT (15% glass fiber);5.45;5.72;1.32E+03;1.34E+03
+PCT (20% glass fiber, flame retarded);7.24;7.61;1.52E+03;1.56E+03
+PCT (27% glass fiber and mineral);7.91;8.32;1.42E+03;1.44E+03
+PCT (30% glass fiber);8.25;9.97;1.44E+03;1.46E+03
+PCT (30% glass fiber, flame retarded);9.73;10.2;1.60E+03;1.64E+03
+PCT (40% glass fiber and mineral);10.4;10.9;1.53E+03;1.57E+03
+PCT (40% glass fiber);11.3;11.9;1.51E+03;1.55E+03
+PCT (40% glass fiber, flame retarded);12.8;13.5;1.68E+03;1.72E+03
+PCTA (20% glass fiber);5.63;5.92;1.36E+03;1.38E+03
+PCTA (unfilled);1.65;1.96;1.20E+03;1.22E+03
+PCTFE (unfilled);1.21;1.27;2.08E+03;2.20E+03
+PCTG (unfilled);1.74;1.83;1.22E+03;1.24E+03
+PE (crosslinked, molding);1;1.4;920;1.24E+03
+PE (crosslinked, wire and cable grade);0.537;0.564;920;1.24E+03
+PE-HD (20-30% long glass fiber);5.52;6.21;1.09E+03;1.18E+03
+PE-HD (30% glass fiber);4.83;6.21;1.18E+03;1.28E+03
+PE-HD (general purpose, molding & extrusion);1.07;1.09;952;965
+PE-HD (high molecular weight);0.915;0.961;947;955
+PE-HD (low/medium molecular weight);0.621;0.896;939;960
+PE-LD (molding and extrusion);0.172;0.283;917;932
+PE-LLD (molding and extrusion);0.262;0.517;918;940
+PE-UHMW (molding and extrusion);0.894;0.963;931;949
+Pear (l);7.9;9.7;670;810
+Pear (t);2.43;2.72;670;810
+PEBA (Shore D25);0.012;0.0206;999;1.01E+03
+PEBA (Shore D40);0.0721;0.0739;1.00E+03;1.01E+03
+PEBA (Shore D55);0.145;0.349;996;1.08E+03
+PEBA (Shore D65);0.409;0.419;1.00E+03;1.02E+03
+PEEK (30% carbon fiber);12.8;24.1;1.42E+03;1.44E+03
+PEEK (30% glass fiber);8.62;11;1.49E+03;1.54E+03
+PEEK (unfilled);3.76;3.95;1.30E+03;1.32E+03
+PEEK-modified (30% carbon fiber);17.5;22.4;1.41E+03;1.43E+03
+PEEK-modified (30% glass fiber);9.85;10.1;1.52E+03;1.56E+03
+PEEK-modified (40% glass fiber);14.7;15.5;1.63E+03;1.67E+03
+PEEK-modified (unfilled);2.69;3.51;1.29E+03;1.31E+03
+PEEK-modified (wear grade);12.3;13.1;1.45E+03;1.48E+03
+PEEK-modified (wear grade, high load);32.8;34.4;1.51E+03;1.55E+03
+PEEK/IM carbon fiber, UD composite, 0� lamina;146;149;1.55E+03;1.57E+03
+PEEK/IM carbon fiber, UD composite, 90� lamina;8.8;9;1.55E+03;1.57E+03
+PEEK/IM carbon fiber, UD composite, quasi-isotropic laminate;56.1;57.1;1.55E+03;1.57E+03
+PEI (30% carbon fiber);17.9;22.8;1.39E+03;1.42E+03
+PEI (30% glass fiber);8.96;11;1.49E+03;1.51E+03
+PEI (unfilled);2.89;3.04;1.26E+03;1.28E+03
+PEI/PCE (20% glass fiber);7.61;7.8;1.42E+03;1.44E+03
+PEI/PCE (20% glass fiber, impact grade);6.18;7;1.41E+03;1.43E+03
+PEI/PCE (30% glass fiber);10.1;10.7;1.42E+03;1.50E+03
+PEI/PCE (30% glass fiber, impact grade);8.86;9.9;1.45E+03;1.47E+03
+PEI/PCE (50% glass fiber and mineral);14.6;15;1.67E+03;1.71E+03
+PEI/PCE (general purpose);2.9;3.08;1.25E+03;1.27E+03
+PEI/PCE (impact grade);1.93;2.42;1.20E+03;1.22E+03
+PEK (20% glass fiber);8.88;9.33;1.44E+03;1.46E+03
+PEK (20-30% carbon fiber);19.5;26;1.40E+03;1.44E+03
+PEK (30% carbon fiber);18.2;19.1;1.44E+03;1.46E+03
+PEK (30% glass fiber);9.72;12.1;1.47E+03;1.53E+03
+PEK (40% glass fiber);12.8;13.4;1.53E+03;1.57E+03
+PEK (40% glass fiber, modified);15.1;15.9;1.58E+03;1.62E+03
+PEK (unfilled);3.59;4.1;1.29E+03;1.31E+03
+PEKK (30% carbon fiber);27.5;28.1;1.35E+03;1.37E+03
+PEKK (30% glass fiber);11.8;12.6;1.49E+03;1.53E+03
+PEKK (40% carbon fiber);46.9;49.4;1.44E+03;1.46E+03
+PEKK (40% glass fiber);12.5;21.3;1.60E+03;1.62E+03
+PEKK (unfilled, amorphous);3.36;3.53;1.27E+03;1.29E+03
+PEKK (unfilled, semi-crystalline);4.29;4.52;1.30E+03;1.32E+03
+PEN (unfilled, amorphous);2.37;2.43;1.33E+03;1.39E+03
+Perfluoro elastomer (FFKM);0.00321;0.01;2.00E+03;2.04E+03
+Perfluoro elastomer (FFKM, carbon black);0.004;0.024;1.92E+03;2.00E+03
+Pernambuco (l);10.4;12.7;770;950
+Pernambuco (t);3.82;4.26;770;950
+Peroba de campos (l);12.1;14.8;690;840
+Peroba de campos (t);2.65;2.96;690;840
+Peroba rosa (l);10.4;12.8;740;900
+Peroba rosa (t);3.28;3.66;740;900
+PES (10% glass fiber);3.83;5.1;1.43E+03;1.45E+03
+PES (20% glass fiber);5.69;7.79;1.51E+03;1.53E+03
+PES (20% mineral filled);3.51;3.69;1.50E+03;1.54E+03
+PES (20-30% glass fiber);7.93;10.7;1.53E+03;1.60E+03
+PES (30% carbon fiber);14.6;20;1.47E+03;1.48E+03
+PES (30% carbon filled);11.7;12.3;1.51E+03;1.55E+03
+PES (30% glass fiber);10;10.5;1.56E+03;1.60E+03
+PES (extrusion/injection molding);2.76;2.9;1.36E+03;1.38E+03
+PES (general purpose);2.41;2.83;1.37E+03;1.46E+03
+PET (15% glass fiber);5.57;5.85;1.32E+03;1.34E+03
+PET (15% glass fiber, easy processing);3.52;3.7;1.38E+03;1.40E+03
+PET (15% glass fiber, flame retarded V-0 1/32);5.7;5.99;1.51E+03;1.55E+03
+PET (15-20% glass fiber, flame retarded);5.84;7.49;1.60E+03;1.63E+03
+PET (30% carbon fiber);24.2;25.4;1.41E+03;1.43E+03
+PET (30% glass fiber);8.96;9.93;1.55E+03;1.70E+03
+PET (30% glass fiber, recycled content);9.39;9.87;1.56E+03;1.60E+03
+PET (30% glass fiber. flame retarded);10.3;10.9;1.69E+03;1.73E+03
+PET (30% long glass fiber);11.4;12;1.59E+03;1.63E+03
+PET (35% glass fiber and mineral, recycled content);9.39;9.87;1.58E+03;1.62E+03
+PET (35% glass fiber, super toughened);6.71;7.05;1.50E+03;1.53E+03
+PET (35-45% glass fiber and mica);12.4;13.4;1.58E+03;1.74E+03
+PET (40% glass fiber. flame retarded);13.5;14.2;1.76E+03;1.80E+03
+PET (40% long glass fiber);14.1;14.8;1.68E+03;1.72E+03
+PET (40-45% glass fiber);12.4;13.4;1.58E+03;1.74E+03
+PET (45% glass fiber, recycled content);14.1;14.8;1.68E+03;1.72E+03
+PET (50% long glass fiber);16.1;17;1.83E+03;1.87E+03
+PET (60% long glass fiber);20.2;21.2;1.89E+03;1.93E+03
+PET (unfilled, amorphous);2.8;3;1.29E+03;1.39E+03
+PET (unfilled, semi-crystalline);2.76;3.1;1.37E+03;1.40E+03
+PETG (unfilled);2.01;2.11;1.26E+03;1.28E+03
+PF (casting resin);2.76;4.83;1.24E+03;1.32E+03
+PF (cellulose filled, impact modified, molding);6.19;8.94;1.38E+03;1.42E+03
+PF (cotton filled, impact modified, molding);7.58;9.65;1.38E+03;1.42E+03
+PF (fabric and rag filled, impact modified, molding);6.21;7.58;1.37E+03;1.45E+03
+PF (glass and/or mineral filled, heat resistant, molding);16.1;17;1.44E+03;1.84E+03
+PF (high strength glass fiber, molding);13.1;22.8;1.69E+03;2.00E+03
+PF (woodflour and mineral filled, molding);6.9;12.4;1.44E+03;1.56E+03
+PF (woodflour filled, molding);5.52;11.7;1.37E+03;1.46E+03
+PFA (unfilled);0.471;0.495;2.12E+03;2.17E+03
+PHA (unfilled);3.5;4;1.23E+03;1.25E+03
+Phenolic/E-glass fiber, woven fabric composite, biaxial lamina;27.2;39.4;1.70E+03;2.00E+03
+Phenolic/E-glass fiber, woven fabric composite, quasi-isotropic laminate;20.4;30.6;1.70E+03;2.00E+03
+PI (15% graphite);3.16;3.44;1.40E+03;1.42E+03
+PI (25% graphite);3.1;3.2;1.48E+03;1.52E+03
+PI (30% carbon fiber);20.2;21.2;1.42E+03;1.44E+03
+PI (30% carbon fiber, crystallized);21.5;22.6;1.46E+03;1.48E+03
+PI (30% glass fiber);11.6;12.2;1.54E+03;1.58E+03
+PI (40% glass fiber);13;13.4;1.62E+03;1.66E+03
+PI (40% graphite);4.6;5.06;1.63E+03;1.67E+03
+PI (50% glass fiber);13.3;14;1.60E+03;1.70E+03
+PI (thermoset);2.44;2.56;1.50E+03;1.80E+03
+PI (unfilled);2.07;2.76;1.33E+03;1.43E+03
+Plywood (3 ply, beech), parallel to face layer;6;9;700;800
+Plywood (3 ply, beech), perp. to face layer;3;4.5;700;800
+Plywood (5 ply, beech), parallel to face layer;5;8;700;800
+Plywood (5 ply, beech), perp. to face layer;3.4;5.1;700;800
+Plywood (7 ply, beech), parallel to face layer;4.5;6.5;700;800
+Plywood (7 ply, beech), perp. to face layer;3.8;5.7;700;800
+PMMA (cast sheet);2.7;2.9;1.18E+03;1.20E+03
+PMMA (heat resistant);2.41;3.8;1.16E+03;1.22E+03
+PMMA (impact modified);1.6;3.3;1.11E+03;1.18E+03
+PMMA (molding and extrusion);2.24;3.24;1.17E+03;1.20E+03
+PMMA/PC (unfilled);2.21;2.41;1.14E+03;1.16E+03
+PMP (10-30% glass fiber);2;4;1.00E+03;1.10E+03
+PMP (general purpose);1.1;1.93;826;842
+PMP (paper coating);1.27;1.34;825;841
+POE/POP (Ethylene-based, Shore A65);0.00858;0.0131;864;872
+POE/POP (Ethylene-based, Shore A80);0.0282;0.031;878;887
+POE/POP (Ethylene-based, Shore A90/D40);0.071;0.0825;900;909
+POE/POP (Propylene-based, Shore A80);0.032;0.035;859;888
+Polyarylamide (20% glass fiber, wear grade);7.2;8.98;1.50E+03;1.53E+03
+Polyarylamide (30% carbon fiber);22.5;28.1;1.33E+03;1.36E+03
+Polyarylamide (30% glass fiber);9.06;11.3;1.42E+03;1.45E+03
+Polyarylamide (40-45% mineral filled);15.1;18.8;1.59E+03;1.62E+03
+Polyarylamide (50% glass fiber);17.8;22.2;1.63E+03;1.66E+03
+Polyarylamide (50% glass fiber, flame retarded);17;21.2;1.75E+03;1.79E+03
+Polyarylamide (50% glass fiber, toughened);14.2;17.8;1.62E+03;1.65E+03
+Polyarylamide (55% glass and mineral filled);18.4;22.9;1.74E+03;1.78E+03
+Polyarylamide (60% glass fiber);20.5;25.5;1.77E+03;1.81E+03
+Polychloroprene (CR, 17-50% carbon black);0.0021;0.015;1.35E+03;1.50E+03
+Polychloroprene (CR, unreinforced);0.00165;0.0021;1.23E+03;1.30E+03
+Polyester (glass fiber, preformed, chopped glass);9.7;17.2;1.70E+03;2.10E+03
+Polyester (glass fiber, preformed, chopped roving);6.3;13.8;1.70E+03;2.10E+03
+Polyester BMC (10-20% glass fibre);9;14.4;1.70E+03;2.50E+03
+Polyester BMC (20-30% glass fibre);10.5;12.1;1.74E+03;1.99E+03
+Polyester BMC (7-10% glass fibre);5.5;11.7;1.76E+03;1.95E+03
+Polyester cast (flexible);0.293;0.308;1.01E+03;1.20E+03
+Polyester cast (rigid);2.07;4.41;1.04E+03;1.40E+03
+Polyester liquid crystal (15% glass fiber);12.5;13.1;1.50E+03;1.50E+03
+Polyester liquid crystal (30% carbon fiber);29;32.5;1.49E+03;1.51E+03
+Polyester liquid crystal (30% glass fiber);15.7;16.6;1.62E+03;1.63E+03
+Polyester liquid crystal (30% mineral filled);10.2;11.1;1.64E+03;1.64E+03
+Polyester liquid crystal (40% glass fiber);18.3;19.8;1.70E+03;1.71E+03
+Polyester liquid crystal (40% glass fiber/10% mineral);12.6;14.9;1.79E+03;1.82E+03
+Polyester liquid crystal (40% mineral filled);8.23;9.3;1.76E+03;1.87E+03
+Polyester liquid crystal (45% glass fiber);18.2;18.6;1.75E+03;1.78E+03
+Polyester liquid crystal (50% glass fiber);22;22.4;1.75E+03;1.78E+03
+Polyester liquid crystal (unfilled);15;15.4;1.40E+03;1.42E+03
+Polyester SMC (15% glass fiber, self-extinguishing);7.9;9.2;1.70E+03;1.90E+03
+Polyester SMC (20% glass fiber, self-extinguishing);8.4;9.8;1.70E+03;1.90E+03
+Polyester SMC (20% glass fiber, slow-burning);7.3;8.8;1.78E+03;1.80E+03
+Polyester SMC (25% glass fiber, self-extinguishing);8.2;9.9;1.60E+03;1.90E+03
+Polyester SMC (25% glass fiber, slow-burning);8;9;1.40E+03;1.80E+03
+Polyester SMC (30% glass fiber, self-extinguishing);9.5;11.6;1.65E+03;1.90E+03
+Polyester SMC (30% glass fiber, self-extinguishing, low resistivity);10.5;12.7;1.73E+03;2.09E+03
+Polyester SMC (30% glass fibre, slow-burning);10.5;11.5;1.58E+03;2.00E+03
+Polyester SMC (30% glass fibre, slow-burning, low density);6.36;7.7;1.27E+03;1.54E+03
+Polyester SMC (35% glass fibre, self-extinguishing);10;11.7;1.70E+03;1.90E+03
+Polyester SMC (40% glass fibre, self-extinguishing);10.7;12.5;1.75E+03;1.90E+03
+Polyester SMC (50% glass fiber, self-extinguishing);11.8;14.3;1.73E+03;2.09E+03
+Polyester SMC (50% glass fiber, slow-burning);11.8;14.3;1.73E+03;2.09E+03
+Polyester/45wt% E-glass fiber, woven fabric composite, biaxial laminate;13;19;1.50E+03;1.60E+03
+Polyester/65wt% E-glass fiber, woven fabric composite, biaxial laminate;17;25;1.80E+03;1.90E+03
+Polyester/E-glass fiber, filament wound composite, �60� laminate;15;16.5;2.02E+03;2.22E+03
+Polyester/E-glass fiber, non-crimp fabric composite, quasi-isotropic laminate;15.2;21.1;1.65E+03;1.78E+03
+Polyester/E-glass fiber, pultruded composite profile (UD fiber & CSM), 0� direction;17.2;17.9;1.66E+03;1.94E+03
+Polyester/E-glass fiber, pultruded composite profile (UD fiber & CSM), 90� direction;5.5;5.52;1.66E+03;1.94E+03
+Polyester/E-glass fiber, pultruded composite rod, unidirectional laminate;35;45;1.90E+03;2.10E+03
+Polyester/E-glass fiber, woven fabric composite, quasi-isotropic laminate;16.5;18.1;1.71E+03;1.89E+03
+Polyester/PC blend (30% glass fiber-reinforced);5.36;5.84;1.44E+03;1.51E+03
+Polyimide/HS carbon fiber, woven fabric composite, biaxial laminate;58.1;62.3;1.59E+03;1.63E+03
+Polyimide/HS carbon fiber, woven fabric composite, quasi-isotropic laminate;42.2;45.7;1.59E+03;1.63E+03
+Polyisoprene rubber (unreinforced);0.0017;0.0026;930;970
+Polysulphide rubber (TM, 30-35% carbon black);0.0025;0.008;1.25E+03;1.34E+03
+Polysulphide rubber (TM, unreinforced);0.0015;0.0021;1.25E+03;1.34E+03
+Polyurethane rubber (unfilled);0.0025;0.03;1.19E+03;1.21E+03
+POM (30% carbon fiber);9.08;9.54;1.43E+03;1.53E+03
+POM (40% long glass fiber);11.4;12;1.70E+03;1.74E+03
+POM (copolymer);2.6;3.2;1.39E+03;1.41E+03
+POM (copolymer, 10% carbon fiber, 10% PTFE);8.74;9.19;1.48E+03;1.50E+03
+POM (copolymer, 10-30% mineral);3.6;5.38;1.48E+03;1.64E+03
+POM (copolymer, 2% silicone, low wear);2.35;2.47;1.39E+03;1.41E+03
+POM (copolymer, 2-20% PTFE);2.13;2.48;1.39E+03;1.41E+03
+POM (copolymer, 25% glass fiber);8.62;9.65;1.58E+03;1.61E+03
+POM (copolymer, impact modified);2.76;2.9;1.29E+03;1.39E+03
+POM (copolymer, UV stabilized);2.5;2.9;1.40E+03;1.42E+03
+POM (homopolymer);2.76;3.59;1.41E+03;1.43E+03
+POM (homopolymer, 1.5% PTFE);3.03;3.18;1.41E+03;1.43E+03
+POM (homopolymer, 20% glass fiber);6.21;6.9;1.54E+03;1.58E+03
+POM (homopolymer, 20% glass fiber, UV stabilized);6.05;6.36;1.54E+03;1.58E+03
+POM (homopolymer, 20% PTFE);2.83;2.9;1.50E+03;1.54E+03
+POM (homopolymer, chemically lubricated);3.03;3.18;1.41E+03;1.43E+03
+POM (homopolymer, impact modified);1.31;2.41;1.32E+03;1.39E+03
+POM (homopolymer, UV stabilized);2.76;3.1;1.41E+03;1.43E+03
+POM (terpolymer, extrusion and blow-molding);2.35;2.47;1.40E+03;1.42E+03
+Poplar (l);9;11;430;530
+Poplar (t);0.66;0.74;430;530
+Porcelain (siliceous);68.2;71.8;2.26E+03;2.42E+03
+Potash lead glass;52.6;55.3;3.95E+03;3.99E+03
+Potash soda lead glass 10;60.4;63.5;2.76E+03;2.81E+03
+Potash soda lead glass 120;57.5;60.4;3.01E+03;3.08E+03
+Potash soda lead glass 138;57;61;2.99E+03;3.05E+03
+Potash soda lead glass 1990;56.5;59.4;3.46E+03;3.53E+03
+Potash soda lead glass 8160;57;61;2.95E+03;3.00E+03
+Potash soda zinc;72.1;75.8;2.54E+03;2.59E+03
+Potassium alumino silicate muscovite mica;138;207;2.60E+03;3.20E+03
+PP (10% carbon fiber);2.92;3.95;932;947
+PP (10-12% stainless steel fiber);1.39;1.47;991;1.02E+03
+PP (30% long glass fiber);5.23;6.85;1.10E+03;1.12E+03
+PP (30% random glass mat, homopolymer);4.51;4.74;1.09E+03;1.11E+03
+PP (40% long glass fiber);7.52;9.43;1.19E+03;1.23E+03
+PP (40% random glass mat, homopolymer);5.72;6.01;1.18E+03;1.20E+03
+PP (42% directionalized glass mat parallel, homopolymer);9.42;9.89;1.20E+03;1.22E+03
+PP (42% directionalized glass mat transverse, homopolymer);4.74;4.98;1.20E+03;1.22E+03
+PP (50% long glass fiber);10.4;11.7;1.32E+03;1.34E+03
+PP (65-70% barium sulfate);1.49;3.7;1.89E+03;2.01E+03
+PP (copolymer, 10% talc);1.07;1.27;956;977
+PP (copolymer, 20% calcium carbonate);1.11;1.43;1.04E+03;1.06E+03
+PP (copolymer, 20% glass fiber);2.58;3.36;1.02E+03;1.06E+03
+PP (copolymer, 20% talc);1.49;2.19;1.03E+03;1.08E+03
+PP (copolymer, 20% talc, flame retarded, 5VA);1.49;2.19;1.35E+03;1.45E+03
+PP (copolymer, 30% calcium carbonate);1.34;1.96;1.11E+03;1.15E+03
+PP (copolymer, 30% glass fiber);4.7;5.67;1.12E+03;1.14E+03
+PP (copolymer, 30% glass fiber, flame retarded 5VA);4.7;5.67;1.40E+03;1.50E+03
+PP (copolymer, 30% talc);1.78;2.84;1.12E+03;1.15E+03
+PP (copolymer, 40% calcium carbonate);1.47;1.88;1.22E+03;1.24E+03
+PP (copolymer, 40% talc);2.98;3.12;1.23E+03;1.25E+03
+PP (copolymer, clarified/nucleated);1.18;1.41;897;906
+PP (copolymer, conductive, 5% carbon powder);1.11;1.27;947;976
+PP (copolymer, high flow);1.03;1.23;895;909
+PP (copolymer, impact, 20% talc);1.18;1.32;1.03E+03;1.05E+03
+PP (copolymer, impact, 30% glass fiber);3.27;5.12;1.11E+03;1.13E+03
+PP (copolymer, impact, 40% talc);1.9;2.3;1.22E+03;1.25E+03
+PP (copolymer, impact, flame retarded HB);1.02;1.04;896;905
+PP (copolymer, impact, high flow);0.824;1.02;896;905
+PP (copolymer, impact, low flow);0.873;1.2;895;905
+PP (copolymer, low flow);1.02;1.23;897;906
+PP (copolymer, UV stabilized);1.23;1.26;899;909
+PP (homopolymer, 10% calcium carbonate);1.38;1.49;960;974
+PP (homopolymer, 10% glass fiber);3.31;3.73;942;1.04E+03
+PP (homopolymer, 10% mica);1.81;1.92;962;971
+PP (homopolymer, 10% talc);1.38;1.68;961;974
+PP (homopolymer, 20% calcium carbonate);1.58;1.82;1.04E+03;1.06E+03
+PP (homopolymer, 20% glass fiber);3.9;5.02;1.01E+03;1.08E+03
+PP (homopolymer, 20% mica);2.3;2.5;1.03E+03;1.05E+03
+PP (homopolymer, 20% talc);1.91;2.61;1.04E+03;1.07E+03
+PP (homopolymer, 30% calcium carbonate);1.82;2.11;1.13E+03;1.15E+03
+PP (homopolymer, 30% glass fiber);5.67;6.78;1.12E+03;1.14E+03
+PP (homopolymer, 30% talc);1.93;2.55;1.13E+03;1.15E+03
+PP (homopolymer, 40% calcium carbonate);2.15;2.53;1.22E+03;1.25E+03
+PP (homopolymer, 40% glass and mineral);4.69;5.8;1.23E+03;1.25E+03
+PP (homopolymer, 40% glass fiber);6.01;9.25;1.21E+03;1.23E+03
+PP (homopolymer, 40% talc);2.61;3.38;1.22E+03;1.25E+03
+PP (homopolymer, clarified/nucleated);1.6;1.78;900;909
+PP (homopolymer, flame retarded HB);1.27;1.6;898;911
+PP (homopolymer, flame retarded V-0);1.5;2.08;982;1.16E+03
+PP (homopolymer, high flow);1.37;1.58;898;908
+PP (homopolymer, low flow);1.34;1.59;899;908
+PPA (15% glass fiber);7.15;8.92;1.30E+03;1.33E+03
+PPA (15% glass fiber, flame retarded V-0);7.47;9.32;1.60E+03;1.63E+03
+PPA (33% glass fiber);10.9;13.6;1.46E+03;1.49E+03
+PPA (33% glass fiber, flame retarded V-0);11.3;14.2;1.65E+03;1.69E+03
+PPA (40% glass and mineral);9.49;11.8;1.49E+03;1.52E+03
+PPA (40% mineral);7.46;9.3;1.53E+03;1.57E+03
+PPA (45% glass fiber);15.4;19.3;1.63E+03;1.66E+03
+PPA (45% glass fiber, flame retarded V-0);16;20;1.79E+03;1.83E+03
+PPA (51% glass and mineral);13.4;16.7;1.65E+03;1.68E+03
+PPA (extra tough);2.05;2.55;1.10E+03;1.12E+03
+PPA (general purpose);1.64;2.04;1.13E+03;1.15E+03
+PPC (unfilled);2.02;2.33;1.19E+03;1.20E+03
+PPO/PA (unfilled);1.99;2.17;1.09E+03;1.11E+03
+PPO/PS alloy (15% glass fiber);3.09;3.44;1.19E+03;1.21E+03
+PPO/PS alloy (20% glass fiber);5.1;5.36;1.19E+03;1.21E+03
+PPO/PS alloy (20-30% mineral);2.92;3.09;1.24E+03;1.25E+03
+PPO/PS alloy (30% glass fiber);6.9;8.96;1.27E+03;1.36E+03
+PPO/PS alloy (30% graphite fiber);7.74;8.13;1.24E+03;1.26E+03
+PPO/PS alloy (40% aluminum flake);5.05;5.3;1.44E+03;1.46E+03
+PPO/PS alloy (high glass transition);2.45;2.62;1.04E+03;1.09E+03
+PPO/PS alloy (impact modified);2.38;2.48;1.27E+03;1.36E+03
+PPO/PS alloy (low glass transition);2.14;2.62;1.04E+03;1.10E+03
+PPS (10-20% glass fiber);5.86;8.27;1.39E+03;1.47E+03
+PPS (20% carbon fiber);17.2;17.9;1.38E+03;1.40E+03
+PPS (30% carbon fiber);17.2;25.5;1.42E+03;1.47E+03
+PPS (30% carbon fiber, 15% PTFE);24.2;25.4;1.46E+03;1.48E+03
+PPS (30% glass fiber);11.4;12;1.38E+03;1.58E+03
+PPS (30% glass fiber, 15% PTFE);9.01;9.47;1.58E+03;1.62E+03
+PPS (30% long glass fiber);12.1;12.7;1.52E+03;1.62E+03
+PPS (40% carbon fiber);30.3;33.1;1.46E+03;1.49E+03
+PPS (40% glass fiber);7.58;14.5;1.60E+03;1.67E+03
+PPS (40% long glass fiber);14.8;15.5;1.60E+03;1.64E+03
+PPS (50% glass fiber and mineral);15.4;16.5;1.78E+03;1.80E+03
+PPS (50% long glass fiber);17.5;18.4;1.70E+03;1.74E+03
+PPS (53% glass fiber and mineral, impact);15.4;16.2;1.78E+03;1.82E+03
+PPS (55% glass fiber and mineral);11.7;12.3;1.80E+03;1.84E+03
+PPS (60% glass fiber and mineral);19.9;20.9;1.90E+03;1.94E+03
+PPS (60% long glass fiber);20.2;21.2;1.82E+03;1.86E+03
+PPS (65% glass fiber and mineral filled);12.4;16.5;1.78E+03;2.03E+03
+PPS (encapsulation);10.6;11.1;1.84E+03;1.88E+03
+PPS (general purpose);3.23;3.39;1.34E+03;1.36E+03
+PPSU (unfilled);2.29;2.4;1.29E+03;1.30E+03
+Praseodymium, commercial purity, cast, soft;34;36;6.70E+03;6.85E+03
+Praseodymium, commercial purity, forged, hard;34;36;6.70E+03;6.85E+03
+Press hardening steel, 22MnB5, austenized & H20 quenched, coated;200;221;7.80E+03;7.90E+03
+Press hardening steel, 22MnB5, austenized & H20 quenched, uncoated;200;221;7.80E+03;7.90E+03
+Press hardening steel, 22MnB5, high ductility;200;221;7.80E+03;7.90E+03
+Primavera (l);7.1;8.7;440;540
+Primavera (t);0.72;0.8;440;540
+PS (20% glass fiber);6.21;8.27;1.19E+03;1.21E+03
+PS (30% glass fiber);8.27;8.96;1.28E+03;1.30E+03
+PS (general purpose, 'crystal');2.28;3.28;1.04E+03;1.05E+03
+PS (heat resistant);3.1;3.34;1.04E+03;1.05E+03
+PS (high impact);1.16;2.55;1.03E+03;1.06E+03
+PS (high impact, flame retarded);1.65;2.07;1.15E+03;1.17E+03
+PSU (10% glass fiber);4.5;4.7;1.30E+03;1.32E+03
+PSU (20% glass fiber);6.86;7.21;1.39E+03;1.41E+03
+PSU (30% carbon fiber);14.8;19.3;1.35E+03;1.40E+03
+PSU (30% glass fiber);9.31;10;1.46E+03;1.49E+03
+PSU (30-40% mineral filler);3.79;4.48;1.48E+03;1.61E+03
+PSU (extrusion and injection molding);2.62;2.76;1.23E+03;1.25E+03
+PSU (flame retarded);2.48;2.69;1.24E+03;1.25E+03
+PSU (modified, 10% mineral filler);2.69;2.83;1.29E+03;1.31E+03
+PSU (modified, 30% glass fiber);5.72;7.58;1.52E+03;1.54E+03
+PTFE (15% glass fiber);1.08;1.15;2.18E+03;2.22E+03
+PTFE (25% glass fiber);1.38;1.65;2.20E+03;2.30E+03
+PTFE (unfilled);0.4;0.552;2.14E+03;2.20E+03
+PUR (10-20% glass fiber, molding);3.4;6.2;1.22E+03;1.36E+03
+PUR (30% carbon fiber);3.36;3.53;1.32E+03;1.34E+03
+PUR (30% long glass fiber);7.4;7.77;1.42E+03;1.44E+03
+PUR (40% long glass fiber);10.1;10.6;1.50E+03;1.54E+03
+PUR (50% long glass fiber);14.1;14.8;1.61E+03;1.65E+03
+PUR (60% long glass fiber);15.9;17;1.74E+03;1.78E+03
+PUR (casting resin, unsaturated);4.09;4.3;1.04E+03;1.06E+03
+PUR (molding);1.31;2.07;1.12E+03;1.24E+03
+Purpleheart (l);15.5;18.9;750;910
+Purpleheart (t);3.42;3.81;750;910
+PVC (20% glass fiber, molding);4.69;6.69;1.43E+03;1.50E+03
+PVC (chlorinated, molding and extrusion);2.18;3.41;1.45E+03;1.56E+03
+PVC (flexible, Shore A60);0.003;0.0035;1.23E+03;1.24E+03
+PVC (flexible, Shore A65);0.006;0.007;1.29E+03;1.31E+03
+PVC (flexible, Shore A85);0.03;0.035;1.33E+03;1.34E+03
+PVC (rigid, high impact, molding and extrusion);2.2;3.1;1.29E+03;1.46E+03
+PVC (rigid, lead stabilized);2.29;2.4;1.38E+03;1.40E+03
+PVC (rigid, molding and extrusion);2.48;3.3;1.30E+03;1.49E+03
+PVC (semi-rigid, molding and extrusion);0.256;0.485;1.30E+03;1.32E+03
+PVC-elastomer (Shore A35);6.01E-04;9.38E-04;1.08E+03;1.12E+03
+PVC-elastomer (Shore A55);0.00286;0.00294;1.12E+03;1.17E+03
+PVC-elastomer (Shore A75);0.00872;0.0117;1.21E+03;1.26E+03
+PVC-elastomer (Shore A75, flame retarded);0.00356;0.00556;1.29E+03;1.32E+03
+PVC/PMMA (unfilled);2.34;2.55;1.26E+03;1.35E+03
+PVDC (copolymer, barrier film resin, plasticized);0.345;0.552;1.68E+03;1.72E+03
+PVDC (copolymer, barrier film resin, unplasticized);0.345;0.552;1.65E+03;1.70E+03
+PVDC (copolymer, injection);0.345;0.552;1.65E+03;1.72E+03
+PVDF (30% carbon fiber);18.8;19.8;1.72E+03;1.76E+03
+PVDF (copolymer, wire and cable jacketing);1;1.31;1.76E+03;1.77E+03
+PVDF (homopolymer, molding and extrusion);2;2.5;1.77E+03;1.78E+03
+Ramin (l);14.8;18.1;570;700
+Ramin (t);1.56;1.74;570;700
+Reactive powder concrete;28;32;2.50E+03;2.75E+03
+SB (stiffness);1.3;1.8;1.00E+03;1.02E+03
+SB (toughness);0.889;0.911;1.00E+03;1.02E+03
+SBS (Shore A50);0.00117;0.00183;936;1.02E+03
+SBS (Shore A70);0.00285;0.00445;930;996
+SBS (Shore A90/D40);0.0975;0.103;950;1.03E+03
+SBS (Shore D65);1.15;1.41;1.00E+03;1.02E+03
+Scandium, commercial purity, soft;74;80;2.95E+03;3.05E+03
+SEBS (Shore A35);6.01E-04;9.38E-04;870;973
+SEBS (Shore A50);0.00117;0.00183;876;940
+SEBS (Shore A65);0.00337;0.00354;873;1.03E+03
+SEBS (Shore A80);0.00445;0.00695;882;984
+SEBS (Shore A90/D40);0.00868;0.0108;1.02E+03;1.19E+03
+SEBS (Shore D50);0.016;0.025;903;974
+Selenium, commercial purity;9;11.5;4.75E+03;4.85E+03
+Sepetir (l);13.4;16.4;620;760
+Sepetir (t);2.01;2.24;620;760
+Shell;30;65;1.80E+03;2.10E+03
+Shorea (l);17.8;21.8;760;920
+Shorea (t);3.56;3.97;760;920
+Shorea-lauan-meranti (l) (ld);8.4;10.3;370;460
+Shorea-lauan-meranti (l) (md);12.1;14.8;510;630
+Shorea-lauan-meranti (t) (ld);0.43;0.48;370;460
+Shorea-lauan-meranti (t) (md);1.12;1.25;510;630
+Shorea-white-meranti (l);10.2;12.4;610;750
+Shorea-white-meranti (t);1.91;2.14;610;750
+Shorea-yellow-meranti (l);10.6;12.9;510;630
+Shorea-yellow-meranti (t);1.12;1.25;510;630
+Sialons (Si-Al-O-N ceramic);275;300;3.20E+03;3.30E+03
+SiC/SiC fiber, 35-45Vf quasi-isotropic laminate;179;259;2.30E+03;2.90E+03
+SiC/SiC fiber, 35-45Vf woven laminate;129;270;2.30E+03;2.90E+03
+Silica (96%);66.3;69.7;2.15E+03;2.20E+03
+Silica (fused);71.2;74.8;2.17E+03;2.22E+03
+Silica (quartz fused);72;74;2.17E+03;2.22E+03
+Silicon;140;180;2.28E+03;2.38E+03
+Silicon carbide (HIP);390;410;3.14E+03;3.21E+03
+Silicon carbide (hot pressed);350;410;3.11E+03;3.18E+03
+Silicon carbide (hot pressed) (commercial purity);437;459;3.18E+03;3.24E+03
+Silicon carbide (hot pressed)Contains 2% Al2O3;429;451;3.00E+03;3.20E+03
+Silicon carbide (nitride bonded);78;82;2.20E+03;2.70E+03
+Silicon carbide (reaction bonded);400;420;3.00E+03;3.17E+03
+Silicon carbide (reaction bonded)(RF);400;420;3.06E+03;3.13E+03
+Silicon carbide (sintered);390;410;3.00E+03;3.20E+03
+Silicon carbide (sintered, beta)(RB);439;461;3.08E+03;3.15E+03
+Silicon nitride (HIP);302;318;3.16E+03;3.23E+03
+Silicon nitride (hot pressed);302;318;3.11E+03;3.28E+03
+Silicon nitride (hot pressed) (commercial purity);288;302;3.15E+03;3.21E+03
+Silicon nitride (hot pressed)(5%MgO);302;318;3.10E+03;3.20E+03
+Silicon nitride (reaction bonded);170;220;2.40E+03;2.50E+03
+Silicon nitride (reaction bonded)(NR);166;174;2.37E+03;2.42E+03
+Silicon nitride (sintered);273;287;3.21E+03;3.28E+03
+Silicon nitride (sintered)(NS);283;297;3.21E+03;3.28E+03
+Silicone (VMQ, heat cured);0.005;0.05;1.02E+03;1.22E+03
+Silicone (VMQ, heat cured, low hardness);2.05E-04;2.15E-04;1.05E+03;1.07E+03
+Silicone (VMQ, thermally conductive);0.0075;0.018;2.15E+03;2.30E+03
+Silicone, phenyl-type (PVMQ, heat cured);0.005;0.05;1.12E+03;1.23E+03
+Silver amalgam;52;60;1.16E+04;1.17E+04
+Silver, Coin Silver, cold worked, hard (electrical contact alloy);70;80;1.03E+04;1.04E+04
+Silver, Coin Silver, soft (annealed, electrical contact alloy);70;80;1.03E+04;1.04E+04
+Silver, commercial purity, fine, cold worked, hard;69;73;1.05E+04;1.05E+04
+Silver, commercial purity, fine, soft (annealed);69;73;1.05E+04;1.05E+04
+Silver, commercial purity, Grade 99.9, cast (cold worked), hard, bar;70;74;1.05E+04;1.05E+04
+Silver, commercial purity, Grade 99.9, cast, soft (annealed), bar;70;74;1.05E+04;1.05E+04
+Silver, Jeneric Pentron C&B 20, hardened (dental alloy);105;115;1.12E+04;1.13E+04
+Silver, Jeneric Pentron C&B 20, quenched (dental alloy);95;105;1.12E+04;1.13E+04
+Silver, Jeneric Pentron C&B 40, hardened (dental alloy);105;115;1.24E+04;1.25E+04
+Silver, Jeneric Pentron C&B 40, quenched (dental alloy);95;105;1.24E+04;1.25E+04
+Silver, P07931, cold worked, hard, wire, 2.3mm dia. (Sterling);70;80;1.04E+04;1.05E+04
+Silver, P07931, soft (annealed), wire, 2.3mm dia. (Sterling);70;80;1.04E+04;1.05E+04
+Silver-copper alloy, eutectic, cold worked, hard;80;83;9.95E+03;1.01E+04
+Silver-copper alloy, eutectic, soft (annealed);80;83;9.95E+03;1.01E+04
+Silver-Cu-Ni alloy, hard (electrical contact alloy);83;87;1.00E+04;1.01E+04
+Silver-Cu-Ni alloy, soft (electrical contact alloy);83;87;1.00E+04;1.01E+04
+Silver-magnesium alloy, Type A (electrical contact alloy);81;85;1.05E+04;1.06E+04
+Silver-magnesium alloy, Type B (electrical contact alloy);81;85;1.05E+04;1.06E+04
+Silver-Mg-Ni alloy, ELKONIUM 63, hard (electrical contact alloy);81;85;1.05E+04;1.06E+04
+Silver-Mg-Ni alloy, ELKONIUM 63, soft (electrical contact alloy);81;85;1.05E+04;1.06E+04
+Silver-MgO-NiO alloy, CMW D63X, hard (electrical contact alloy);78;88;1.03E+04;1.04E+04
+Silver-nickel alloy, hard, wire, 10%Ni (electrical contact material);80;100;1.01E+04;1.03E+04
+Silver-nickel alloy, hard, wire, 15%Ni (electrical contact material);85;105;1.00E+04;1.02E+04
+Silver-nickel alloy, hard, wire, 30%Ni (electrical contact material);105;125;9.53E+03;9.96E+03
+Silver-nickel alloy, soft, wire, 10%Ni (electrical contact material);80;100;1.01E+04;1.03E+04
+Silver-nickel alloy, soft, wire, 15%Ni (electrical contact material);85;105;1.00E+04;1.02E+04
+Silver-nickel alloy, soft, wire, 30%Ni (electrical contact material);105;125;9.53E+03;9.96E+03
+SIS (Shore A30);4.60E-04;7.85E-04;915;924
+SIS (Shore A45);8.58E-04;0.0016;921;930
+SIS (Shore A60);0.00167;0.00285;929;940
+Slate;60;90;2.60E+03;2.90E+03
+SMA (12% glass fiber);3.95;4.47;1.13E+03;1.15E+03
+SMA (16% glass fiber);4.64;5.12;1.17E+03;1.19E+03
+SMA (20% glass fiber);5.17;5.52;1.21E+03;1.23E+03
+SMA (42% long glass fiber);13.5;14.1;1.44E+03;1.46E+03
+SMA (impact modified);1.86;3.38;1.05E+03;1.09E+03
+SMA (molding and extrusion);2.34;3.24;1.05E+03;1.08E+03
+SMMA (clarity, semi-tough);2.3;2.5;1.04E+03;1.06E+03
+SMMA (clarity, stiffness);3.2;3.4;1.07E+03;1.09E+03
+SMMA (clarity, tough);2.1;2.5;1.04E+03;1.06E+03
+SMMA (ethyl acrylate terpolymer);1.7;3;1.08E+03;1.11E+03
+SMMA (tough);2.07;2.13;1.04E+03;1.06E+03
+Soda barium borosilicate;70;74;2.33E+03;2.38E+03
+Soda barium glass;57.3;75.9;2.56E+03;2.61E+03
+Soda borosilicate;54.6;57.4;2.21E+03;2.26E+03
+Soda lime 70;68;72;2.47E+03;2.52E+03
+Soda lime 80;68.2;71.7;2.44E+03;2.49E+03
+Soda lime 91;68;72;2.45E+03;2.50E+03
+Soda zinc glass 2473;64.3;67.6;2.62E+03;2.67E+03
+Soda zinc glass 6720;68.2;71.7;2.55E+03;2.60E+03
+Soda-zirconia glass 7280;80.9;85;2.59E+03;2.64E+03
+Spanish-cedar (l);9.8;12;450;550
+Spanish-cedar (t);0.77;0.86;450;550
+Spinel;254;267;3.57E+03;3.72E+03
+Spruce (picea abies) (l);14.3;17.4;460;560
+Spruce (picea abies) (t);0.8;0.89;460;560
+Spruce (picea engelmannii) (l);8.9;10.8;350;430
+Spruce (picea engelmannii) (t);0.36;0.4;350;430
+Spruce (picea glauca) (l);9.8;11.9;360;440
+Spruce (picea glauca) (t);0.39;0.44;360;440
+Spruce (picea mariana) (l);11;13.4;420;520
+Spruce (picea mariana) (t);0.62;0.7;420;520
+Spruce (picea rubens) (l);11;13.4;400;490
+Spruce (picea rubens) (t);0.54;0.6;400;490
+Spruce (picea sitchensis) (l);10.7;13.1;400;490
+Spruce (picea sitchensis) (t);0.54;0.6;400;490
+SPS (10% carbon fiber);7.41;7.79;1.07E+03;1.09E+03
+SPS (10% glass fiber);4.97;5.33;1.09E+03;1.12E+03
+SPS (15% carbon fiber, 15% PTFE, 2% silicone);18.8;19.8;1.28E+03;1.30E+03
+SPS (15% glass fiber, 15% PTFE, 2% silicone);6.73;7.07;1.23E+03;1.25E+03
+SPS (20% carbon fiber);13.5;14.1;1.11E+03;1.13E+03
+SPS (20% glass fiber);5.9;8.3;1.14E+03;1.16E+03
+SPS (30% carbon fiber);19.5;20.5;1.16E+03;1.18E+03
+SPS (30% glass fiber);6.9;10.3;1.27E+03;1.29E+03
+SPS (30% glass fiber, 10% PTFE, 2% silicone);9.46;9.94;1.49E+03;1.52E+03
+SPS (30% glass fiber, 15% PTFE);9.46;9.94;1.26E+03;1.28E+03
+SPS (40% carbon fiber);23.5;24.7;1.23E+03;1.25E+03
+SPS (40% glass fiber);10;15.2;1.36E+03;1.38E+03
+SPS (40% glass fiber, 5% PTFE);11.4;12;1.41E+03;1.43E+03
+SPS(15% carbon fiber, 15% PTFE);18.8;19.8;1.28E+03;1.30E+03
+SRP (extrusion & compression molding);8.3;8.3;1.20E+03;1.22E+03
+Stainless steel, austenitic, 316Ti, wrought;195;205;7.91E+03;8.01E+03
+Stainless steel, austenitic, AISI 201, wrought, 1/2 hard;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 201, wrought, 1/4 hard;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 201, wrought, 3/4 hard;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 201, wrought, annealed;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 201, wrought, full hard;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 201L, wrought;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 201LN, wrought;193;201;7.78E+03;7.94E+03
+Stainless steel, austenitic, AISI 202, wrought, 1/2 hard;190;210;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 202, wrought, 1/4 hard;190;210;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 202, wrought, annealed;190;210;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 204-Cu, wrought, annealed;193;201;7.81E+03;7.81E+03
+Stainless steel, austenitic, AISI 205, wrought, annealed;193;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 216, wrought, annealed;190;201;7.70E+03;7.90E+03
+Stainless steel, austenitic, AISI 301, wrought, 1/2 hard;179;193;7.88E+03;7.96E+03
+Stainless steel, austenitic, AISI 301, wrought, 1/4 hard;186;196;7.88E+03;7.96E+03
+Stainless steel, austenitic, AISI 301, wrought, 3/4 hard;179;193;7.88E+03;7.96E+03
+Stainless steel, austenitic, AISI 301, wrought, annealed;200;210;7.88E+03;7.96E+03
+Stainless steel, austenitic, AISI 301, wrought, full hard;179;193;7.88E+03;7.96E+03
+Stainless steel, austenitic, AISI 301L, wrought;200;210;7.88E+03;7.96E+03
+Stainless steel, austenitic, AISI 302, wrought, annealed;189;197;7.81E+03;8.01E+03
+Stainless steel, austenitic, AISI 302, wrought, HT grade B;189;197;7.81E+03;8.01E+03
+Stainless steel, austenitic, AISI 302, wrought, HT grade C;189;197;7.81E+03;8.01E+03
+Stainless steel, austenitic, AISI 302, wrought, HT grade D;189;197;7.81E+03;8.01E+03
+Stainless steel, austenitic, AISI 303, wrought, annealed;192;200;7.90E+03;8.04E+03
+Stainless steel, austenitic, AISI 303, wrought, cold drawn;192;200;7.90E+03;8.04E+03
+Stainless steel, austenitic, AISI 304, wrought, 1/2 hard;190;203;7.85E+03;8.06E+03
+Stainless steel, austenitic, AISI 304, wrought, 1/4 hard;190;203;7.85E+03;8.06E+03
+Stainless steel, austenitic, AISI 304, wrought, 1/8 hard;190;203;7.85E+03;8.06E+03
+Stainless steel, austenitic, AISI 304, wrought, annealed;190;203;7.85E+03;8.06E+03
+Stainless steel, austenitic, AISI 304L, wrought;191;205;7.80E+03;8.01E+03
+Stainless steel, austenitic, AISI 304LN, wrought;195;205;7.90E+03;7.91E+03
+Stainless steel, austenitic, AISI 305, wrought, annealed;189;197;7.81E+03;8.01E+03
+Stainless steel, austenitic, AISI 308, wrought, annealed;189;197;7.80E+03;8.01E+03
+Stainless steel, austenitic, AISI 308L, wrought, annealed;189;197;7.80E+03;8.01E+03
+Stainless steel, austenitic, AISI 309, wrought, annealed;196;204;7.60E+03;8.00E+03
+Stainless steel, austenitic, AISI 310, wrought, annealed;196;204;7.84E+03;8.04E+03
+Stainless steel, austenitic, AISI 314, wrought, annealed;196;204;7.80E+03;8.00E+03
+Stainless steel, austenitic, AISI 316, wrought, annealed;189;205;7.87E+03;8.07E+03
+Stainless steel, austenitic, AISI 316L, wrought;190;205;7.87E+03;8.07E+03
+Stainless steel, austenitic, AISI 316LN, wrought;195;205;8.00E+03;8.00E+03
+Stainless steel, austenitic, AISI 317, wrought, annealed;189;197;7.87E+03;8.07E+03
+Stainless steel, austenitic, AISI 317L, wrought;196;204;7.87E+03;8.07E+03
+Stainless steel, austenitic, AISI 321, wrought;189;205;7.85E+03;8.05E+03
+Stainless steel, austenitic, AISI 330, wrought, annealed;192;200;7.90E+03;8.10E+03
+Stainless steel, austenitic, AISI 347, wrought;189;204;7.86E+03;7.97E+03
+Stainless steel, austenitic, ASTM CE-30, cast, as cast;168;176;7.62E+03;7.72E+03
+Stainless steel, austenitic, ASTM CE-30, cast, H2O quenched;168;176;7.62E+03;7.72E+03
+Stainless steel, austenitic, ASTM CF-12M, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-16F, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-20, cast;191;199;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-3, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-3A, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-3M, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-3MA, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-8, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-8A, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-8C, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CF-8M, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CG-8M, cast;189;197;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CH-10, cast;189;197;7.67E+03;7.77E+03
+Stainless steel, austenitic, ASTM CH-20, cast;189;197;7.67E+03;7.77E+03
+Stainless steel, austenitic, ASTM CK-20, cast;195;205;7.70E+03;7.80E+03
+Stainless steel, austenitic, ASTM CN-7M, cast;160;170;7.95E+03;8.05E+03
+Stainless steel, austenitic, ASTM CN-7MS, cast;160;170;7.95E+03;8.05E+03
+Stainless steel, austenitic, ASTM F1586, wrought, annealed, nitrogen strengthened;198;202;7.77E+03;7.99E+03
+Stainless steel, austenitic, ASTM F1586, wrought, medium hard, nitrogen strengthened;198;202;7.77E+03;7.99E+03
+Stainless steel, austenitic, BioDur 108, wrought, 10-20% cold worked;198;202;7.56E+03;7.72E+03
+Stainless steel, austenitic, BioDur 108, wrought, 30-40% cold worked;198;202;7.56E+03;7.72E+03
+Stainless steel, austenitic, BioDur 108, wrought, annealed;198;202;7.56E+03;7.72E+03
+Stainless steel, austenitic, BS315S16, wrought;189;204;7.82E+03;8.02E+03
+Stainless steel, austenitic, Nitronic 50, XM-19, wrought, annealed (nitrogen strengthened);192;197;7.74E+03;7.90E+03
+Stainless steel, austenitic, Nitronic 50, XM-19, wrought, cold drawn, wire (nitrogen strengthened);192;197;7.74E+03;7.90E+03
+Stainless steel, duplex, AISI 2205, wrought;195;205;7.80E+03;7.82E+03
+Stainless steel, duplex, AISI 329, wrought, annealed;189;204;7.70E+03;7.90E+03
+Stainless steel, duplex, ASTM CD-4MCu, cast;195;205;7.70E+03;7.80E+03
+Stainless steel, duplex, Ilium P, cast;193;204;7.55E+03;7.65E+03
+Stainless steel, duplex, Ilium PD, cast, H2O quenched;193;204;7.90E+03;8.00E+03
+Stainless steel, duplex, Ilium PD, cast, H2O quenched & aged;193;204;7.90E+03;8.00E+03
+Stainless steel, duplex, LDX2101, wrought;195;205;7.69E+03;7.76E+03
+Stainless steel, duplex, UNS S32003 (AL 2003) wrought;190;210;7.69E+03;7.76E+03
+Stainless steel, duplex, UNS S32550, wrought;195;205;7.73E+03;7.82E+03
+Stainless steel, duplex, UNS S32760, wrought;190;200;7.73E+03;7.82E+03
+Stainless steel, ferritic, AISI 405, wrought, annealed, low nickel;195;205;7.61E+03;7.82E+03
+Stainless steel, ferritic, AISI 409, wrought, annealed;195;205;7.61E+03;7.82E+03
+Stainless steel, ferritic, AISI 429, wrought, annealed;195;205;7.65E+03;7.85E+03
+Stainless steel, ferritic, AISI 430, wrought, annealed;195;205;7.62E+03;7.82E+03
+Stainless steel, ferritic, AISI 430F, wrought, annealed;195;205;7.62E+03;7.82E+03
+Stainless steel, ferritic, AISI 430FR, wrought, annealed;195;205;7.57E+03;7.77E+03
+Stainless steel, ferritic, AISI 434, wrought, annealed;195;205;7.59E+03;7.80E+03
+Stainless steel, ferritic, AISI 436, wrought, annealed;195;205;7.70E+03;7.90E+03
+Stainless steel, ferritic, AISI 442, wrought, annealed;195;205;7.70E+03;7.90E+03
+Stainless steel, ferritic, AISI 444, wrought, annealed;195;205;7.70E+03;7.90E+03
+Stainless steel, ferritic, AISI 446, wrought, annealed;195;205;7.40E+03;7.60E+03
+Stainless steel, ferritic, AL 29-4C, wrought;207;209;7.67E+03;7.70E+03
+Stainless steel, ferritic, ASTM CB-30, cast;196;204;7.45E+03;7.60E+03
+Stainless steel, ferritic, ASTM CC-50, cast, high nickel;196;204;7.45E+03;7.60E+03
+Stainless steel, ferritic, ASTM CC-50, cast, low nickel;196;204;7.45E+03;7.60E+03
+Stainless steel, martensitic, 15-5PH, cast, H935;197;207;7.77E+03;7.84E+03
+Stainless steel, martensitic, 15-5PH, wrought, H1025;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 15-5PH, wrought, H1075;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 15-5PH, wrought, H1100;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 15-5PH, wrought, H1150;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 15-5PH, wrought, H1150M;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 15-5PH, wrought, H900;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 15-5PH, wrought, H925;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 17-4PH, cast, aged at 900 to 925�C;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 17-4PH, cast, H1000;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 17-4PH, cast, H1100;197;207;7.82E+03;7.90E+03
+Stainless steel, martensitic, 17-4PH, wrought, H1025;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 17-4PH, wrought, H1075;197;207;7.79E+03;7.87E+03
+Stainless steel, martensitic, 17-4PH, wrought, H1100;197;207;7.82E+03;7.90E+03
+Stainless steel, martensitic, 17-4PH, wrought, H1150;197;207;7.82E+03;7.90E+03
+Stainless steel, martensitic, 17-4PH, wrought, H1150M;197;207;7.82E+03;7.90E+03
+Stainless steel, martensitic, 17-4PH, wrought, H900;197;207;7.77E+03;7.84E+03
+Stainless steel, martensitic, 17-4PH, wrought, H925;197;207;7.77E+03;7.84E+03
+Stainless steel, martensitic, 416S41, wrought;190;205;7.70E+03;7.90E+03
+Stainless steel, martensitic, 420S29, wrought;190;205;7.60E+03;7.80E+03
+Stainless steel, martensitic, AISI 403, wrought, annealed;195;205;7.61E+03;7.82E+03
+Stainless steel, martensitic, AISI 403, wrought, hard temper;195;205;7.61E+03;7.82E+03
+Stainless steel, martensitic, AISI 403, wrought, intermediate temper;195;205;7.61E+03;7.82E+03
+Stainless steel, martensitic, AISI 410, wrought, annealed;190;210;7.65E+03;7.85E+03
+Stainless steel, martensitic, AISI 410, wrought, hard temper;190;210;7.65E+03;7.85E+03
+Stainless steel, martensitic, AISI 410, wrought, intermediate temper;190;210;7.65E+03;7.85E+03
+Stainless steel, martensitic, AISI 410S, wrought, annealed;190;210;7.65E+03;7.85E+03
+Stainless steel, martensitic, AISI 414, wrought, intermediate temper;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 414L, wrought, annealed;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 418, wrought, tempered at 260�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 418, wrought, tempered at 649�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 420, wrought, tempered at 204�C;195;205;7.60E+03;7.80E+03
+Stainless steel, martensitic, AISI 420F, wrought;192;208;7.57E+03;7.94E+03
+Stainless steel, martensitic, AISI 431, wrought, annealed, wire;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 431, wrought, tempered at 260�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 431, wrought, tempered at 593�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 440A, wrought, annealed;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 440A, wrought, tempered at 316�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 440B, wrought, annealed;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 440B, wrought, tempered at 316�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 440C, wrought, annealed;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, AISI 440C, wrought, tempered at 316�C;190;210;7.70E+03;7.90E+03
+Stainless steel, martensitic, ASTM CA-15, cast, tempered at 315�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-15, cast, tempered at 595�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-15, cast, tempered at 650�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-15, cast, tempered at 790�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-40, cast, tempered at 315�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-40, cast, tempered at 595�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-40, cast, tempered at 650�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-40, cast, tempered at 760�C;195;205;7.56E+03;7.66E+03
+Stainless steel, martensitic, ASTM CA-6NM, cast;195;205;7.65E+03;7.75E+03
+Stainless steel, martensitic, ASTM CB-7Cu, cast, aged at 480�C;190;200;7.70E+03;7.80E+03
+Stainless steel, martensitic, ASTM CB-7Cu, cast, aged at 495�C;190;200;7.70E+03;7.80E+03
+Stainless steel, martensitic, ASTM CB-7Cu, cast, aged at 550�C;190;200;7.70E+03;7.80E+03
+Stainless steel, martensitic, ASTM CB-7Cu, cast, aged at 580�C;190;200;7.70E+03;7.80E+03
+Stainless steel, martensitic, ASTM CB-7Cu, cast, aged at 595�C;190;200;7.70E+03;7.80E+03
+Stainless steel, martensitic, ASTM CB-7Cu, cast, aged at 620�C;190;200;7.70E+03;7.80E+03
+Stainless steel, martensitic, Custom 450, wrought, H1000;200;210;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 450, wrought, H1050;200;210;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 450, wrought, H1100;200;210;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 450, wrought, H1150;200;210;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 450, wrought, H900;200;210;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 450, wrought, H950;200;210;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 450, wrought, ST;193;203;7.88E+03;7.96E+03
+Stainless steel, martensitic, Custom 455, wrought, H1000;199;209;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 455, wrought, H950;197;207;7.71E+03;7.79E+03
+Stainless steel, martensitic, Custom 465, wrought, H1000;193;201;7.71E+03;7.91E+03
+Stainless steel, martensitic, Custom 465, wrought, H950;194;204;7.75E+03;7.91E+03
+Stainless steel, martensitic, PH 13-8Mo, wrought, H1000;195;205;7.68E+03;7.76E+03
+Stainless steel, martensitic, PH 13-8Mo, wrought, H1025;195;205;7.68E+03;7.76E+03
+Stainless steel, martensitic, PH 13-8Mo, wrought, H1050;195;205;7.68E+03;7.76E+03
+Stainless steel, martensitic, PH 13-8Mo, wrought, H1100;195;205;7.68E+03;7.76E+03
+Stainless steel, martensitic, PH 13-8Mo, wrought, H1150;195;205;7.68E+03;7.76E+03
+Stainless steel, martensitic, PH 13-8Mo, wrought, H950;195;205;7.68E+03;7.76E+03
+Stainless steel, semi-austenitic, 17-7PH, wrought, TH1050;200;210;7.60E+03;7.68E+03
+Stainless steel, semi-austenitic, AM-350, wrought, SCT 850;200;210;7.77E+03;7.84E+03
+Stainless steel, semi-austenitic, AM-355, wrought, SCT 1000;200;210;7.77E+03;7.84E+03
+Stainless steel, semi-austenitic, AM-355, wrought, SCT 850;200;210;7.77E+03;7.84E+03
+Stainless steel, semi-austenitic, PH15-7Mo, wrought, TH1050;200;210;7.63E+03;7.71E+03
+Stainless steel, super-austenitic, alloy 20, wrought, annealed;192;201;8.08E+03;8.08E+03
+Stainless steel, super-austenitic, alloy 904L, wrought, annealed;191;197;7.95E+03;7.97E+03
+Steatite (general)(920);90;110;2.57E+03;2.62E+03
+Steatite (low loss)(908);98;102;2.75E+03;2.80E+03
+Steatite (MM);98;103;2.57E+03;2.63E+03
+Structural steel, S275N (Normalised);200;221;7.80E+03;7.90E+03
+Styrene butadiene rubber (SBR, 30% carbon black);0.0038;0.006;1.13E+03;1.15E+03
+Styrene butadiene rubber (SBR, unreinforced);0.002;0.01;940;961
+Ti-10%SiC(p);130;156;4.29E+03;4.31E+03
+Ti-10%TiC(p), powder met.;110;120;4.47E+03;4.51E+03
+Ti-20%TiC(p);139;158;4.52E+03;4.58E+03
+Ti-33%Sigma (f), unidirectional, longitudinal;200;210;4.10E+03;4.20E+03
+Ti-33%Sigma (f), unidirectional, transverse;150;155;4.10E+03;4.20E+03
+Ti-35%SiC(f), unidirectional, longitudinal;230;260;3.93E+03;3.93E+03
+Ti-35%SiC(f), unidirectional, transverse;152;210;3.93E+03;3.93E+03
+Ti-38%B4C(f), longitudinal;230;231;3.74E+03;3.74E+03
+Ti-38%B4C(f), transverse;141;142;3.74E+03;3.74E+03
+Ti-38%SiC(f), (0,90,0);156;170;4.15E+03;4.17E+03
+Ti-40%SiC(f), unidirectional, longitudinal;192;200;4.12E+03;4.14E+03
+Ti-40%SiC(f), unidirectional, transverse;120;125;4.12E+03;4.14E+03
+Ti-45%borsic(f), longitudinal;220;222;3.68E+03;3.68E+03
+Ti-45%borsic(f), transverse;190;191;3.68E+03;3.68E+03
+Ti-50%beryllium (f) hot pressed, longitudinal;190;194;3.13E+03;3.17E+03
+Ti-50%beryllium (f) hot pressed, transverse;160;165;3.13E+03;3.17E+03
+Ti-60%beryllium (f) hot pressed, longitudinal;175;180;2.85E+03;2.90E+03
+Ti-60%beryllium (f) hot pressed, transverse;150;155;2.85E+03;2.90E+03
+Tin, Babbitt Metal Alloy 1;45;55;7.25E+03;7.45E+03
+Tin, Babbitt Metal Alloy 2;48;56;7.30E+03;7.50E+03
+Tin, Babbitt Metal Alloy 3;55;65;7.35E+03;7.55E+03
+Tin, commercial purity, Grade A;41;45;7.28E+03;7.31E+03
+Tin, foil;50;60;7.20E+03;7.30E+03
+Tin, pewter, type 2 sheet alloy;51;55;7.20E+03;7.35E+03
+Tin-antimony alloy, L13950 (5%Sb solder);50;60;7.20E+03;7.30E+03
+Tin-antimony alloy, White Metal, 8%Sb;45;60;7.20E+03;7.35E+03
+Tin-lead alloy, die cast;45;55;7.70E+03;7.80E+03
+Tin-lead alloy, L13601 (60-40 solder);28;32;8.45E+03;8.60E+03
+Tin-lead alloy, L13631 (63-37 solder);30;40;8.35E+03;8.50E+03
+Tin-lead alloy, L13701 (70-30 solder);35;45;8.25E+03;8.40E+03
+Tin-silver alloy, L13965 (3.5%Ag solder);50;60;7.25E+03;7.33E+03
+Titanium carbide;420;450;4.81E+03;5.01E+03
+Titanium carbide (5.45)(nickel-bonded);400;430;5.40E+03;5.50E+03
+Titanium carbide (5.83)(nickel-bonded);370;389;5.77E+03;5.88E+03
+Titanium diboride;410;430;4.45E+03;4.54E+03
+Titanium dioxide;276;288;3.97E+03;4.05E+03
+Titanium silicate;66.3;69.7;2.18E+03;2.23E+03
+Titanium, alpha alloy, alpha two aluminide (25-10-3-1);119;129;4.56E+03;4.58E+03
+Titanium, alpha alloy, Ti-0.2Pd (Grade 7);100;105;4.51E+03;4.52E+03
+Titanium, alpha alloy, Ti-02Pd (Grade 11);100;105;4.50E+03;4.52E+03
+Titanium, alpha alloy, Ti-2.5Cu;105;120;4.55E+03;4.57E+03
+Titanium, alpha alloy, Ti-24Al-11Nb, alpha two aluminide (24-11);90;96;4.56E+03;4.58E+03
+Titanium, alpha alloy, Ti-5Al-2.5Sn-0.5Fe, annealed;107;112;4.46E+03;4.51E+03
+Titanium, alpha alloy, Ti-6Al-2Sn-4Zr-2Mo, duplex annealed;114;120;4.52E+03;4.56E+03
+Titanium, alpha alloy, Ti-6Al-2Sn-4Zr-2Mo, solution treated & aged;114;120;4.52E+03;4.56E+03
+Titanium, alpha alloy, Ti-6Al-2Sn-4Zr-2Mo, triplex annealed;114;120;4.52E+03;4.56E+03
+Titanium, alpha alloy, Ti-8Al-1Mo-1V, duplex annealed;121;127;4.35E+03;4.40E+03
+Titanium, alpha alloy, Ti-8Al-1Mo-1V, single annealed;121;127;4.35E+03;4.40E+03
+Titanium, alpha alloy, Ti-8Al-1Mo-1V, solution treated & stabilized;121;127;4.35E+03;4.40E+03
+Titanium, alpha-beta alloy, Ti-3Al-2.5V (Grade 9);91;95;4.47E+03;4.49E+03
+Titanium, alpha-beta alloy, Ti-3Al-5Mo, annealed;100;120;4.63E+03;4.73E+03
+Titanium, alpha-beta alloy, Ti-4.5Al-3V-2Fe-2Mo, annealed;103;106;4.53E+03;4.63E+03
+Titanium, alpha-beta alloy, Ti-6Al-2Sn-2Zr-2Mo, annealed;114;120;4.46E+03;4.55E+03
+Titanium, alpha-beta alloy, Ti-6Al-2Sn-2Zr-2Mo, solution treated & aged;113;124;4.46E+03;4.55E+03
+Titanium, alpha-beta alloy, Ti-6Al-2Sn-2Zr-2Mo, triplex aged;118;123;4.46E+03;4.55E+03
+Titanium, alpha-beta alloy, Ti-6Al-2Sn-4Zr-6Mo (6-2-4-6);113;115;4.64E+03;4.66E+03
+Titanium, alpha-beta alloy, Ti-6Al-4V, aged;111;119;4.42E+03;4.43E+03
+Titanium, alpha-beta alloy, Ti-6Al-4V, annealed;110;119;4.41E+03;4.45E+03
+Titanium, alpha-beta alloy, Ti-6Al-4V, cast;113;115;4.43E+03;4.43E+03
+Titanium, alpha-beta alloy, Ti-6Al-4V, solution treated & aged;110;117;4.41E+03;4.45E+03
+Titanium, alpha-beta alloy, Ti-6Al-6V-2Sn, air-cooled annealed;110;116;4.52E+03;4.56E+03
+Titanium, alpha-beta alloy, Ti-6Al-6V-2Sn, annealed;110;116;4.52E+03;4.56E+03
+Titanium, alpha-beta alloy, Ti-6Al-6V-2Sn, solution treated & aged;110;116;4.52E+03;4.56E+03
+Titanium, alpha-beta alloy, Ti-6Al-7Nb;100;110;4.51E+03;4.53E+03
+Titanium, beta alloy, Ti-10V-2Fe-3Al, solution treated & aged;110;116;4.63E+03;4.67E+03
+Titanium, beta alloy, Ti-12Mo-6Zr-2Fe;63.1;90.1;4.98E+03;5.00E+03
+Titanium, beta alloy, Ti-13V-11Cr-3Al, annealed;100;105;4.79E+03;4.84E+03
+Titanium, beta alloy, Ti-13V-11Cr-3Al, solution treated & aged;107;112;4.79E+03;4.84E+03
+Titanium, beta alloy, Ti-15Mo-3Al-3Nb, duplex aged;90.9;116;4.88E+03;4.99E+03
+Titanium, beta alloy, Ti-15Mo-3Al-3Nb, single aged;88.8;115;4.90E+03;4.96E+03
+Titanium, beta alloy, Ti-15V-3Cr-3Sn-3Al, annealed;108;113;4.75E+03;4.77E+03
+Titanium, beta alloy, Ti-15V-3Cr-3Sn-3Al, solution treated & aged;105;110;4.74E+03;4.78E+03
+Titanium, beta alloy, Ti-5Al-2Sn-4Mo-2Zn-4Cr (Ti-17);110;115;4.64E+03;4.65E+03
+Titanium, commercial purity, Grade 1;100;105;4.51E+03;4.52E+03
+Titanium, commercial purity, Grade 2;100;105;4.51E+03;4.52E+03
+Titanium, commercial purity, Grade 3;100;105;4.51E+03;4.52E+03
+Titanium, commercial purity, Grade 4;105;120;4.54E+03;4.55E+03
+Titanium, commercial purity, R50700, annealed;107;112;4.49E+03;4.53E+03
+Titanium, metastable-beta alloy, Ti-3Al-8V-6Cr-4Zr-4Mo;100;106;4.80E+03;4.82E+03
+Titanium, near-alpha alloy, Ti-0.3Mo-0.8Ni;100;105;4.50E+03;4.52E+03
+Titanium, near-alpha alloy, Ti-4Al-4Mo-2Sn;110;130;4.59E+03;4.61E+03
+Titanium, near-alpha alloy, Ti-5.5Al-3.5Sn-3Zr-1Nb;115;125;4.53E+03;4.55E+03
+Titanium, near-alpha alloy, Ti-5.5Al-3Sn-3Zr-0.5Nb;109;119;4.50E+03;4.60E+03
+Titanium, near-alpha alloy, Ti-5.8Al-4Sn-3.5Zr-0.7Nb;115;125;4.54E+03;4.56E+03
+Titanium, near-alpha alloy, Ti-6Al-2Sn-4Zr-2Mo (6-2-4-2);113;115;4.53E+03;4.55E+03
+Titanium, near-alpha alloy, Ti-6Al-4Zr-2.5Sn (Ti-1100);113;115;4.49E+03;4.51E+03
+Titanium, near-alpha alloy, Ti-6Al-5Zr-0.5Mo;125;125;4.44E+03;4.46E+03
+Titanium, near-beta alloy, Ti-13Nb-13Zr, solution treated & aged;76.2;81.6;4.65E+03;5.10E+03
+Titanium, three-phase alloy, Ti-11Sn-5Zr-2.5Al-1Mo;103;113;4.83E+03;4.84E+03
+Tool steel, AISI A10 (air-hardening cold work);206;217;7.60E+03;7.76E+03
+Tool steel, AISI A2 (air-hardening cold work);209;219;7.79E+03;7.94E+03
+Tool steel, AISI A3 (air-hardening cold work);205;215;7.92E+03;8.08E+03
+Tool steel, AISI A4 (air-hardening cold work);205;216;7.83E+03;7.99E+03
+Tool steel, AISI A6 (air-hardening cold work);205;216;7.77E+03;7.92E+03
+Tool steel, AISI A7 (air-hardening cold work);207;218;7.59E+03;7.74E+03
+Tool steel, AISI A8 (air-hardening cold work);208;218;7.80E+03;7.95E+03
+Tool steel, AISI A9 (air-hardening cold work);206;217;7.71E+03;7.86E+03
+Tool steel, AISI L2, annealed (special-purpose);204;214;7.79E+03;7.94E+03
+Tool steel, AISI L2, tempered at 205�C (special-purpose);204;214;7.79E+03;7.94E+03
+Tool steel, AISI L2, tempered at 650�C (special-purpose);204;214;7.79E+03;7.94E+03
+Tool steel, AISI L6, annealed (special-purpose);204;215;7.79E+03;7.94E+03
+Tool steel, AISI L6, tempered at 315�C (special-purpose);204;215;7.79E+03;7.94E+03
+Tool steel, AISI L6, tempered at 650�C (special-purpose);204;215;7.79E+03;7.94E+03
+Tool steel, AISI O1 (oil-hardening cold work);185;195;7.78E+03;7.93E+03
+Tool steel, AISI O2 (oil-hardening cold work);200;210;7.59E+03;7.74E+03
+Tool steel, AISI O6 (oil-hardening cold work);204;214;7.62E+03;7.77E+03
+Tool steel, AISI O7 (oil-hardening cold work);206;217;7.73E+03;7.88E+03
+Tool steel, AISI S1, annealed (shock-resisting);198;208;7.81E+03;7.96E+03
+Tool steel, AISI S1, tempered at 205�C (shock-resisting);198;208;7.81E+03;7.96E+03
+Tool steel, AISI S1, tempered at 650�C (shock-resisting);198;208;7.81E+03;7.96E+03
+Tool steel, AISI S2 (shock-resisting);204;215;7.72E+03;7.87E+03
+Tool steel, AISI S5, annealed (shock-resisting);205;215;7.69E+03;7.84E+03
+Tool steel, AISI S5, tempered at 205�C (shock-resisting);205;215;7.69E+03;7.84E+03
+Tool steel, AISI S5, tempered at 650�C (shock-resisting);205;215;7.69E+03;7.84E+03
+Tool steel, AISI S6 (shock-resisting);204;215;7.68E+03;7.83E+03
+Tool steel, AISI S7, annealed (shock-resisting);206;217;7.69E+03;7.84E+03
+Tool steel, AISI S7, tempered at 205�C (shock-resisting);206;217;7.69E+03;7.84E+03
+Tool steel, AISI S7, tempered at 650�C (shock-resisting);206;217;7.69E+03;7.84E+03
+Tool steel, AISI W1, annealed (water-hardening);204;214;7.77E+03;7.92E+03
+Tool steel, AISI W2, annealed (water-hardening);204;215;7.78E+03;7.93E+03
+Tool steel, AISI W5, annealed (water-hardening);204;215;7.73E+03;7.88E+03
+Tool steel, chromium alloy high carbon, AISI D2 (cold work);205;215;7.62E+03;7.78E+03
+Tool steel, chromium alloy high carbon, AISI D3 (cold work);205;216;7.62E+03;7.78E+03
+Tool steel, chromium alloy high carbon, AISI D4 (cold work);205;215;7.62E+03;7.78E+03
+Tool steel, chromium alloy high carbon, AISI D5 (cold work);205;215;7.62E+03;7.78E+03
+Tool steel, chromium alloy high carbon, AISI D7 (cold work);205;215;7.62E+03;7.78E+03
+Tool steel, chromium alloy, AISI H10 (hot work);208;218;7.74E+03;7.89E+03
+Tool steel, chromium alloy, AISI H11 (hot work);210;221;7.68E+03;7.83E+03
+Tool steel, chromium alloy, AISI H12 (hot work);208;219;7.93E+03;8.09E+03
+Tool steel, chromium alloy, AISI H13 (hot work);211;221;7.69E+03;7.84E+03
+Tool steel, chromium alloy, AISI H14 (hot work);211;222;7.82E+03;7.97E+03
+Tool steel, chromium alloy, AISI H19 (hot work);211;222;7.91E+03;8.06E+03
+Tool steel, low carbon, AISI P2 (mold);204;214;7.78E+03;7.94E+03
+Tool steel, low carbon, AISI P20 (mold);204;215;7.77E+03;7.93E+03
+Tool steel, low carbon, AISI P21 (mold);203;214;7.77E+03;7.93E+03
+Tool steel, low carbon, AISI P3 (mold);203;214;7.72E+03;7.88E+03
+Tool steel, low carbon, AISI P4 (mold);205;215;7.72E+03;7.88E+03
+Tool steel, low carbon, AISI P5 (mold);203;214;7.72E+03;7.88E+03
+Tool steel, low carbon, AISI P6 (mold);203;214;7.77E+03;7.93E+03
+Tool steel, molybdenum alloy, AISI M1 (high speed);219;231;7.82E+03;7.97E+03
+Tool steel, molybdenum alloy, AISI M10 (high speed);216;227;7.81E+03;7.96E+03
+Tool steel, molybdenum alloy, AISI M2, high carbon (high speed);222;234;8.08E+03;8.25E+03
+Tool steel, molybdenum alloy, AISI M2, regular carbon (high speed);221;232;8.08E+03;8.25E+03
+Tool steel, molybdenum alloy, AISI M3, class 1 (high speed);222;233;8.07E+03;8.24E+03
+Tool steel, molybdenum alloy, AISI M3, class 2 (high speed);220;231;8.08E+03;8.25E+03
+Tool steel, molybdenum alloy, AISI M30, class 2 (high speed);220;231;7.94E+03;8.10E+03
+Tool steel, molybdenum alloy, AISI M33 (high speed);221;233;7.96E+03;8.12E+03
+Tool steel, molybdenum alloy, AISI M34 (high speed);220;231;8.24E+03;8.41E+03
+Tool steel, molybdenum alloy, AISI M36 (high speed);221;232;8.10E+03;8.27E+03
+Tool steel, molybdenum alloy, AISI M4 (high speed);227;239;7.90E+03;8.05E+03
+Tool steel, molybdenum alloy, AISI M41 (high speed);220;231;8.09E+03;8.26E+03
+Tool steel, molybdenum alloy, AISI M42 (high speed);221;232;7.91E+03;8.06E+03
+Tool steel, molybdenum alloy, AISI M43 (high speed);221;232;8.36E+03;8.53E+03
+Tool steel, molybdenum alloy, AISI M44 (high speed);222;234;8.51E+03;8.68E+03
+Tool steel, molybdenum alloy, AISI M46 (high speed);220;231;7.74E+03;7.90E+03
+Tool steel, molybdenum alloy, AISI M47 (high speed);221;233;7.88E+03;8.04E+03
+Tool steel, molybdenum alloy, AISI M6 (high speed);218;229;8.42E+03;8.59E+03
+Tool steel, molybdenum alloy, AISI M7 (high speed);220;231;7.88E+03;8.03E+03
+Tool steel, tungsten alloy, AISI H21 (hot work);218;229;8.20E+03;8.37E+03
+Tool steel, tungsten alloy, AISI H22 (hot work);221;232;8.28E+03;8.45E+03
+Tool steel, tungsten alloy, AISI H23 (hot work);222;234;8.35E+03;8.52E+03
+Tool steel, tungsten alloy, AISI H24 (hot work);227;239;8.18E+03;8.35E+03
+Tool steel, tungsten alloy, AISI H25 (hot work);227;239;8.21E+03;8.37E+03
+Tool steel, tungsten alloy, AISI H26 (hot work);232;244;8.59E+03;8.76E+03
+Tool steel, tungsten alloy, AISI T1 (high speed);219;231;8.59E+03;8.76E+03
+Tool steel, tungsten alloy, AISI T15 (high speed);225;236;8.11E+03;8.28E+03
+Tool steel, tungsten alloy, AISI T2 (high speed);234;246;8.59E+03;8.76E+03
+Tool steel, tungsten alloy, AISI T4 (high speed);234;246;8.60E+03;8.77E+03
+Tool steel, tungsten alloy, AISI T5 (high speed);234;246;8.67E+03;8.84E+03
+Tool steel, tungsten alloy, AISI T6 (high speed);236;248;8.81E+03;8.98E+03
+Tool steel, tungsten alloy, AISI T8 (high speed);227;238;8.35E+03;8.52E+03
+Tornillo (l);11.6;14.2;500;620
+Tornillo (t);1.05;1.18;500;620
+TPC (Shore D40);0.0708;0.115;1.14E+03;1.18E+03
+TPC (Shore D50, Ecdel-type);0.11;0.184;1.13E+03;1.13E+03
+TPC (Shore D55);0.192;0.265;1.19E+03;1.23E+03
+TPC (Shore D55, flame retarded);0.231;0.401;1.18E+03;1.28E+03
+TPC (Shore D70);0.985;1.16;1.25E+03;1.29E+03
+TPO (PP+EP(D)M, 10-15% glass fiber);0.394;1.51;941;1.04E+03
+TPO (PP+EP(D)M, 10-20% mineral);1.26;1.75;979;1.03E+03
+TPO (PP+EP(D)M, 30-32% barium sulfate);0.116;0.184;1.20E+03;1.21E+03
+TPO (PP+EP(D)M, Shore A55);0.0057;0.00641;856;930
+TPO (PP+EP(D)M, Shore A75);0.0157;0.0249;865;893
+TPO (PP+EP(D)M, Shore A90/D40);0.178;0.236;889;907
+TPO (PP+EP(D)M, Shore D50);0.346;0.513;892;917
+TPO (PP+EP(D)M, Shore D60);0.685;0.795;894;917
+TPU (Ester, aromatic, 10% glass fiber);0.518;0.866;1.26E+03;1.29E+03
+TPU (Ester, aromatic, 20% glass fiber);0.938;1.84;1.35E+03;1.37E+03
+TPU (Ester, aromatic, 30% glass fiber);1;4.58;1.40E+03;1.44E+03
+TPU (Ester, aromatic, 40% glass fiber);2;13.2;1.43E+03;1.55E+03
+TPU (Ester, aromatic, Shore A70);0.0135;0.0141;1.15E+03;1.19E+03
+TPU (Ester, aromatic, Shore A85/D35);0.0285;0.0398;1.18E+03;1.21E+03
+TPU (Ester, aromatic, Shore D50);0.131;0.184;1.20E+03;1.23E+03
+TPU (Ester, aromatic, Shore D60);0.235;0.302;1.20E+03;1.25E+03
+TPU (Ether, aliphatic, 20% barium sulfate);0.565;0.861;1.30E+03;1.32E+03
+TPU (Ether, aliphatic, 40% barium sulfate);0.668;1.23;1.54E+03;1.55E+03
+TPU (Ether, aliphatic, Shore A80);0.0326;0.0334;1.07E+03;1.10E+03
+TPU (Ether, aliphatic, Shore D60);0.247;0.253;1.09E+03;1.11E+03
+TPU (Ether, aromatic, 20% barium sulfate);0.0305;0.207;1.33E+03;1.39E+03
+TPU (Ether, aromatic, Shore A85, flame retarded);0.0197;0.0275;1.12E+03;1.22E+03
+TPU (Ether, aromatic, Shore A85/D35);0.0204;0.021;1.11E+03;1.13E+03
+TPU (Ether, aromatic, Shore D45);0.0422;0.0546;1.13E+03;1.15E+03
+TPU (Ether, aromatic, Shore D55);0.148;0.152;1.14E+03;1.17E+03
+TPU (Ether, aromatic, Shore D65);0.247;0.253;1.17E+03;1.18E+03
+TPU (ether, aromatic, Shore D75);0.336;0.353;1.19E+03;1.21E+03
+TPV (PP+EP(D)M, Shore A40);0.00198;0.00203;943;977
+TPV (PP+EP(D)M, Shore A55);0.00464;0.00476;953;976
+TPV (PP+EP(D)M, Shore A55, flame retarded);0.00458;0.00482;1.19E+03;1.31E+03
+TPV (PP+EP(D)M, Shore A70);0.0158;0.0162;939;981
+TPV (PP+EP(D)M, Shore A70, flame retarded);0.0156;0.0164;1.23E+03;1.29E+03
+TPV (PP+EP(D)M, Shore A85);0.112;0.114;954;970
+TPV (PP+EP(D)M, Shore A85, flame retarded);0.11;0.116;1.24E+03;1.28E+03
+TPV (PP+EP(D)M, Shore A90/D40);0.123;0.127;935;956
+TPV (PP+EP(D)M, Shore A90/D40, flame retarded);0.122;0.128;1.23E+03;1.27E+03
+TPV (PP+EP(D)M, Shore D50);0.232;0.238;936;952
+TPV (PP+NBR, Shore A75);0.00356;0.00556;1.00E+03;1.02E+03
+TPV (PP+NBR, Shore A90/D40);0.00695;0.0108;970;990
+Transformation induced plasticity steel, YS400 (cold rolled);200;221;7.80E+03;7.90E+03
+Transformation induced plasticity steel, YS450 (cold rolled);191;231;7.80E+03;7.90E+03
+Tungsten carbide;600;670;1.53E+04;1.59E+04
+Tungsten carbide (hot pressed) (commercial purity);652;686;1.55E+04;1.59E+04
+Tungsten carbide-carbon (69.5);536;563;1.25E+04;1.28E+04
+Tungsten carbide-carbon (71.5);526;553;1.22E+04;1.25E+04
+Tungsten carbide-carbon (77.01);536;563;1.31E+04;1.34E+04
+Tungsten carbide-cobalt (72);468;492;1.26E+04;1.29E+04
+Tungsten carbide-cobalt (73);507;533;1.14E+04;1.17E+04
+Tungsten carbide-cobalt (74.8);448;471;1.28E+04;1.31E+04
+Tungsten carbide-cobalt (76);487;512;1.30E+04;1.33E+04
+Tungsten carbide-cobalt (76.5);546;574;1.29E+04;1.32E+04
+Tungsten carbide-cobalt (77);526;553;1.26E+04;1.29E+04
+Tungsten carbide-cobalt (77.02);526;553;1.31E+04;1.34E+04
+Tungsten carbide-cobalt (78);380;400;1.22E+04;1.25E+04
+Tungsten carbide-cobalt (79.8);484;509;1.33E+04;1.36E+04
+Tungsten carbide-cobalt (80);507;533;1.33E+04;1.36E+04
+Tungsten carbide-cobalt (83.5);604;635;1.33E+04;1.36E+04
+Tungsten carbide-cobalt (84.02);526;553;1.38E+04;1.41E+04
+Tungsten carbide-cobalt (84.2);556;584;1.38E+04;1.41E+04
+Tungsten carbide-cobalt (84.8);526;553;1.38E+04;1.41E+04
+Tungsten carbide-cobalt (85);546;574;1.38E+04;1.41E+04
+Tungsten carbide-cobalt (85.01);531;558;1.38E+04;1.41E+04
+Tungsten carbide-cobalt (86);575;604;1.38E+04;1.41E+04
+Tungsten carbide-cobalt (87);550;578;1.40E+04;1.43E+04
+Tungsten carbide-cobalt (87.2);585;615;1.41E+04;1.44E+04
+Tungsten carbide-cobalt (87.5);634;666;1.43E+04;1.46E+04
+Tungsten carbide-cobalt (88);565;594;1.40E+04;1.43E+04
+Tungsten carbide-cobalt (89.01);565;594;1.43E+04;1.46E+04
+Tungsten carbide-cobalt (89.02);556;584;1.42E+04;1.45E+04
+Tungsten carbide-cobalt (89.03);569;598;1.42E+04;1.45E+04
+Tungsten carbide-cobalt (90.01);578;608;1.43E+04;1.46E+04
+Tungsten carbide-cobalt (90.02);578;608;1.43E+04;1.46E+04
+Tungsten carbide-cobalt (90.21);614;645;1.45E+04;1.48E+04
+Tungsten carbide-cobalt (90.22);604;635;1.44E+04;1.47E+04
+Tungsten carbide-cobalt (91.01);614;645;1.44E+04;1.47E+04
+Tungsten carbide-cobalt (91.04);588;617;1.44E+04;1.47E+04
+Tungsten carbide-cobalt (92.01);606;637;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (92.02);606;637;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (92.03);588;617;1.44E+04;1.47E+04
+Tungsten carbide-cobalt (92.04);588;617;1.44E+04;1.47E+04
+Tungsten carbide-cobalt (93.01);614;645;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (93.02);614;645;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (93.03);606;637;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (93.04);606;637;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (93.2);624;656;1.45E+04;1.48E+04
+Tungsten carbide-cobalt (93.7);624;656;1.47E+04;1.50E+04
+Tungsten carbide-cobalt (94.01);634;666;1.47E+04;1.50E+04
+Tungsten carbide-cobalt (94.02);616;647;1.47E+04;1.50E+04
+Tungsten carbide-cobalt (94.03);668;713;1.48E+04;1.51E+04
+Tungsten carbide-cobalt (94.2);634;666;1.46E+04;1.49E+04
+Tungsten carbide-cobalt (95.01);625;657;1.48E+04;1.51E+04
+Tungsten carbide-cobalt (95.02);625;657;1.48E+04;1.51E+04
+Tungsten carbide-cobalt (96);653;686;1.50E+04;1.53E+04
+Tungsten carbide-cobalt (96.7);643;676;1.51E+04;1.54E+04
+Tungsten carbide-nickel (89.04);559;588;1.41E+04;1.44E+04
+Tungsten carbide-nickel (91.03);588;617;1.44E+04;1.47E+04
+Tungsten carbide-nickel (94.04);606;637;1.46E+04;1.49E+04
+Tungsten carbide-nickel/chrome (91.02);585;615;1.42E+04;1.45E+04
+Tungsten carbide-nickel/chrome (94.03);614;645;1.46E+04;1.49E+04
+Tungsten carbide-tantalum carbide (70);399;419;1.24E+04;1.27E+04
+Tungsten carbide-titanium carbide (56);468;492;1.00E+04;1.03E+04
+Tungsten carbide-titanium carbide (60.5);478;502;9.90E+03;1.01E+04
+Tungsten carbide-titanium carbide (69);517;543;1.11E+04;1.14E+04
+Tungsten carbide-titanium carbide (84.01);585;615;1.27E+04;1.30E+04
+Tungsten carbide-titanium carbide (85.02);446;469;1.29E+04;1.32E+04
+Tungsten, commercial purity, R07004, annealed;340;350;1.93E+04;1.94E+04
+Tungsten, commercial purity, R07004, wire;390;405;1.93E+04;1.94E+04
+Tungsten-copper alloy, Elkonite 50W3;270;338;1.71E+04;1.73E+04
+Tungsten-Cu-Ni alloy, ROSM WH8035F;245;255;1.52E+04;1.54E+04
+Tungsten-Ni-Cu alloy, CMW 1000;270;282;1.69E+04;1.70E+04
+Tungsten-Ni-Cu alloy, CMW 3950 (mallory heavy alloy);344;372;1.79E+04;1.83E+04
+Tungsten-Ni-Cu alloy, ROSM WH9075C;295;310;1.69E+04;1.72E+04
+Tungsten-Ni-Cu alloy, ROSM WH9570C (densamet heavy alloy);350;360;1.79E+04;1.81E+04
+Tungsten-Ni-Cu-Mo alloy;310;324;1.69E+04;1.70E+04
+Tungsten-Ni-Fe alloy, CMW 3000;310;360;1.70E+04;1.71E+04
+Tungsten-Ni-Fe alloy, ROSM WH9375F;325;355;1.75E+04;1.77E+04
+Tungsten-Ni-Fe alloy, ROSM WH9560F (densamet heavy alloy);370;375;1.80E+04;1.82E+04
+Tungsten-Ni-Fe alloy, ROSM WH9766F;365;395;1.84E+04;1.86E+04
+Tungsten-Ni-Mo-Fe alloy, Anviloy 1150;331;338;1.72E+04;1.73E+04
+Tungsten-rhenium alloy, W-25Re;369;431;1.96E+04;1.98E+04
+Tungsten-rhenium alloy, W-50Re;350;370;2.01E+04;2.02E+04
+Tungsten-rhenium alloy, wire;338;352;1.92E+04;1.94E+04
+Tupelo (nyssa aquatica) (l);8.6;10.5;500;620
+Tupelo (nyssa aquatica) (t);1.05;1.18;500;620
+Tupelo (nyssa sylvatica) (l);8.2;10;500;620
+Tupelo (nyssa sylvatica) (t);1.05;1.18;500;620
+Twinning induced plasticity steel, YS500 (cold rolled);200;221;7.80E+03;7.90E+03
+UF (alpha cellulose filler);6.9;10.3;1.47E+03;1.52E+03
+UF (woodflour filler);8.94;11;1.49E+03;1.52E+03
+Uranium, commercial purity, depleted;174;178;1.89E+04;1.91E+04
+Vanadium, commercial purity, annealed, wire;125;150;6.05E+03;6.15E+03
+Vanadium, commercial purity, cold worked, foil;125;150;6.05E+03;6.15E+03
+Waferboard, parallel to board;2.3;3.3;620;750
+Waferboard, perpendicular to board;1.8;2.5;620;750
+Ytterbium, commercial purity;17;18.5;6.90E+03;7.05E+03
+Yttrium, commercial purity, hard;64;68;4.40E+03;4.55E+03
+Yttrium, commercial purity, soft;64;68;4.40E+03;4.55E+03
+Zinc, commercial purity, High grade, min. 99.9%;90;110;7.13E+03;7.15E+03
+Zinc, commercial purity, Prime western, min. 98%;90;110;7.13E+03;7.15E+03
+Zinc, commercial purity, rolled;90;110;7.13E+03;7.15E+03
+Zinc, commercial purity, Special high grade, min. 99.99%;90;110;7.13E+03;7.15E+03
+Zinc, commercial purity, Type I (anode material);90;110;7.13E+03;7.15E+03
+Zinc, commercial purity, Type II (anode material);90;110;7.13E+03;7.15E+03
+Zinc, commercial purity, wire (thermal spraying);90;110;7.13E+03;7.15E+03
+Zinc-aluminum alloy, 85/15, wire (thermal spraying);70;90;5.70E+03;5.90E+03
+Zinc-aluminum alloy, Alloy 2, pressure die casting;82;86;6.55E+03;6.65E+03
+Zinc-aluminum alloy, Alloy 3, pressure die casting;81;85;6.55E+03;6.75E+03
+Zinc-aluminum alloy, Alloy 5, pressure die casting;90;94;6.65E+03;6.75E+03
+Zinc-aluminum alloy, Alloy 7, pressure die casting;80;95;6.55E+03;6.65E+03
+Zinc-aluminum alloy, Alloy A, slush casting;75;95;6.45E+03;6.65E+03
+Zinc-aluminum alloy, Alloy B, slush casting;75;95;6.40E+03;6.60E+03
+Zinc-aluminum alloy, Kirksite I (Alloy A), forming die;82;85;6.65E+03;6.75E+03
+Zinc-aluminum alloy, Kirksite II (Alloy B), forming die;78;88;6.50E+03;6.70E+03
+Zinc-aluminum alloy, Korloy 2573, wrought (forged);70;90;5.75E+03;5.85E+03
+Zinc-aluminum alloy, wire, 2%Al (solder);80;100;6.80E+03;7.00E+03
+Zinc-aluminum alloy, wire, 4%Al (solder);75;95;6.60E+03;6.80E+03
+Zinc-aluminum alloy, wrought (rolled), superplastic;68;93;5.18E+03;5.22E+03
+Zinc-aluminum alloy, ZA-12, general casting;81;85;5.98E+03;6.08E+03
+Zinc-aluminum alloy, ZA-27, general casting;75;84;4.95E+03;5.05E+03
+Zinc-aluminum alloy, ZA-27, wrought (extruded);75;85;5.45E+03;5.55E+03
+Zinc-aluminum alloy, ZA-8, general casting;84;88;6.25E+03;6.35E+03
+Zinc-copper alloy, wire (fastener);60;90;7.10E+03;7.20E+03
+Zinc-copper alloy, Z40330, wrought (rolled), 0.8%Cu;60;90;7.15E+03;7.18E+03
+Zinc-copper alloy, Z44330, wrought (rolled), 1%Cu;60;90;7.16E+03;7.18E+03
+Zinc-Cu-Mg alloy, Z45330, wrought (rolled);74;78;7.16E+03;7.19E+03
+Zinc-Cu-Ti alloy, ILZRO 16, pressure die casting;95;99;7.05E+03;7.15E+03
+Zinc-Cu-Ti alloy, Korloy 3130, wrought (forged);90;105;7.12E+03;7.14E+03
+Zinc-Cu-Ti alloy, wire (fastener);90;110;7.10E+03;7.20E+03
+Zinc-Cu-Ti alloy, Z41320, wrought (rolled);63;88;7.16E+03;7.20E+03
+Zinc-lead alloy, Z21210, wrought (rolled);90;110;7.13E+03;7.15E+03
+Zinc-Pb-Cd high alloy, Z21540, wrought (rolled);90;110;7.16E+03;7.18E+03
+Zinc-Pb-Cd low alloy, Z21220, wrought (rolled);90;110;7.13E+03;7.15E+03
+Zinc-Pb-Cd-Fe alloy, wrought (rolled);90;110;7.13E+03;7.15E+03
+Zirconia;135;141;6.03E+03;6.16E+03
+Zirconia (CSZ);156;164;5.94E+03;6.06E+03
+Zirconia (HTZ);210;220;6.08E+03;6.21E+03
+Zirconia (MgO / CaO stabilized);195;205;5.00E+03;5.80E+03
+Zirconia (MgO stabilized);195;205;5.68E+03;5.79E+03
+Zirconia (PSZ) (cerafine);195;205;5.99E+03;6.11E+03
+Zirconia (transformation toughened)(H);216;227;5.39E+03;5.61E+03
+Zirconia (transformation toughened)(L);239;254;5.59E+03;5.81E+03
+Zirconia (Y-TZP)(HIP);195;205;6.00E+03;6.13E+03
+Zirconia (Y2O3 stabilized);97.5;103;5.20E+03;5.90E+03
+Zirconia (yttria stabilized, transformation toughened);199;209;5.92E+03;6.04E+03
+Zirconia bio-ceramic;205;212;5.85E+03;5.90E+03
+Zirconium carbide;346;430;6.60E+03;6.73E+03
+Zirconium, commercial purity, R60001 (reactor grade);96;102;6.40E+03;6.60E+03
+Zirconium, commercial purity, Zr702, wrought (industrial grade);95;103;6.40E+03;6.60E+03
+Zirconium, commercial purity, Zr702C, cast (industrial grade);95;103;6.40E+03;6.60E+03
+Zirconium-niobium alloy, Zr-2.5Nb (reactor grade);90;105;6.40E+03;6.60E+03
+Zirconium-niobium alloy, Zr705, wrought, 2.5%Nb (industrial grade);92;100;6.55E+03;6.75E+03
+Zirconium-niobium alloy, Zr705C, cast, 2.5%Nb (industrial grade);92;100;6.55E+03;6.75E+03
+Zirconium-tin alloy, Zircaloy-2, 1.5%Sn (reactor grade);90;105;6.45E+03;6.65E+03
+Zirconium-tin alloy, Zr704, wrought, 1.5%Sn (industrial grade);92;100;6.50E+03;6.65E+03
+Zirconium-tin alloy, Zr704C, cast, 1.5%Sn (industrial grade);92;100;6.50E+03;6.65E+03
+Zn-50%SiC(p);220;221;4.10E+03;4.20E+03

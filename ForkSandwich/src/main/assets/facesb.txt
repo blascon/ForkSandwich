@@ -1,0 +1,10 @@
+9
+17%Co steel;199;209;8.35E+03;8.35E+03
+2024, T3 aluminum/aramid fiber, UD composite, 0° lamina;66.2;68.3;2.37E+03;2.39E+03
+2024, T3 aluminum/aramid fiber, UD composite, 90° lamina;48.3;55.8;2.37E+03;2.39E+03
+250 maraging steel, maraged at 482°C;183;192;7.88E+03;7.96E+03
+27Co-0.6Cr-Fe soft magnetic alloy;195;215;7.95E+03;7.95E+03
+2V-49Co-49Fe (high purity) soft magnetic alloy;195;215;8.12E+03;8.12E+03
+2V-49Co-49Fe soft magnetic alloy;195;215;8.12E+03;8.12E+03
+36%Co steel;199;209;8.18E+03;8.18E+03
+6%W steel;218;229;8.12E+03;8.12E+03
